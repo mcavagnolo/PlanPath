@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "deploy": "next build && gh-pages -d out"
+    "deploy": "next build && gh-pages -d out -t"
   },
   "dependencies": {
     "firebase": "^12.6.0",
