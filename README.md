@@ -1,6 +1,6 @@
-# PlanningPath
+# PlanPath
 
-PlanningPath is a browser-based tool that uses AI to check building plans against building code requirements.
+PlanPath is a browser-based tool that uses AI to check building plans against building code requirements.
 
 ## Features
 
