@@ -26,7 +26,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <header className="bg-white shadow-sm">
+      <header className="bg-[#fff9ea] shadow-sm">
         <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           <div className="flex items-center">
             <Image 
@@ -70,7 +70,7 @@ export default function Home() {
         </div>
       </main>
       
-      <footer className="bg-white border-t border-gray-200 mt-12">
+      <footer className="bg-[#fff9ea] border-t border-gray-200 mt-12">
         <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 flex flex-col items-center">
           <Image 
             src="/PlanPath/logos/PlanPath Logo.png" 
