@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Image from 'next/image';
 import UploadForm from '@/components/UploadForm';
 import ResultsDisplay from '@/components/ResultsDisplay';
 import { checkBuildingPlan, Conflict } from '@/lib/ai-check';
@@ -28,10 +29,14 @@ export default function Home() {
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           <div className="flex items-center">
-            <svg className="h-8 w-8 text-blue-600 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-            </svg>
-            <h1 className="text-2xl font-bold text-gray-900">PlanPath</h1>
+            <Image 
+              src="/PlanPath/logos/PlanPath Logo wName (Horizontal).png" 
+              alt="PlanPath Logo" 
+              width={200} 
+              height={50} 
+              className="h-12 w-auto"
+              priority
+            />
           </div>
           <nav>
             <a href="#" className="text-gray-500 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium">Documentation</a>
@@ -66,7 +71,14 @@ export default function Home() {
       </main>
       
       <footer className="bg-white border-t border-gray-200 mt-12">
-        <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 flex flex-col items-center">
+          <Image 
+            src="/PlanPath/logos/PlanPath Logo.png" 
+            alt="PlanPath Icon" 
+            width={32} 
+            height={32} 
+            className="h-8 w-8 mb-2"
+          />
           <p className="text-center text-sm text-gray-500">
             &copy; 2025 PlanPath. All rights reserved.
           </p>

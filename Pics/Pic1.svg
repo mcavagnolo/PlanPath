@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
-  <defs><style>.t{font:700 28px/1.1 Arial, sans-serif;fill:#0b3b5a}</style></defs>
-  <path d="M20 80 C100 20 180 20 260 80" fill="none" stroke="#0b3b5a" stroke-width="8" stroke-linecap="round"/>
-  <path d="M260 80 L240 62 L266 78 L242 98 Z" fill="#0b3b5a"/>
-  <text x="300" y="82" class="t">PlanPath</text>
-</svg>
-        

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
-  <defs><style>.t{font:700 28px/1.1 Arial, sans-serif;fill:#163b4c}</style></defs>
-  <g transform="translate(12,16)" fill="#0b778f">
-    <path d="M0 56 L28 28 L56 56 L84 28 L112 56 L124 44 L112 32 L84 60 L56 32 L28 60 Z"/>
-  </g>
-  <text x="140" y="82" class="t">PlanPath</text>
-</svg>

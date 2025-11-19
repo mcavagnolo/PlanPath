@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
-  <defs><style>.t{font:700 44px/1.1 Arial, sans-serif;fill:#212121}.accent{stroke:#007a9a;stroke-width:6;stroke-linecap:round;fill:none}</style></defs>
-  <text x="12" y="78" class="t">PlanPath</text>
-  <path d="M140 72 C220 20 340 20 420 72" class="accent"/>
-</svg>
