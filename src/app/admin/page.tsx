@@ -12,10 +12,69 @@ export default function AdminPage() {
   const [uploading, setUploading] = useState(false);
   const [message, setMessage] = useState('');
 
+  const [folderFiles, setFolderFiles] = useState<FileList | null>(null);
+
+  // Helper to determine hierarchy from path
+  const getHierarchyFromPath = (filePath: string) => {
+    const parts = filePath.split('/');
+    let state = 'California'; // Default based on user data
+    let county = 'General';
+    let city = 'General';
+
+    // Simple heuristic based on folder names provided by user
+    if (filePath.includes('California Building Code')) {
+      state = 'California';
+    }
+    if (filePath.includes('LA County')) {
+      county = 'Los Angeles';
+    }
+    if (filePath.includes('El Segundo')) {
+      city = 'El Segundo';
+    }
+
+    return { state, county, city };
+  };
+
+  const handleFolderUpload = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!folderFiles || folderFiles.length === 0) return;
+
+    setUploading(true);
+    setMessage(`Uploading ${folderFiles.length} files...`);
+
+    let successCount = 0;
+    let errorCount = 0;
+
+    for (let i = 0; i < folderFiles.length; i++) {
+      const file = folderFiles[i];
+      // webkitRelativePath gives us "Folder/Subfolder/file.ext"
+      const relativePath = file.webkitRelativePath || file.name;
+      
+      // Skip hidden files
+      if (file.name.startsWith('.')) continue;
+
+      const { state, county, city } = getHierarchyFromPath(relativePath);
+      const path = `knowledge-base/${state}/${county}/${city}/${file.name}`;
+      
+      try {
+        const storageRef = ref(storage, path);
+        await uploadBytes(storageRef, file);
+        successCount++;
+      } catch (error) {
+        console.error(`Failed to upload ${file.name}`, error);
+        errorCount++;
+      }
+    }
+
+    setMessage(`Upload complete: ${successCount} successful, ${errorCount} failed.`);
+    setUploading(false);
+    setFolderFiles(null);
+  };
+
   const handleUpload = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!file || !state) return;
-
+    // ... existing single file logic ...
     setUploading(true);
     setMessage('');
 
@@ -25,7 +84,6 @@ export default function AdminPage() {
       const storageRef = ref(storage, path);
       
       await uploadBytes(storageRef, file);
-      const url = await getDownloadURL(storageRef);
       
       setMessage(`Successfully uploaded ${file.name} to ${path}`);
       setFile(null);
@@ -39,9 +97,39 @@ export default function AdminPage() {
 
   return (
     <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl p-8">
-        <h1 className="text-2xl font-bold text-gray-900 mb-6">Knowledge Base Manager</h1>
-        <p className="text-gray-600 mb-6">Upload building codes and zoning documents to the hierarchical knowledge base.</p>
+      <div className="max-w-4xl mx-auto space-y-8">
+        
+        {/* Bulk Upload Section */}
+        <div className="bg-white rounded-xl shadow-md overflow-hidden p-8">
+          <h2 className="text-xl font-bold text-gray-900 mb-4">Bulk Upload Codes Folder</h2>
+          <p className="text-gray-600 mb-4">
+            Select the root "Codes" folder. The system will automatically map "California", "LA County", and "El Segundo" folders to the correct hierarchy.
+          </p>
+          <form onSubmit={handleFolderUpload} className="space-y-4">
+            <div>
+              <input
+                type="file"
+                // @ts-ignore - webkitdirectory is not standard but supported
+                webkitdirectory=""
+                directory=""
+                multiple
+                onChange={(e) => setFolderFiles(e.target.files)}
+                className="block w-full text-sm text-gray-500 file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-blue-50 file:text-blue-700 hover:file:bg-blue-100"
+              />
+            </div>
+            <button
+              type="submit"
+              disabled={uploading || !folderFiles}
+              className="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 disabled:bg-gray-400"
+            >
+              {uploading ? 'Uploading Folder...' : 'Upload All Files'}
+            </button>
+          </form>
+        </div>
+
+        {/* Single File Upload Section */}
+        <div className="bg-white rounded-xl shadow-md overflow-hidden p-8">
+          <h2 className="text-xl font-bold text-gray-900 mb-4">Single File Upload</h2>
         
         <form onSubmit={handleUpload} className="space-y-4">
           <div>
@@ -103,6 +191,7 @@ export default function AdminPage() {
             {message}
           </div>
         )}
+      </div>
       </div>
     </div>
   );
