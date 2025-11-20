@@ -2,9 +2,17 @@
 
 import { useState, useEffect } from 'react';
 import { fetchJurisdictionOptions } from '@/lib/jurisdiction';
+import { listDocumentsForJurisdiction } from '@/lib/ai-check';
 
 interface UploadFormProps {
-  onAnalyze: (file: File, location: string, buildingType: string, jurisdiction: { state: string, county: string, city: string }, apiKey: string) => void;
+  onAnalyze: (
+    file: File, 
+    location: string, 
+    buildingType: string, 
+    jurisdiction: { state: string, county: string, city: string }, 
+    apiKey: string,
+    selectedDocumentPath?: string
+  ) => void;
   isAnalyzing: boolean;
 }
 
@@ -19,6 +27,11 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
   const [county, setCounty] = useState('');
   const [city, setCity] = useState('');
 
+  // Document Selection State
+  const [availableDocuments, setAvailableDocuments] = useState<{ name: string, path: string, type: string }[]>([]);
+  const [selectedDocument, setSelectedDocument] = useState('');
+  const [loadingDocs, setLoadingDocs] = useState(false);
+
   const [jurisdictionOptions, setJurisdictionOptions] = useState({
     states: [] as string[],
     counties: [] as string[],
@@ -29,10 +42,26 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
     fetchJurisdictionOptions().then(setJurisdictionOptions);
   }, []);
 
+  // Fetch available documents when jurisdiction changes
+  useEffect(() => {
+    if (state || county || city) {
+      setLoadingDocs(true);
+      listDocumentsForJurisdiction({ state, county, city })
+        .then(docs => {
+          setAvailableDocuments(docs);
+          setSelectedDocument(''); // Reset selection
+        })
+        .catch(err => console.error("Error fetching docs:", err))
+        .finally(() => setLoadingDocs(false));
+    } else {
+      setAvailableDocuments([]);
+    }
+  }, [state, county, city]);
+
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (file && location && apiKey) {
-      onAnalyze(file, location, buildingType, { state, county, city }, apiKey);
+      onAnalyze(file, location, buildingType, { state, county, city }, apiKey, selectedDocument);
     } else if (!apiKey) {
       alert("Please enter your OpenAI API Key.");
     }
@@ -120,6 +149,37 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
           </select>
         </div>
       </div>
+
+      {/* Document Selection */}
+      {(state || county || city) && (
+        <div className="bg-blue-50 p-4 rounded-md border border-blue-100">
+          <label className="block text-sm font-medium text-blue-900 mb-2">
+            Select Specific Code Document (Optional)
+          </label>
+          <p className="text-xs text-blue-700 mb-2">
+            Select a specific document to check against. If none is selected, we will search across all available documents (which may be less accurate for large files).
+          </p>
+          
+          {loadingDocs ? (
+            <div className="text-sm text-gray-500">Loading available documents...</div>
+          ) : availableDocuments.length > 0 ? (
+            <select
+              value={selectedDocument}
+              onChange={(e) => setSelectedDocument(e.target.value)}
+              className="w-full px-4 py-2 border border-blue-200 rounded-md focus:ring-blue-500 focus:border-blue-500 text-sm"
+            >
+              <option value="">-- Check Against All (Auto-Detect) --</option>
+              {availableDocuments.map((doc) => (
+                <option key={doc.path} value={doc.path}>
+                  [{doc.type}] {doc.name}
+                </option>
+              ))}
+            </select>
+          ) : (
+            <div className="text-sm text-gray-500 italic">No specific documents found for this jurisdiction.</div>
+          )}
+        </div>
+      )}
 
       <div>
         <label className="block text-sm font-medium text-gray-700 mb-2">Building Plan (PDF/Image)</label>

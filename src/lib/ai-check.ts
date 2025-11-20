@@ -154,12 +154,52 @@ async function fetchDocumentsFromPath(path: string, keywords: string[]): Promise
   }
 }
 
+// Helper to list available documents for a jurisdiction
+export async function listDocumentsForJurisdiction(
+  jurisdiction: { state: string, county: string, city: string }
+): Promise<{ name: string, path: string, type: string }[]> {
+  const documents: { name: string, path: string, type: string }[] = [];
+
+  const paths = [
+    { type: 'State', path: `knowledge-base/State/${jurisdiction.state}` },
+    { type: 'County', path: `knowledge-base/County/${jurisdiction.county}` },
+    { type: 'City', path: `knowledge-base/City/${jurisdiction.city}` }
+  ];
+
+  for (const p of paths) {
+    if (!p.path.endsWith('/')) { // Basic check, though empty strings might be passed
+       try {
+         // Skip if the jurisdiction part is empty (e.g. no city selected)
+         const parts = p.path.split('/');
+         if (!parts[2]) continue; 
+
+         const folderRef = ref(storage, p.path);
+         const res = await listAll(folderRef);
+         
+         res.items.forEach(item => {
+           documents.push({
+             name: item.name,
+             path: item.fullPath,
+             type: p.type
+           });
+         });
+       } catch (error) {
+         // Ignore errors (e.g. folder doesn't exist)
+         console.log(`No documents found for ${p.type} at ${p.path}`);
+       }
+    }
+  }
+
+  return documents;
+}
+
 export async function checkBuildingPlan(
   file: File,
   location: string,
   buildingType: string,
   jurisdiction?: { state: string, county: string, city: string },
-  apiKey?: string
+  apiKey?: string,
+  selectedDocumentPath?: string
 ): Promise<Conflict[]> {
   
   if (!apiKey) {
@@ -190,7 +230,32 @@ export async function checkBuildingPlan(
     console.log("Using keywords for filtering:", keywords);
 
     // Fetch actual code documents
-    if (jurisdiction) {
+    if (selectedDocumentPath) {
+       console.log(`Fetching selected document: ${selectedDocumentPath}`);
+       // Fetch ONLY the selected document
+       // We can reuse fetchDocumentsFromPath but we need to pass the folder path and maybe filter?
+       // Actually fetchDocumentsFromPath takes a folder path. 
+       // Let's create a helper to fetch a single file or just use getBytes directly here.
+       
+       try {
+         const fileRef = ref(storage, selectedDocumentPath);
+         const bytes = await getBytes(fileRef);
+         let text = "";
+         if (selectedDocumentPath.toLowerCase().endsWith('.pdf')) {
+            // Still use keyword filtering for the single large PDF
+            text = await extractTextFromPdf(bytes, keywords);
+         } else {
+            text = new TextDecoder().decode(bytes);
+            text = text.substring(0, 20000); // Larger limit for single file
+         }
+         
+         jurisdictionContext += `\n\nREFERENCE BUILDING CODES (Selected Document: ${fileRef.name}):\n${text}`;
+       } catch (err) {
+         console.error("Error reading selected document:", err);
+         jurisdictionContext += `\n\n(Error reading selected document. Using general knowledge.)`;
+       }
+
+    } else if (jurisdiction) {
       console.log("Fetching jurisdiction documents...");
       const stateDocs = jurisdiction.state ? await fetchDocumentsFromPath(`knowledge-base/State/${jurisdiction.state}`, keywords) : "";
       const countyDocs = jurisdiction.county ? await fetchDocumentsFromPath(`knowledge-base/County/${jurisdiction.county}`, keywords) : "";

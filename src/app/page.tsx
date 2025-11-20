@@ -118,7 +118,8 @@ export default function Home() {
     location: string, 
     buildingType: string, 
     jurisdiction: { state: string, county: string, city: string },
-    apiKey: string
+    apiKey: string,
+    selectedDocumentPath?: string
   ) => {
     setIsAnalyzing(true);
     setConflicts(null);
@@ -132,7 +133,7 @@ export default function Home() {
       await uploadBytes(planRef, file);
 
       // 2. Run Analysis
-      const results = await checkBuildingPlan(file, location, buildingType, jurisdiction, apiKey);
+      const results = await checkBuildingPlan(file, location, buildingType, jurisdiction, apiKey, selectedDocumentPath);
       setConflicts(results);
 
       // 3. Generate PDF Report
