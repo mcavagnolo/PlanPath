@@ -16,6 +16,37 @@ const toBase64 = (file: File) => new Promise<string>((resolve, reject) => {
   reader.onerror = error => reject(error);
 });
 
+// Helper to convert first page of PDF to Image (Base64)
+async function convertPdfToImage(file: File): Promise<string> {
+  try {
+    const arrayBuffer = await file.arrayBuffer();
+    const pdfjsLib = await import('pdfjs-dist');
+    
+    if (!pdfjsLib.GlobalWorkerOptions.workerSrc) {
+      pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/pdf.worker.min.js`;
+    }
+
+    const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+    const page = await pdf.getPage(1); // Get first page
+    
+    const viewport = page.getViewport({ scale: 1.5 });
+    const canvas = document.createElement('canvas');
+    const context = canvas.getContext('2d');
+    
+    if (!context) throw new Error("Canvas context not available");
+    
+    canvas.height = viewport.height;
+    canvas.width = viewport.width;
+
+    await page.render({ canvasContext: context, viewport: viewport }).promise;
+    
+    return canvas.toDataURL('image/jpeg');
+  } catch (error) {
+    console.error("Error converting PDF to image:", error);
+    throw new Error("Failed to convert PDF plan to image.");
+  }
+}
+
 // Helper to extract text from a PDF file (ArrayBuffer)
 async function extractTextFromPdf(data: ArrayBuffer): Promise<string> {
   try {
@@ -102,13 +133,15 @@ export async function checkBuildingPlan(
     dangerouslyAllowBrowser: true
   });
   
-  // Basic validation for file type
-  if (file.type === 'application/pdf') {
-    console.warn("PDF upload detected. AI Vision works best with Images (PNG/JPG).");
-  }
-
   try {
-    const base64Image = await toBase64(file);
+    let base64Image = "";
+    
+    if (file.type === 'application/pdf') {
+      console.log("Converting PDF plan to image...");
+      base64Image = await convertPdfToImage(file);
+    } else {
+      base64Image = await toBase64(file);
+    }
     
     let jurisdictionContext = jurisdiction 
       ? `Jurisdiction: State of ${jurisdiction.state}, County of ${jurisdiction.county}, City of ${jurisdiction.city}.`
