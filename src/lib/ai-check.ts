@@ -9,11 +9,6 @@ export interface Conflict {
   codeReference: string;
 }
 
-const openai = new OpenAI({
-  apiKey: process.env.NEXT_PUBLIC_OPENAI_API_KEY,
-  dangerouslyAllowBrowser: true // Required for client-side execution
-});
-
 const toBase64 = (file: File) => new Promise<string>((resolve, reject) => {
   const reader = new FileReader();
   reader.readAsDataURL(file);
@@ -93,8 +88,18 @@ export async function checkBuildingPlan(
   file: File,
   location: string,
   buildingType: string,
-  jurisdiction?: { state: string, county: string, city: string }
+  jurisdiction?: { state: string, county: string, city: string },
+  apiKey?: string
 ): Promise<Conflict[]> {
+  
+  if (!apiKey) {
+    throw new Error("OpenAI API Key is required.");
+  }
+
+  const openai = new OpenAI({
+    apiKey: apiKey,
+    dangerouslyAllowBrowser: true
+  });
   
   // Basic validation for file type
   if (file.type === 'application/pdf') {

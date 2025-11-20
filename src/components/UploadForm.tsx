@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { fetchJurisdictionOptions } from '@/lib/jurisdiction';
 
 interface UploadFormProps {
-  onAnalyze: (file: File, location: string, buildingType: string, jurisdiction: { state: string, county: string, city: string }) => void;
+  onAnalyze: (file: File, location: string, buildingType: string, jurisdiction: { state: string, county: string, city: string }, apiKey: string) => void;
   isAnalyzing: boolean;
 }
 
@@ -12,6 +12,7 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
   const [file, setFile] = useState<File | null>(null);
   const [location, setLocation] = useState('');
   const [buildingType, setBuildingType] = useState('residential');
+  const [apiKey, setApiKey] = useState('');
   
   // Jurisdiction State
   const [state, setState] = useState('');
@@ -30,14 +31,28 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (file && location) {
-      onAnalyze(file, location, buildingType, { state, county, city });
+    if (file && location && apiKey) {
+      onAnalyze(file, location, buildingType, { state, county, city }, apiKey);
+    } else if (!apiKey) {
+      alert("Please enter your OpenAI API Key.");
     }
   };
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6 p-6 bg-white shadow-lg rounded-xl border border-gray-100">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="md:col-span-2">
+          <label className="block text-sm font-medium text-gray-700 mb-2">OpenAI API Key</label>
+          <input
+            type="password"
+            value={apiKey}
+            onChange={(e) => setApiKey(e.target.value)}
+            className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+            placeholder="sk-..."
+            required
+          />
+          <p className="text-xs text-gray-500 mt-1">Your key is used only for this session and is never stored on our servers.</p>
+        </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">Project Name / Address</label>
           <input
