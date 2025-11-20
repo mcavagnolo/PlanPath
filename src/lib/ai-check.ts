@@ -22,8 +22,10 @@ async function convertPdfToImage(file: File): Promise<string> {
     const arrayBuffer = await file.arrayBuffer();
     const pdfjsLib = await import('pdfjs-dist');
     
+    // Hardcode a stable version for the worker to avoid 404s with newer/beta versions
+    // Using version 3.11.174 which is stable and widely available on cdnjs
     if (!pdfjsLib.GlobalWorkerOptions.workerSrc) {
-      pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/pdf.worker.min.js`;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js`;
     }
 
     const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
@@ -38,6 +40,7 @@ async function convertPdfToImage(file: File): Promise<string> {
     canvas.height = viewport.height;
     canvas.width = viewport.width;
 
+    // @ts-ignore - pdfjs-dist types mismatch for render context
     await page.render({ canvasContext: context, viewport: viewport }).promise;
     
     return canvas.toDataURL('image/jpeg');
@@ -53,9 +56,9 @@ async function extractTextFromPdf(data: ArrayBuffer): Promise<string> {
     // Dynamic import to avoid SSR issues with canvas/DOM
     const pdfjsLib = await import('pdfjs-dist');
     
-    // Initialize worker
+    // Initialize worker with stable version
     if (!pdfjsLib.GlobalWorkerOptions.workerSrc) {
-      pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/pdf.worker.min.js`;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js`;
     }
 
     const pdf = await pdfjsLib.getDocument({ data }).promise;
