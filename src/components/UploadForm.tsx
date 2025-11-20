@@ -1,6 +1,7 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import { fetchJurisdictionOptions } from '@/lib/jurisdiction';
 
 interface UploadFormProps {
   onAnalyze: (file: File, location: string, buildingType: string, jurisdiction: { state: string, county: string, city: string }) => void;
@@ -13,9 +14,19 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
   const [buildingType, setBuildingType] = useState('residential');
   
   // Jurisdiction State
-  const [state, setState] = useState('California');
-  const [county, setCounty] = useState('Los Angeles');
-  const [city, setCity] = useState('El Segundo');
+  const [state, setState] = useState('');
+  const [county, setCounty] = useState('');
+  const [city, setCity] = useState('');
+
+  const [jurisdictionOptions, setJurisdictionOptions] = useState({
+    states: [] as string[],
+    counties: [] as string[],
+    cities: [] as string[]
+  });
+
+  useEffect(() => {
+    fetchJurisdictionOptions().then(setJurisdictionOptions);
+  }, []);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -56,33 +67,42 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">State</label>
-          <input
-            type="text"
+          <select
             value={state}
             onChange={(e) => setState(e.target.value)}
             className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
-            placeholder="State"
-          />
+          >
+            <option value="">Select State</option>
+            {jurisdictionOptions.states.map(s => (
+              <option key={s} value={s}>{s}</option>
+            ))}
+          </select>
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">County</label>
-          <input
-            type="text"
+          <select
             value={county}
             onChange={(e) => setCounty(e.target.value)}
             className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
-            placeholder="County"
-          />
+          >
+            <option value="">Select County</option>
+            {jurisdictionOptions.counties.map(c => (
+              <option key={c} value={c}>{c}</option>
+            ))}
+          </select>
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-2">City</label>
-          <input
-            type="text"
+          <select
             value={city}
             onChange={(e) => setCity(e.target.value)}
             className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
-            placeholder="City"
-          />
+          >
+            <option value="">Select City</option>
+            {jurisdictionOptions.cities.map(c => (
+              <option key={c} value={c}>{c}</option>
+            ))}
+          </select>
         </div>
       </div>
 
@@ -139,32 +159,6 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
             {file && <p className="text-sm text-green-600 font-semibold mt-2">Selected: {file.name}</p>}
           </div>
         </div>
-      </div>
-
-      <div>
-        <label className="block text-sm font-medium text-gray-700">Location (City, State)</label>
-        <input
-          type="text"
-          value={location}
-          onChange={(e) => setLocation(e.target.value)}
-          placeholder="e.g. New York, NY"
-          className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm p-2 border"
-          required
-        />
-      </div>
-
-      <div>
-        <label className="block text-sm font-medium text-gray-700">Building Type</label>
-        <select
-          value={buildingType}
-          onChange={(e) => setBuildingType(e.target.value)}
-          className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm p-2 border"
-        >
-          <option value="residential">Residential</option>
-          <option value="commercial">Commercial</option>
-          <option value="industrial">Industrial</option>
-          <option value="institutional">Institutional</option>
-        </select>
       </div>
 
       <button

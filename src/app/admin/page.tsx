@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import { ref, uploadBytes, getDownloadURL, listAll, deleteObject } from 'firebase/storage';
 import { storage } from '@/lib/firebase';
+import { fetchJurisdictionOptions } from '@/lib/jurisdiction';
 
 type FileNode = {
   name: string;
@@ -94,6 +95,16 @@ export default function AdminPage() {
   const [message, setMessage] = useState('');
   const [fileTree, setFileTree] = useState<FileNode[]>([]);
   const [loadingTree, setLoadingTree] = useState(false);
+  
+  const [jurisdictionOptions, setJurisdictionOptions] = useState({
+    states: [] as string[],
+    counties: [] as string[],
+    cities: [] as string[]
+  });
+
+  useEffect(() => {
+    fetchJurisdictionOptions().then(setJurisdictionOptions);
+  }, []);
 
   const [folderFiles, setFolderFiles] = useState<FileList | null>(null);
 
@@ -367,36 +378,45 @@ export default function AdminPage() {
                 <form onSubmit={handleUpload} className="space-y-4">
                   <div>
                     <label className="block text-sm font-medium text-gray-700">State</label>
-                    <input
-                      type="text"
+                    <select
                       value={state}
                       onChange={(e) => setState(e.target.value)}
                       className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border p-2"
-                      placeholder="e.g. New York"
                       required
-                    />
+                    >
+                      <option value="">Select State</option>
+                      {jurisdictionOptions.states.map(s => (
+                        <option key={s} value={s}>{s}</option>
+                      ))}
+                    </select>
                   </div>
 
                   <div className="grid grid-cols-2 gap-4">
                     <div>
                       <label className="block text-sm font-medium text-gray-700">County (Optional)</label>
-                      <input
-                        type="text"
+                      <select
                         value={county}
                         onChange={(e) => setCounty(e.target.value)}
                         className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border p-2"
-                        placeholder="e.g. Kings"
-                      />
+                      >
+                        <option value="">Select County</option>
+                        {jurisdictionOptions.counties.map(c => (
+                          <option key={c} value={c}>{c}</option>
+                        ))}
+                      </select>
                     </div>
                     <div>
                       <label className="block text-sm font-medium text-gray-700">City (Optional)</label>
-                      <input
-                        type="text"
+                      <select
                         value={city}
                         onChange={(e) => setCity(e.target.value)}
                         className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border p-2"
-                        placeholder="e.g. New York City"
-                      />
+                      >
+                        <option value="">Select City</option>
+                        {jurisdictionOptions.cities.map(c => (
+                          <option key={c} value={c}>{c}</option>
+                        ))}
+                      </select>
                     </div>
                   </div>
 
