@@ -87,14 +87,19 @@ const FileTreeItem = ({
 };
 
 export default function AdminPage() {
-  const [state, setState] = useState('');
-  const [county, setCounty] = useState('');
-  const [city, setCity] = useState('');
   const [file, setFile] = useState<File | null>(null);
   const [uploading, setUploading] = useState(false);
   const [message, setMessage] = useState('');
   const [fileTree, setFileTree] = useState<FileNode[]>([]);
   const [loadingTree, setLoadingTree] = useState(false);
+  
+  // Single Upload State
+  const [singleCategory, setSingleCategory] = useState('');
+  const [singleJurisdiction, setSingleJurisdiction] = useState('');
+
+  // Bulk Upload State
+  const [bulkCategory, setBulkCategory] = useState('');
+  const [bulkJurisdiction, setBulkJurisdiction] = useState('');
   
   const [jurisdictionOptions, setJurisdictionOptions] = useState({
     states: [] as string[],
@@ -108,24 +113,13 @@ export default function AdminPage() {
 
   const [folderFiles, setFolderFiles] = useState<FileList | null>(null);
 
-  // Helper to determine hierarchy from path
-  const getHierarchyFromPath = (filePath: string) => {
-    let category = 'Uncategorized';
-    let jurisdiction = 'General';
-
-    // Heuristic based on folder names provided by user
-    if (filePath.includes('California Building Code')) {
-      category = 'State';
-      jurisdiction = 'California';
-    } else if (filePath.includes('LA County')) {
-      category = 'County';
-      jurisdiction = 'Los Angeles';
-    } else if (filePath.includes('El Segundo')) {
-      category = 'City';
-      jurisdiction = 'El Segundo';
+  const getOptionsForCategory = (category: string) => {
+    switch(category) {
+      case 'State': return jurisdictionOptions.states;
+      case 'County': return jurisdictionOptions.counties;
+      case 'City': return jurisdictionOptions.cities;
+      default: return [];
     }
-
-    return { category, jurisdiction };
   };
 
   const fetchFileTree = async (path: string): Promise<FileNode[]> => {
@@ -173,6 +167,10 @@ export default function AdminPage() {
   const handleFolderUpload = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!folderFiles || folderFiles.length === 0) return;
+    if (!bulkCategory || !bulkJurisdiction) {
+      alert("Please select a destination folder.");
+      return;
+    }
 
     setUploading(true);
     setMessage(`Uploading ${folderFiles.length} files...`);
@@ -190,9 +188,9 @@ export default function AdminPage() {
       // Skip hidden files
       if (file.name.startsWith('.')) continue;
 
-      const { category, jurisdiction } = getHierarchyFromPath(relativePath);
       // New structure: knowledge-base/Category/Jurisdiction/filename
-      const path = `knowledge-base/${category}/${jurisdiction}/${file.name}`;
+      // We preserve the relative path structure within the selected jurisdiction
+      const path = `knowledge-base/${bulkCategory}/${bulkJurisdiction}/${relativePath}`;
       
       try {
         const storageRef = ref(storage, path);
@@ -212,13 +210,13 @@ export default function AdminPage() {
 
   const handleUpload = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!file || !state) return;
+    if (!file || !singleCategory || !singleJurisdiction) return;
     setUploading(true);
     setMessage('');
 
     try {
-      // Construct hierarchical path: knowledge-base/State/County/City/filename
-      const path = `knowledge-base/${state}/${county || 'General'}/${city || 'General'}/${file.name}`;
+      // Construct hierarchical path: knowledge-base/Category/Jurisdiction/filename
+      const path = `knowledge-base/${singleCategory}/${singleJurisdiction}/${file.name}`;
       const storageRef = ref(storage, path);
       
       await uploadBytes(storageRef, file);
@@ -350,7 +348,43 @@ export default function AdminPage() {
                   Select the root "Codes" folder. The system will automatically map "California", "LA County", and "El Segundo" folders to the correct hierarchy.
                 </p>
                 <form onSubmit={handleFolderUpload} className="space-y-4">
+                  <div className="grid grid-cols-2 gap-4">
+                    <div>
+                      <label className="block text-sm font-medium text-gray-700">Category</label>
+                      <select
+                        value={bulkCategory}
+                        onChange={(e) => {
+                          setBulkCategory(e.target.value);
+                          setBulkJurisdiction(''); // Reset jurisdiction when category changes
+                        }}
+                        className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border p-2"
+                        required
+                      >
+                        <option value="">Select Category</option>
+                        <option value="State">State</option>
+                        <option value="County">County</option>
+                        <option value="City">City</option>
+                      </select>
+                    </div>
+                    <div>
+                      <label className="block text-sm font-medium text-gray-700">Jurisdiction</label>
+                      <select
+                        value={bulkJurisdiction}
+                        onChange={(e) => setBulkJurisdiction(e.target.value)}
+                        className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border p-2"
+                        required
+                        disabled={!bulkCategory}
+                      >
+                        <option value="">Select Jurisdiction</option>
+                        {getOptionsForCategory(bulkCategory).map(opt => (
+                          <option key={opt} value={opt}>{opt}</option>
+                        ))}
+                      </select>
+                    </div>
+                  </div>
+
                   <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-1">Select Folder</label>
                     <input
                       type="file"
                       // @ts-ignore - webkitdirectory is not standard but supported
@@ -363,7 +397,7 @@ export default function AdminPage() {
                   </div>
                   <button
                     type="submit"
-                    disabled={uploading || !folderFiles}
+                    disabled={uploading || !folderFiles || !bulkCategory || !bulkJurisdiction}
                     className="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 disabled:bg-gray-400"
                   >
                     {uploading ? 'Uploading Folder...' : 'Upload All Files'}
@@ -376,45 +410,36 @@ export default function AdminPage() {
                 <h2 className="text-xl font-bold text-gray-900 mb-4">Single File Upload</h2>
               
                 <form onSubmit={handleUpload} className="space-y-4">
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700">State</label>
-                    <select
-                      value={state}
-                      onChange={(e) => setState(e.target.value)}
-                      className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border p-2"
-                      required
-                    >
-                      <option value="">Select State</option>
-                      {jurisdictionOptions.states.map(s => (
-                        <option key={s} value={s}>{s}</option>
-                      ))}
-                    </select>
-                  </div>
-
                   <div className="grid grid-cols-2 gap-4">
                     <div>
-                      <label className="block text-sm font-medium text-gray-700">County (Optional)</label>
+                      <label className="block text-sm font-medium text-gray-700">Category</label>
                       <select
-                        value={county}
-                        onChange={(e) => setCounty(e.target.value)}
+                        value={singleCategory}
+                        onChange={(e) => {
+                          setSingleCategory(e.target.value);
+                          setSingleJurisdiction(''); // Reset jurisdiction when category changes
+                        }}
                         className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border p-2"
+                        required
                       >
-                        <option value="">Select County</option>
-                        {jurisdictionOptions.counties.map(c => (
-                          <option key={c} value={c}>{c}</option>
-                        ))}
+                        <option value="">Select Category</option>
+                        <option value="State">State</option>
+                        <option value="County">County</option>
+                        <option value="City">City</option>
                       </select>
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700">City (Optional)</label>
+                      <label className="block text-sm font-medium text-gray-700">Jurisdiction</label>
                       <select
-                        value={city}
-                        onChange={(e) => setCity(e.target.value)}
+                        value={singleJurisdiction}
+                        onChange={(e) => setSingleJurisdiction(e.target.value)}
                         className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 border p-2"
+                        required
+                        disabled={!singleCategory}
                       >
-                        <option value="">Select City</option>
-                        {jurisdictionOptions.cities.map(c => (
-                          <option key={c} value={c}>{c}</option>
+                        <option value="">Select Jurisdiction</option>
+                        {getOptionsForCategory(singleCategory).map(opt => (
+                          <option key={opt} value={opt}>{opt}</option>
                         ))}
                       </select>
                     </div>
