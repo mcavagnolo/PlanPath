@@ -22,7 +22,8 @@ const toBase64 = (file: File) => new Promise<string>((resolve, reject) => {
 export async function checkBuildingPlan(
   file: File,
   location: string,
-  buildingType: string
+  buildingType: string,
+  jurisdiction?: { state: string, county: string, city: string }
 ): Promise<Conflict[]> {
   
   // Basic validation for file type
@@ -37,6 +38,10 @@ export async function checkBuildingPlan(
 
   try {
     const base64Image = await toBase64(file);
+    
+    const jurisdictionContext = jurisdiction 
+      ? `Jurisdiction: State of ${jurisdiction.state}, County of ${jurisdiction.county}, City of ${jurisdiction.city}.`
+      : '';
 
     const response = await openai.chat.completions.create({
       model: "gpt-4o",
@@ -45,6 +50,10 @@ export async function checkBuildingPlan(
           role: "system",
           content: `You are an expert building code compliance auditor. 
           Analyze the provided floor plan image against building codes for the specified location and building type.
+          ${jurisdictionContext}
+          Building Type: ${buildingType}
+          Location: ${location}
+
           Identify specific code violations or potential conflicts.
           
           Return ONLY a JSON object with a "conflicts" array. 

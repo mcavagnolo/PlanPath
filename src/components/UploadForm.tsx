@@ -3,7 +3,7 @@
 import { useState } from 'react';
 
 interface UploadFormProps {
-  onAnalyze: (file: File, location: string, buildingType: string) => void;
+  onAnalyze: (file: File, location: string, buildingType: string, jurisdiction: { state: string, county: string, city: string }) => void;
   isAnalyzing: boolean;
 }
 
@@ -11,16 +11,81 @@ export default function UploadForm({ onAnalyze, isAnalyzing }: UploadFormProps) 
   const [file, setFile] = useState<File | null>(null);
   const [location, setLocation] = useState('');
   const [buildingType, setBuildingType] = useState('residential');
+  
+  // Jurisdiction State
+  const [state, setState] = useState('California');
+  const [county, setCounty] = useState('Los Angeles');
+  const [city, setCity] = useState('El Segundo');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (file && location) {
-      onAnalyze(file, location, buildingType);
+      onAnalyze(file, location, buildingType, { state, county, city });
     }
   };
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6 p-6 bg-white shadow-lg rounded-xl border border-gray-100">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div>
+          <label className="block text-sm font-medium text-gray-700 mb-2">Project Name / Address</label>
+          <input
+            type="text"
+            value={location}
+            onChange={(e) => setLocation(e.target.value)}
+            className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+            placeholder="e.g. 123 Main St, El Segundo"
+            required
+          />
+        </div>
+        <div>
+          <label className="block text-sm font-medium text-gray-700 mb-2">Building Type</label>
+          <select
+            value={buildingType}
+            onChange={(e) => setBuildingType(e.target.value)}
+            className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+          >
+            <option value="residential">Residential</option>
+            <option value="commercial">Commercial</option>
+            <option value="mixed-use">Mixed Use</option>
+            <option value="industrial">Industrial</option>
+          </select>
+        </div>
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div>
+          <label className="block text-sm font-medium text-gray-700 mb-2">State</label>
+          <input
+            type="text"
+            value={state}
+            onChange={(e) => setState(e.target.value)}
+            className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+            placeholder="State"
+          />
+        </div>
+        <div>
+          <label className="block text-sm font-medium text-gray-700 mb-2">County</label>
+          <input
+            type="text"
+            value={county}
+            onChange={(e) => setCounty(e.target.value)}
+            className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+            placeholder="County"
+          />
+        </div>
+        <div>
+          <label className="block text-sm font-medium text-gray-700 mb-2">City</label>
+          <input
+            type="text"
+            value={city}
+            onChange={(e) => setCity(e.target.value)}
+            className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+            placeholder="City"
+          />
+        </div>
+      </div>
+
       <div>
         <label className="block text-sm font-medium text-gray-700 mb-2">Building Plan (PDF/Image)</label>
         <div className="mt-1 flex justify-center px-6 pt-5 pb-6 border-2 border-gray-300 border-dashed rounded-md hover:border-blue-400 transition-colors">

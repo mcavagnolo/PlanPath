@@ -95,7 +95,12 @@ export default function Home() {
     return doc.output('blob');
   };
 
-  const handleAnalyze = async (file: File, location: string, buildingType: string) => {
+  const handleAnalyze = async (
+    file: File, 
+    location: string, 
+    buildingType: string, 
+    jurisdiction: { state: string, county: string, city: string }
+  ) => {
     setIsAnalyzing(true);
     setConflicts(null);
     
@@ -108,7 +113,7 @@ export default function Home() {
       await uploadBytes(planRef, file);
 
       // 2. Run Analysis
-      const results = await checkBuildingPlan(file, location, buildingType);
+      const results = await checkBuildingPlan(file, location, buildingType, jurisdiction);
       setConflicts(results);
 
       // 3. Generate PDF Report

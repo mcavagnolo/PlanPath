@@ -22,7 +22,7 @@ const FileTreeItem = ({ node }: { node: FileNode }) => {
   }
   
   return (
-    <details className="pl-2" open>
+    <details className="pl-2">
       <summary className="cursor-pointer py-1 text-sm font-medium text-gray-800 hover:text-blue-600 select-none flex items-center gap-2">
         <span>📁</span> {node.name}
       </summary>
@@ -52,23 +52,22 @@ export default function AdminPage() {
 
   // Helper to determine hierarchy from path
   const getHierarchyFromPath = (filePath: string) => {
-    const parts = filePath.split('/');
-    let state = 'California'; // Default based on user data
-    let county = 'General';
-    let city = 'General';
+    let category = 'Uncategorized';
+    let jurisdiction = 'General';
 
-    // Simple heuristic based on folder names provided by user
+    // Heuristic based on folder names provided by user
     if (filePath.includes('California Building Code')) {
-      state = 'California';
-    }
-    if (filePath.includes('LA County')) {
-      county = 'Los Angeles';
-    }
-    if (filePath.includes('El Segundo')) {
-      city = 'El Segundo';
+      category = 'State';
+      jurisdiction = 'California';
+    } else if (filePath.includes('LA County')) {
+      category = 'County';
+      jurisdiction = 'Los Angeles';
+    } else if (filePath.includes('El Segundo')) {
+      category = 'City';
+      jurisdiction = 'El Segundo';
     }
 
-    return { state, county, city };
+    return { category, jurisdiction };
   };
 
   const fetchFileTree = async (path: string): Promise<FileNode[]> => {
@@ -133,8 +132,9 @@ export default function AdminPage() {
       // Skip hidden files
       if (file.name.startsWith('.')) continue;
 
-      const { state, county, city } = getHierarchyFromPath(relativePath);
-      const path = `knowledge-base/${state}/${county}/${city}/${file.name}`;
+      const { category, jurisdiction } = getHierarchyFromPath(relativePath);
+      // New structure: knowledge-base/Category/Jurisdiction/filename
+      const path = `knowledge-base/${category}/${jurisdiction}/${file.name}`;
       
       try {
         const storageRef = ref(storage, path);
