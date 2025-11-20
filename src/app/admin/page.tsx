@@ -1,8 +1,41 @@
 'use client';
 
-import { useState } from 'react';
-import { ref, uploadBytes, getDownloadURL } from 'firebase/storage';
+import { useState, useEffect } from 'react';
+import { ref, uploadBytes, getDownloadURL, listAll } from 'firebase/storage';
 import { storage } from '@/lib/firebase';
+
+type FileNode = {
+  name: string;
+  path: string;
+  type: 'file' | 'folder';
+  children?: FileNode[];
+};
+
+const FileTreeItem = ({ node }: { node: FileNode }) => {
+  if (node.type === 'file') {
+    return (
+      <div className="pl-6 py-1 text-sm text-gray-600 flex items-center gap-2">
+        <span className="opacity-50">📄</span> {node.name}
+      </div>
+    );
+  }
+  
+  return (
+    <details className="pl-2" open>
+      <summary className="cursor-pointer py-1 text-sm font-medium text-gray-800 hover:text-blue-600 select-none flex items-center gap-2">
+        <span>📁</span> {node.name}
+      </summary>
+      <div className="border-l border-gray-200 ml-2.5">
+        {node.children?.map((child) => (
+          <FileTreeItem key={child.path} node={child} />
+        ))}
+        {node.children?.length === 0 && (
+          <div className="pl-6 py-1 text-xs text-gray-400 italic">Empty folder</div>
+        )}
+      </div>
+    </details>
+  );
+};
 
 export default function AdminPage() {
   const [state, setState] = useState('');
@@ -11,6 +44,8 @@ export default function AdminPage() {
   const [file, setFile] = useState<File | null>(null);
   const [uploading, setUploading] = useState(false);
   const [message, setMessage] = useState('');
+  const [fileTree, setFileTree] = useState<FileNode[]>([]);
+  const [loadingTree, setLoadingTree] = useState(false);
 
   const [folderFiles, setFolderFiles] = useState<FileList | null>(null);
 
@@ -34,6 +69,48 @@ export default function AdminPage() {
 
     return { state, county, city };
   };
+
+  const fetchFileTree = async (path: string): Promise<FileNode[]> => {
+    const rootRef = ref(storage, path);
+    try {
+      const res = await listAll(rootRef);
+      
+      const nodes: FileNode[] = [];
+
+      for (const folderRef of res.prefixes) {
+        nodes.push({
+          name: folderRef.name,
+          path: folderRef.fullPath,
+          type: 'folder',
+          children: await fetchFileTree(folderRef.fullPath)
+        });
+      }
+
+      for (const fileRef of res.items) {
+        nodes.push({
+          name: fileRef.name,
+          path: fileRef.fullPath,
+          type: 'file'
+        });
+      }
+      
+      return nodes;
+    } catch (error) {
+      console.error("Error fetching file tree:", error);
+      return [];
+    }
+  };
+
+  const refreshTree = () => {
+    setLoadingTree(true);
+    fetchFileTree('knowledge-base')
+      .then(nodes => setFileTree(nodes))
+      .finally(() => setLoadingTree(false));
+  };
+
+  useEffect(() => {
+    refreshTree();
+  }, []);
 
   const handleFolderUpload = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -71,12 +148,12 @@ export default function AdminPage() {
     setMessage(`Upload complete: ${successCount} successful, ${errorCount} failed.`);
     setUploading(false);
     setFolderFiles(null);
+    refreshTree(); // Refresh tree after upload
   };
 
   const handleUpload = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!file || !state) return;
-    // ... existing single file logic ...
     setUploading(true);
     setMessage('');
 
@@ -89,6 +166,7 @@ export default function AdminPage() {
       
       setMessage(`Successfully uploaded ${file.name} to ${path}`);
       setFile(null);
+      refreshTree(); // Refresh tree after upload
     } catch (error) {
       console.error(error);
       setMessage('Error uploading file. Check console for details.');
@@ -193,6 +271,31 @@ export default function AdminPage() {
             {message}
           </div>
         )}
+      </div>
+
+      <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-2xl mt-8">
+        <div className="flex justify-between items-center mb-6">
+          <h2 className="text-2xl font-bold text-gray-900">Knowledge Base Files</h2>
+          <button 
+            onClick={refreshTree}
+            className="text-sm text-blue-600 hover:text-blue-800 underline"
+            disabled={loadingTree}
+          >
+            {loadingTree ? 'Refreshing...' : 'Refresh'}
+          </button>
+        </div>
+        
+        <div className="border rounded-md p-4 bg-gray-50 min-h-[200px] max-h-[600px] overflow-y-auto">
+          {loadingTree && fileTree.length === 0 ? (
+            <div className="text-center text-gray-500 py-8">Loading files...</div>
+          ) : fileTree.length === 0 ? (
+            <div className="text-center text-gray-500 py-8">No files found in Knowledge Base</div>
+          ) : (
+            fileTree.map(node => (
+              <FileTreeItem key={node.path} node={node} />
+            ))
+          )}
+        </div>
       </div>
       </div>
     </div>
