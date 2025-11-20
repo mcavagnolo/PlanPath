@@ -1,11 +1,6 @@
 import OpenAI from 'openai';
 import { ref, listAll, getBytes } from 'firebase/storage';
 import { storage } from './firebase';
-import * as pdfjsLib from 'pdfjs-dist';
-
-// Initialize PDF.js worker
-// We use a CDN for the worker to avoid complex build configuration in this prototype
-pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/pdf.worker.min.js`;
 
 export interface Conflict {
   id: string;
@@ -29,6 +24,14 @@ const toBase64 = (file: File) => new Promise<string>((resolve, reject) => {
 // Helper to extract text from a PDF file (ArrayBuffer)
 async function extractTextFromPdf(data: ArrayBuffer): Promise<string> {
   try {
+    // Dynamic import to avoid SSR issues with canvas/DOM
+    const pdfjsLib = await import('pdfjs-dist');
+    
+    // Initialize worker
+    if (!pdfjsLib.GlobalWorkerOptions.workerSrc) {
+      pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/pdf.worker.min.js`;
+    }
+
     const pdf = await pdfjsLib.getDocument({ data }).promise;
     let fullText = '';
     
