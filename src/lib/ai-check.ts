@@ -30,8 +30,8 @@ async function extractTextFromPdf(data: ArrayBuffer): Promise<string> {
     const pdf = await pdfjsLib.getDocument({ data }).promise;
     let fullText = '';
     
-    // Limit to first 20 pages to avoid token limits and performance issues
-    const maxPages = Math.min(pdf.numPages, 20);
+    // Limit to first 5 pages to avoid token limits (TPM) on new accounts
+    const maxPages = Math.min(pdf.numPages, 5);
     
     for (let i = 1; i <= maxPages; i++) {
       const page = await pdf.getPage(i);
@@ -55,8 +55,8 @@ async function fetchDocumentsFromPath(path: string): Promise<string> {
     
     let context = "";
 
-    // Limit to first 3 files per folder to manage context size
-    const filesToProcess = res.items.slice(0, 3);
+    // Limit to first 1 file per folder to manage context size and stay within TPM limits
+    const filesToProcess = res.items.slice(0, 1);
 
     for (const itemRef of filesToProcess) {
       try {
@@ -71,7 +71,8 @@ async function fetchDocumentsFromPath(path: string): Promise<string> {
           text = new TextDecoder().decode(bytes);
         }
 
-        context += `\n\n=== DOCUMENT: ${itemRef.name} (from ${path}) ===\n${text.substring(0, 20000)}... [truncated]\n`;
+        // Truncate to 10,000 characters (approx 2,500 tokens) per file
+        context += `\n\n=== DOCUMENT: ${itemRef.name} (from ${path}) ===\n${text.substring(0, 10000)}... [truncated]\n`;
       } catch (err) {
         console.warn(`Failed to read file ${itemRef.name}:`, err);
       }
