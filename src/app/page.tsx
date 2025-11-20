@@ -138,7 +138,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
       <header className="bg-[#fff9ea] shadow-sm z-10">
-        <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex items-center justify-between">
+        <div className="w-full px-6 py-4 flex items-center justify-between">
           <div className="flex items-center">
             <Image 
               src="/PlanPath/logos/PlanPath Logo wName (Horizontal).png" 
@@ -156,11 +156,11 @@ export default function Home() {
         </div>
       </header>
 
-      <div className="flex flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8 gap-8">
+      <div className="flex flex-1 w-full">
         
         {/* Left Sidebar: Projects */}
-        <aside className="w-64 flex-shrink-0 hidden lg:block">
-          <div className="bg-white rounded-lg shadow-sm p-4 sticky top-8">
+        <aside className="w-72 bg-white border-r border-gray-200 hidden lg:block flex-shrink-0">
+          <div className="p-6 sticky top-0">
             <h3 className="text-lg font-bold text-gray-900 mb-4 border-b pb-2">Projects</h3>
             
             {loadingProjects ? (
@@ -197,7 +197,7 @@ export default function Home() {
         </aside>
 
         {/* Main Content */}
-        <main className="flex-1">
+        <main className="flex-1 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
               Automated Building Code Compliance
