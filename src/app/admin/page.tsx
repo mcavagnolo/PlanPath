@@ -47,6 +47,8 @@ export default function AdminPage() {
 
     for (let i = 0; i < folderFiles.length; i++) {
       const file = folderFiles[i];
+      setMessage(`Uploading ${i + 1}/${folderFiles.length}: ${file.name}...`);
+
       // webkitRelativePath gives us "Folder/Subfolder/file.ext"
       const relativePath = file.webkitRelativePath || file.name;
       
