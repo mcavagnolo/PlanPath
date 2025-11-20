@@ -78,7 +78,7 @@ export default function Home() {
       }
       
       doc.setFont("helvetica", "bold");
-      doc.text(`${index + 1}. ${conflict.title}`, 20, y);
+      doc.text(`${index + 1}. ${conflict.codeReference}`, 20, y);
       y += 7;
       
       doc.setFont("helvetica", "normal");
