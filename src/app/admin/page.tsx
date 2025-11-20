@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
-import { ref, uploadBytes, getDownloadURL, listAll } from 'firebase/storage';
+import { ref, uploadBytes, getDownloadURL, listAll, deleteObject } from 'firebase/storage';
 import { storage } from '@/lib/firebase';
 
 type FileNode = {
@@ -176,6 +176,39 @@ export default function AdminPage() {
     }
   };
 
+  const deleteFolder = async (path: string) => {
+    const folderRef = ref(storage, path);
+    const res = await listAll(folderRef);
+    
+    // Recursively delete subfolders
+    for (const folder of res.prefixes) {
+      await deleteFolder(folder.fullPath);
+    }
+    
+    // Delete files in current folder
+    for (const file of res.items) {
+      await deleteObject(file);
+    }
+  };
+
+  const handleClearKnowledgeBase = async () => {
+    if (!confirm('Are you sure you want to delete ALL files in the Knowledge Base? This cannot be undone.')) return;
+    
+    setUploading(true);
+    setMessage('Deleting all files...');
+    
+    try {
+      await deleteFolder('knowledge-base');
+      setMessage('Knowledge Base cleared successfully.');
+      refreshTree();
+    } catch (error) {
+      console.error(error);
+      setMessage('Error clearing Knowledge Base.');
+    } finally {
+      setUploading(false);
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gray-50">
       <header className="bg-[#fff9ea] shadow-sm">
@@ -304,13 +337,23 @@ export default function AdminPage() {
             <div className="bg-white p-8 rounded-lg shadow-md h-fit">
               <div className="flex justify-between items-center mb-6">
                 <h2 className="text-2xl font-bold text-gray-900">Knowledge Base Files</h2>
-                <button 
-                  onClick={refreshTree}
-                  className="text-sm text-blue-600 hover:text-blue-800 underline"
-                  disabled={loadingTree}
-                >
-                  {loadingTree ? 'Refreshing...' : 'Refresh'}
-                </button>
+                <div className="flex gap-2">
+                  <button 
+                    onClick={handleClearKnowledgeBase}
+                    className="text-sm text-red-600 hover:text-red-800 underline"
+                    disabled={uploading || loadingTree}
+                  >
+                    Clear All
+                  </button>
+                  <span className="text-gray-300">|</span>
+                  <button 
+                    onClick={refreshTree}
+                    className="text-sm text-blue-600 hover:text-blue-800 underline"
+                    disabled={loadingTree}
+                  >
+                    {loadingTree ? 'Refreshing...' : 'Refresh'}
+                  </button>
+                </div>
               </div>
               
               <div className="border rounded-md p-4 bg-gray-50 min-h-[400px] max-h-[800px] overflow-y-auto">
