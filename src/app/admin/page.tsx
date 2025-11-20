@@ -344,9 +344,6 @@ export default function AdminPage() {
               {/* Bulk Upload Section */}
               <div className="bg-white rounded-xl shadow-md overflow-hidden p-8">
                 <h2 className="text-xl font-bold text-gray-900 mb-4">Bulk Upload Codes Folder</h2>
-                <p className="text-gray-600 mb-4">
-                  Select the root "Codes" folder. The system will automatically map "California", "LA County", and "El Segundo" folders to the correct hierarchy.
-                </p>
                 <form onSubmit={handleFolderUpload} className="space-y-4">
                   <div className="grid grid-cols-2 gap-4">
                     <div>
