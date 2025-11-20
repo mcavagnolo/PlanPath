@@ -12,23 +12,70 @@ type FileNode = {
   children?: FileNode[];
 };
 
-const FileTreeItem = ({ node }: { node: FileNode }) => {
+const FileTreeItem = ({ 
+  node, 
+  onDelete, 
+  onAddFolder 
+}: { 
+  node: FileNode; 
+  onDelete: (path: string, type: 'file' | 'folder') => void;
+  onAddFolder: (path: string) => void;
+}) => {
   if (node.type === 'file') {
+    // Hide .keep files from the UI
+    if (node.name === '.keep') return null;
+
     return (
-      <div className="pl-6 py-1 text-sm text-gray-600 flex items-center gap-2">
-        <span className="opacity-50">📄</span> {node.name}
+      <div className="pl-6 py-1 text-sm text-gray-600 flex items-center gap-2 group">
+        <span className="opacity-50">📄</span> 
+        <span className="flex-1 truncate">{node.name}</span>
+        <button 
+          onClick={() => onDelete(node.path, 'file')}
+          className="opacity-0 group-hover:opacity-100 text-red-500 hover:text-red-700 p-1"
+          title="Delete File"
+        >
+          🗑️
+        </button>
       </div>
     );
   }
   
   return (
     <details className="pl-2">
-      <summary className="cursor-pointer py-1 text-sm font-medium text-gray-800 hover:text-blue-600 select-none flex items-center gap-2">
-        <span>📁</span> {node.name}
+      <summary className="cursor-pointer py-1 text-sm font-medium text-gray-800 hover:text-blue-600 select-none flex items-center gap-2 group">
+        <span>📁</span> 
+        <span className="flex-1">{node.name}</span>
+        <div className="flex gap-1 opacity-0 group-hover:opacity-100">
+          <button 
+            onClick={(e) => {
+              e.preventDefault();
+              onAddFolder(node.path);
+            }}
+            className="text-green-600 hover:text-green-800 p-1"
+            title="Add Subfolder"
+          >
+            ➕
+          </button>
+          <button 
+            onClick={(e) => {
+              e.preventDefault();
+              onDelete(node.path, 'folder');
+            }}
+            className="text-red-500 hover:text-red-700 p-1"
+            title="Delete Folder"
+          >
+            🗑️
+          </button>
+        </div>
       </summary>
       <div className="border-l border-gray-200 ml-2.5">
         {node.children?.map((child) => (
-          <FileTreeItem key={child.path} node={child} />
+          <FileTreeItem 
+            key={child.path} 
+            node={child} 
+            onDelete={onDelete}
+            onAddFolder={onAddFolder}
+          />
         ))}
         {node.children?.length === 0 && (
           <div className="pl-6 py-1 text-xs text-gray-400 italic">Empty folder</div>
@@ -191,6 +238,53 @@ export default function AdminPage() {
     }
   };
 
+  const handleDelete = async (path: string, type: 'file' | 'folder') => {
+    if (!confirm(`Are you sure you want to delete this ${type}?`)) return;
+    
+    setLoadingTree(true);
+    try {
+      if (type === 'file') {
+        await deleteObject(ref(storage, path));
+      } else {
+        await deleteFolder(path);
+      }
+      setMessage(`${type === 'file' ? 'File' : 'Folder'} deleted successfully.`);
+      refreshTree();
+    } catch (error) {
+      console.error(error);
+      setMessage(`Error deleting ${type}.`);
+    } finally {
+      setLoadingTree(false);
+    }
+  };
+
+  const handleAddFolder = async (parentPath: string) => {
+    const folderName = prompt("Enter new folder name:");
+    if (!folderName) return;
+
+    // Sanitize folder name
+    const safeName = folderName.replace(/[^a-zA-Z0-9 -]/g, '').trim();
+    if (!safeName) {
+      alert("Invalid folder name.");
+      return;
+    }
+
+    setLoadingTree(true);
+    try {
+      // Create a placeholder file to "create" the folder
+      const placeholderRef = ref(storage, `${parentPath}/${safeName}/.keep`);
+      await uploadBytes(placeholderRef, new Blob(["placeholder"]));
+      
+      setMessage(`Folder "${safeName}" created.`);
+      refreshTree();
+    } catch (error) {
+      console.error(error);
+      setMessage("Error creating folder.");
+    } finally {
+      setLoadingTree(false);
+    }
+  };
+
   const handleClearKnowledgeBase = async () => {
     if (!confirm('Are you sure you want to delete ALL files in the Knowledge Base? This cannot be undone.')) return;
     
@@ -339,11 +433,11 @@ export default function AdminPage() {
                 <h2 className="text-2xl font-bold text-gray-900">Knowledge Base Files</h2>
                 <div className="flex gap-2">
                   <button 
-                    onClick={handleClearKnowledgeBase}
-                    className="text-sm text-red-600 hover:text-red-800 underline"
-                    disabled={uploading || loadingTree}
+                    onClick={() => handleAddFolder('knowledge-base')}
+                    className="text-sm text-green-600 hover:text-green-800 underline"
+                    disabled={loadingTree}
                   >
-                    Clear All
+                    + New Root Folder
                   </button>
                   <span className="text-gray-300">|</span>
                   <button 
@@ -363,7 +457,12 @@ export default function AdminPage() {
                   <div className="text-center text-gray-500 py-8">No files found in Knowledge Base</div>
                 ) : (
                   fileTree.map(node => (
-                    <FileTreeItem key={node.path} node={node} />
+                    <FileTreeItem 
+                      key={node.path} 
+                      node={node} 
+                      onDelete={handleDelete}
+                      onAddFolder={handleAddFolder}
+                    />
                   ))
                 )}
               </div>
