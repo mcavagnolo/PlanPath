@@ -5,7 +5,7 @@ import Image from 'next/image';
 import UploadForm from '@/components/UploadForm';
 import ResultsDisplay from '@/components/ResultsDisplay';
 import { checkBuildingPlan, Conflict } from '@/lib/ai-check';
-import { ref, uploadBytes, listAll, getDownloadURL } from 'firebase/storage';
+import { ref, uploadBytes, listAll, getDownloadURL, deleteObject } from 'firebase/storage';
 import { storage } from '@/lib/firebase';
 import { jsPDF } from 'jspdf';
 
@@ -59,6 +59,24 @@ export default function Home() {
   useEffect(() => {
     fetchProjects();
   }, []);
+
+  const deleteProject = async (projectName: string) => {
+    if (!confirm(`Are you sure you want to delete project "${projectName}"? This cannot be undone.`)) return;
+
+    try {
+      const projectRef = ref(storage, `Projects/${projectName}`);
+      const res = await listAll(projectRef);
+      
+      // Delete all files in the project folder
+      await Promise.all(res.items.map(fileRef => deleteObject(fileRef)));
+      
+      // Refresh projects list
+      await fetchProjects();
+    } catch (error) {
+      console.error("Error deleting project:", error);
+      alert("Failed to delete project.");
+    }
+  };
 
   const generatePDF = (conflicts: Conflict[], location: string) => {
     const doc = new jsPDF();
@@ -172,9 +190,21 @@ export default function Home() {
               <div className="space-y-4">
                 {projects.map((project) => (
                   <details key={project.name} className="group">
-                    <summary className="list-none cursor-pointer flex items-center justify-between text-sm font-medium text-gray-700 hover:text-blue-600">
-                      <span>{project.name}</span>
-                      <span className="transform group-open:rotate-90 transition-transform text-gray-400">▶</span>
+                    <summary className="list-none cursor-pointer flex items-center justify-between text-sm font-medium text-gray-700 hover:text-blue-600 group/summary">
+                      <span className="truncate flex-1 mr-2">{project.name}</span>
+                      <div className="flex items-center gap-1">
+                        <button
+                          onClick={(e) => {
+                            e.preventDefault();
+                            deleteProject(project.name);
+                          }}
+                          className="opacity-0 group-hover/summary:opacity-100 text-gray-400 hover:text-red-500 p-1 transition-opacity"
+                          title="Delete Project"
+                        >
+                          🗑️
+                        </button>
+                        <span className="transform group-open:rotate-90 transition-transform text-gray-400">▶</span>
+                      </div>
                     </summary>
                     <div className="mt-2 ml-2 space-y-2 border-l-2 border-gray-100 pl-2">
                       {project.files.map((file) => (

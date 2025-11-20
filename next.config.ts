@@ -6,6 +6,11 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  // Fix for pdfjs-dist "canvas" dependency issue in Next.js
+  webpack: (config) => {
+    config.resolve.alias.canvas = false;
+    return config;
+  },
 };
 
 export default nextConfig;
