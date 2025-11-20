@@ -1,21 +1,127 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import UploadForm from '@/components/UploadForm';
 import ResultsDisplay from '@/components/ResultsDisplay';
 import { checkBuildingPlan, Conflict } from '@/lib/ai-check';
+import { ref, uploadBytes, listAll, getDownloadURL } from 'firebase/storage';
+import { storage } from '@/lib/firebase';
+import { jsPDF } from 'jspdf';
+
+type ProjectFile = {
+  name: string;
+  url: string;
+};
+
+type Project = {
+  name: string;
+  files: ProjectFile[];
+};
 
 export default function Home() {
   const [conflicts, setConflicts] = useState<Conflict[] | null>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
+  const [projects, setProjects] = useState<Project[]>([]);
+  const [loadingProjects, setLoadingProjects] = useState(true);
+
+  // Fetch projects from Firebase Storage
+  const fetchProjects = async () => {
+    setLoadingProjects(true);
+    try {
+      const projectsRef = ref(storage, 'Projects');
+      const res = await listAll(projectsRef);
+      
+      const projectList: Project[] = [];
+
+      for (const folderRef of res.prefixes) {
+        const filesRes = await listAll(folderRef);
+        const files: ProjectFile[] = [];
+        
+        for (const fileRef of filesRes.items) {
+          const url = await getDownloadURL(fileRef);
+          files.push({ name: fileRef.name, url });
+        }
+
+        projectList.push({
+          name: folderRef.name,
+          files: files
+        });
+      }
+      setProjects(projectList);
+    } catch (error) {
+      console.error("Error fetching projects:", error);
+    } finally {
+      setLoadingProjects(false);
+    }
+  };
+
+  useEffect(() => {
+    fetchProjects();
+  }, []);
+
+  const generatePDF = (conflicts: Conflict[], location: string) => {
+    const doc = new jsPDF();
+    
+    doc.setFontSize(20);
+    doc.text(`Building Code Analysis: ${location}`, 20, 20);
+    
+    doc.setFontSize(12);
+    doc.text(`Date: ${new Date().toLocaleDateString()}`, 20, 30);
+    
+    let y = 50;
+    
+    conflicts.forEach((conflict, index) => {
+      if (y > 270) {
+        doc.addPage();
+        y = 20;
+      }
+      
+      doc.setFont("helvetica", "bold");
+      doc.text(`${index + 1}. ${conflict.title}`, 20, y);
+      y += 7;
+      
+      doc.setFont("helvetica", "normal");
+      const descLines = doc.splitTextToSize(conflict.description, 170);
+      doc.text(descLines, 20, y);
+      y += (descLines.length * 5) + 5;
+      
+      doc.setTextColor(255, 0, 0);
+      doc.text(`Severity: ${conflict.severity.toUpperCase()}`, 20, y);
+      doc.setTextColor(0, 0, 0);
+      y += 10;
+    });
+
+    return doc.output('blob');
+  };
 
   const handleAnalyze = async (file: File, location: string, buildingType: string) => {
     setIsAnalyzing(true);
     setConflicts(null);
+    
+    // Sanitize project name (location) to be folder-safe
+    const projectName = location.replace(/[^a-zA-Z0-9 -]/g, '').trim();
+
     try {
+      // 1. Upload the original plan
+      const planRef = ref(storage, `Projects/${projectName}/${file.name}`);
+      await uploadBytes(planRef, file);
+
+      // 2. Run Analysis
       const results = await checkBuildingPlan(file, location, buildingType);
       setConflicts(results);
+
+      // 3. Generate PDF Report
+      const pdfBlob = generatePDF(results, location);
+      const pdfFile = new File([pdfBlob], 'Analysis_Results.pdf', { type: 'application/pdf' });
+
+      // 4. Upload PDF Report
+      const reportRef = ref(storage, `Projects/${projectName}/Analysis_Results.pdf`);
+      await uploadBytes(reportRef, pdfFile);
+
+      // 5. Refresh Projects List
+      await fetchProjects();
+
     } catch (error) {
       console.error('Analysis failed:', error);
       alert('An error occurred during analysis.');
@@ -25,8 +131,8 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <header className="bg-[#fff9ea] shadow-sm">
+    <div className="min-h-screen bg-gray-50 flex flex-col">
+      <header className="bg-[#fff9ea] shadow-sm z-10">
         <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           <div className="flex items-center">
             <Image 
@@ -39,14 +145,54 @@ export default function Home() {
             />
           </div>
           <nav>
+            <a href="/PlanPath/admin" className="text-gray-500 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium">Admin</a>
             <a href="#" className="text-gray-500 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium">Documentation</a>
-            <a href="#" className="text-gray-500 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium">Support</a>
           </nav>
         </div>
       </header>
 
-      <main className="py-12 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-4xl mx-auto">
+      <div className="flex flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8 gap-8">
+        
+        {/* Left Sidebar: Projects */}
+        <aside className="w-64 flex-shrink-0 hidden lg:block">
+          <div className="bg-white rounded-lg shadow-sm p-4 sticky top-8">
+            <h3 className="text-lg font-bold text-gray-900 mb-4 border-b pb-2">Projects</h3>
+            
+            {loadingProjects ? (
+              <div className="text-sm text-gray-500 animate-pulse">Loading projects...</div>
+            ) : projects.length === 0 ? (
+              <div className="text-sm text-gray-500 italic">No projects yet.</div>
+            ) : (
+              <div className="space-y-4">
+                {projects.map((project) => (
+                  <details key={project.name} className="group">
+                    <summary className="list-none cursor-pointer flex items-center justify-between text-sm font-medium text-gray-700 hover:text-blue-600">
+                      <span>{project.name}</span>
+                      <span className="transform group-open:rotate-90 transition-transform text-gray-400">▶</span>
+                    </summary>
+                    <div className="mt-2 ml-2 space-y-2 border-l-2 border-gray-100 pl-2">
+                      {project.files.map((file) => (
+                        <a 
+                          key={file.name}
+                          href={file.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="block text-xs text-gray-600 hover:text-blue-600 hover:underline truncate"
+                          title={file.name}
+                        >
+                          {file.name.endsWith('.pdf') ? '📄' : '🖼️'} {file.name}
+                        </a>
+                      ))}
+                    </div>
+                  </details>
+                ))}
+              </div>
+            )}
+          </div>
+        </aside>
+
+        {/* Main Content */}
+        <main className="flex-1">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
               Automated Building Code Compliance
@@ -67,10 +213,10 @@ export default function Home() {
               </section>
             )}
           </div>
-        </div>
-      </main>
+        </main>
+      </div>
       
-      <footer className="bg-[#fff9ea] border-t border-gray-200 mt-12">
+      <footer className="bg-[#fff9ea] border-t border-gray-200 mt-auto">
         <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 flex flex-col items-center">
           <Image 
             src="/PlanPath/logos/PlanPath Logo.png" 
