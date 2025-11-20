@@ -9,6 +9,14 @@ export interface Conflict {
   codeReference: string;
 }
 
+function getKeywords(buildingType: string): string[] {
+  const baseKeywords = ["code", "regulation", "compliance", "violation", "requirement", "standard", "section", "chapter", "table", "figure"];
+  const typeKeywords = buildingType.toLowerCase().split(/\s+/).filter(k => k.length > 2); 
+  const commonTerms = ["height", "setback", "area", "width", "depth", "egress", "stair", "fire", "safety", "zone", "district", "use", "occupancy", "parking", "access", "material", "construction"];
+  
+  return Array.from(new Set([...baseKeywords, ...typeKeywords, ...commonTerms]));
+}
+
 const toBase64 = (file: File) => new Promise<string>((resolve, reject) => {
   const reader = new FileReader();
   reader.readAsDataURL(file);
@@ -51,7 +59,7 @@ async function convertPdfToImage(file: File): Promise<string> {
 }
 
 // Helper to extract text from a PDF file (ArrayBuffer)
-async function extractTextFromPdf(data: ArrayBuffer): Promise<string> {
+async function extractTextFromPdf(data: ArrayBuffer, keywords: string[]): Promise<string> {
   try {
     // Dynamic import to avoid SSR issues with canvas/DOM
     const pdfjsLib = await import('pdfjs-dist');
@@ -62,19 +70,41 @@ async function extractTextFromPdf(data: ArrayBuffer): Promise<string> {
     }
 
     const pdf = await pdfjsLib.getDocument({ data }).promise;
-    let fullText = '';
+    let relevantText = '';
+    let totalChars = 0;
+    const MAX_CHARS = 20000; // Approx 5k tokens
     
-    // Limit to first 5 pages to avoid token limits (TPM) on new accounts
-    const maxPages = Math.min(pdf.numPages, 5);
+    // Scan ALL pages (or up to a reasonable limit like 50 to prevent timeouts)
+    const maxPagesToScan = Math.min(pdf.numPages, 50);
     
-    for (let i = 1; i <= maxPages; i++) {
+    for (let i = 1; i <= maxPagesToScan; i++) {
+      if (totalChars >= MAX_CHARS) break;
+
       const page = await pdf.getPage(i);
       const textContent = await page.getTextContent();
       const pageText = textContent.items.map((item: any) => item.str).join(' ');
-      fullText += `--- Page ${i} ---\n${pageText}\n`;
+      
+      // Simple keyword matching
+      const lowerPageText = pageText.toLowerCase();
+      const hasKeyword = keywords.some(kw => lowerPageText.includes(kw.toLowerCase()));
+
+      if (hasKeyword) {
+        relevantText += `--- Page ${i} (Relevant) ---\n${pageText}\n`;
+        totalChars += pageText.length;
+      }
     }
     
-    return fullText;
+    // Fallback: If no keywords found, return first 3 pages
+    if (!relevantText) {
+       for (let i = 1; i <= Math.min(pdf.numPages, 3); i++) {
+          const page = await pdf.getPage(i);
+          const textContent = await page.getTextContent();
+          const pageText = textContent.items.map((item: any) => item.str).join(' ');
+          relevantText += `--- Page ${i} ---\n${pageText}\n`;
+       }
+    }
+    
+    return relevantText;
   } catch (error) {
     console.error("Error parsing PDF:", error);
     return "Error parsing PDF document.";
@@ -82,31 +112,36 @@ async function extractTextFromPdf(data: ArrayBuffer): Promise<string> {
 }
 
 // Helper to fetch and read documents from a specific path
-async function fetchDocumentsFromPath(path: string): Promise<string> {
+async function fetchDocumentsFromPath(path: string, keywords: string[]): Promise<string> {
   try {
     const folderRef = ref(storage, path);
     const res = await listAll(folderRef);
     
     let context = "";
 
-    // Limit to first 1 file per folder to manage context size and stay within TPM limits
-    const filesToProcess = res.items.slice(0, 1);
+    // Process ALL files, but stop when context is large enough
+    // We remove the strict 1-file limit but add a total size limit
+    
+    for (const itemRef of res.items) {
+      if (context.length > 30000) break; // Global safety limit for this folder (approx 7.5k tokens)
 
-    for (const itemRef of filesToProcess) {
       try {
         // Download file content
         const bytes = await getBytes(itemRef);
         
         let text = "";
         if (itemRef.name.toLowerCase().endsWith('.pdf')) {
-          text = await extractTextFromPdf(bytes);
+          text = await extractTextFromPdf(bytes, keywords);
         } else {
           // Assume text file
           text = new TextDecoder().decode(bytes);
+          // For text files, we just take the first 10k chars for now
+          text = text.substring(0, 10000);
         }
 
-        // Truncate to 10,000 characters (approx 2,500 tokens) per file
-        context += `\n\n=== DOCUMENT: ${itemRef.name} (from ${path}) ===\n${text.substring(0, 10000)}... [truncated]\n`;
+        if (text.length > 0) {
+          context += `\n\n=== DOCUMENT: ${itemRef.name} (from ${path}) ===\n${text}\n`;
+        }
       } catch (err) {
         console.warn(`Failed to read file ${itemRef.name}:`, err);
       }
@@ -150,12 +185,16 @@ export async function checkBuildingPlan(
       ? `Jurisdiction: State of ${jurisdiction.state}, County of ${jurisdiction.county}, City of ${jurisdiction.city}.`
       : '';
 
+    // Generate keywords for filtering
+    const keywords = getKeywords(buildingType);
+    console.log("Using keywords for filtering:", keywords);
+
     // Fetch actual code documents
     if (jurisdiction) {
       console.log("Fetching jurisdiction documents...");
-      const stateDocs = jurisdiction.state ? await fetchDocumentsFromPath(`knowledge-base/State/${jurisdiction.state}`) : "";
-      const countyDocs = jurisdiction.county ? await fetchDocumentsFromPath(`knowledge-base/County/${jurisdiction.county}`) : "";
-      const cityDocs = jurisdiction.city ? await fetchDocumentsFromPath(`knowledge-base/City/${jurisdiction.city}`) : "";
+      const stateDocs = jurisdiction.state ? await fetchDocumentsFromPath(`knowledge-base/State/${jurisdiction.state}`, keywords) : "";
+      const countyDocs = jurisdiction.county ? await fetchDocumentsFromPath(`knowledge-base/County/${jurisdiction.county}`, keywords) : "";
+      const cityDocs = jurisdiction.city ? await fetchDocumentsFromPath(`knowledge-base/City/${jurisdiction.city}`, keywords) : "";
       
       if (stateDocs || countyDocs || cityDocs) {
         jurisdictionContext += `\n\nREFERENCE BUILDING CODES:\n${stateDocs}\n${countyDocs}\n${cityDocs}`;
