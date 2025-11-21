@@ -59,7 +59,7 @@ async function convertPdfToImage(file: File): Promise<string> {
 }
 
 // Helper to extract text from a PDF file (ArrayBuffer)
-async function extractTextFromPdf(data: ArrayBuffer, keywords: string[]): Promise<string> {
+async function extractTextFromPdf(data: ArrayBuffer, keywords: string[], maxChars: number = 20000): Promise<string> {
   try {
     // Dynamic import to avoid SSR issues with canvas/DOM
     const pdfjsLib = await import('pdfjs-dist');
@@ -72,7 +72,7 @@ async function extractTextFromPdf(data: ArrayBuffer, keywords: string[]): Promis
     const pdf = await pdfjsLib.getDocument({ data }).promise;
     let relevantText = '';
     let totalChars = 0;
-    const MAX_CHARS = 20000; // Approx 5k tokens
+    const MAX_CHARS = maxChars; 
     
     // Scan ALL pages (or up to a reasonable limit like 50 to prevent timeouts)
     const maxPagesToScan = Math.min(pdf.numPages, 50);
@@ -94,13 +94,15 @@ async function extractTextFromPdf(data: ArrayBuffer, keywords: string[]): Promis
       }
     }
     
-    // Fallback: If no keywords found, return first 3 pages
+    // Fallback: If no keywords found, return first few pages until limit
     if (!relevantText) {
-       for (let i = 1; i <= Math.min(pdf.numPages, 3); i++) {
+       for (let i = 1; i <= pdf.numPages; i++) {
+          if (totalChars >= MAX_CHARS) break;
           const page = await pdf.getPage(i);
           const textContent = await page.getTextContent();
           const pageText = textContent.items.map((item: any) => item.str).join(' ');
           relevantText += `--- Page ${i} ---\n${pageText}\n`;
+          totalChars += pageText.length;
        }
     }
     
@@ -241,12 +243,18 @@ export async function checkBuildingPlan(
          const fileRef = ref(storage, selectedDocumentPath);
          const bytes = await getBytes(fileRef);
          let text = "";
+         
+         // Limit set to 100,000 characters (approx 25,000 tokens)
+         // This leaves ~5,000 tokens buffer for the image, system prompt, and response
+         // to stay under the 30,000 TPM limit of Tier 1 accounts.
+         const SINGLE_DOC_LIMIT = 100000;
+
          if (selectedDocumentPath.toLowerCase().endsWith('.pdf')) {
-            // Still use keyword filtering for the single large PDF
-            text = await extractTextFromPdf(bytes, keywords);
+            // Still use keyword filtering for the single large PDF, but with much higher limit
+            text = await extractTextFromPdf(bytes, keywords, SINGLE_DOC_LIMIT);
          } else {
             text = new TextDecoder().decode(bytes);
-            text = text.substring(0, 20000); // Larger limit for single file
+            text = text.substring(0, SINGLE_DOC_LIMIT); 
          }
          
          jurisdictionContext += `\n\nREFERENCE BUILDING CODES (Selected Document: ${fileRef.name}):\n${text}`;
