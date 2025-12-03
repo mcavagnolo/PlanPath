@@ -1,0 +1,2018 @@
+
+Chapter 11B Accessibility to Public Buildings, Public Accommodations, Commercial Buildings and Public Housing
+CALIFORNIA BUILDING CODE — MATRIX ADOPTION TABLE
+CHAPTER 11B — ACCESSIBILITY TO PUBLIC BUILDINGS, PUBLIC ACCOMMODATIONS,
+COMMERCIAL BUILDINGS AND PUBLIC HOUSING
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.
+See Chapter 1 for state agency authority and building applications.
+Division 1 Application and Administration
+Section 11B-101 Purpose
+11B-101.1 General
+This chapter contains scoping and technical requirements for accessibility to sites, facilities, buildings and elements by individuals with disabilities. The requirements are to be applied during the design, construction, additions to, and alteration of sites, facilities, buildings and elements to the extent required by Chapter 1, Section 1.9.
+11B-101.2 Reserved
+11B-102 Dimensions for Adults and Children
+The technical requirements are based on adult dimensions and anthropometrics. In addition, this chapter includes technical requirements based on children's dimensions and anthropometrics for drinking fountains, water closets, toilet compartments, lavatories and sinks, dining surfaces and work surfaces.
+11B-103 Equivalent Facilitation
+Nothing in these requirements prevents the use of designs, products or technologies as alternatives to those prescribed, provided they result in substantially equivalent or greater accessibility and usability.
+Section 11B-104 Conventions
+FIGURE 11B-104—GRAPHIC CONVENTION FOR FIGURES
+11B-104.1 Dimensions
+Dimensions that are not stated as "maximum" or "minimum" are absolute.
+11B-104.1.1 Construction and Manufacturing Tolerances
+All dimensions are subject to conventional industry tolerances except where the requirement is stated as a range with specific minimum and maximum end points.
+11B-104.2 Calculation of Percentages
+Where the required number of elements or facilities to be provided is determined by calculations of ratios or percentages and remainders or fractions result, the next greater whole number of such elements or facilities shall be provided. Where the determination of the required size or dimension of an element or facility involves ratios or percentages, rounding down for values less than one half shall be permitted.
+11B-104.3 Figures
+Unless specifically stated otherwise, figures are provided for informational purposes only.
+Section 11B-105 Referenced Standards
+11B-105.1 General
+See Chapter 35.
+Section 11B-106 Definitions
+11B-106.1 General
+For the purpose of this chapter, the terms listed in Section 11B-106.5 and defined in Chapter 2 have the indicated meaning.
+11B-106.2 Terms Defined in Referenced Standards
+Terms not listed in Section 11B-106.5 and not defined in Chapter 2, Section 202, but specifically defined in a referenced standard, shall have the specified meaning from the referenced standard unless otherwise stated.
+11B-106.3 Undefined Terms
+The meaning of terms not specifically listed in Section 11B-106.5, and not defined in Chapter 2, Section 202 or in referenced standards shall be as defined by collegiate dictionaries in the sense that the context implies.
+11B-106.4 Interchangeability
+See Chapter 2, Section 201.2.
+11B-106.5 Defined Terms
+The following terms are defined in Chapter 2, Section 202.
+ACCESS AISLE
+ACCESSIBILITY
+ACCESSIBILITY FUNCTION BUTTON
+ACCESSIBLE
+ACCESSIBLE ELEMENT
+ACCESSIBLE MEANS OF EGRESS
+ACCESSIBLE ROUTE
+ACCESSIBLE SPACE
+ADAPTABLE
+ADDITION
+ADJUSTED CONSTRUCTION COST
+ADMINISTRATIVE AUTHORITY
+ADULT CHANGING FACILITY
+AISLE
+ALTERATION
+AMUSEMENT ATTRACTION
+AMUSEMENT RIDE
+AMUSEMENT RIDE SEAT
+ANSI
+APPROVED
+APPROVED TESTING AGENCY
+AREA OF REFUGE
+AREA OF SPORT ACTIVITY
+ASSEMBLY AREA
+ASSISTIVE LISTENING SYSTEM (ALS)
+AUTOMATIC DOOR
+AUTOMATIC TELLER MACHINE (ATM)
+BATHROOM
+BLENDED TRANSITION
+BOARDING PIER
+BOAT LAUNCH RAMP
+BOAT SLIP
+BOTTLE FILLING STATION
+BUILDING
+BUILDING OFFICIAL
+CATCH POOL
+CCR
+CHARACTERS
+CHILDREN'S USE
+CIRCULATION PATH
+CLEAR
+CLEAR FLOOR SPACE
+CLOSED-CIRCUIT TELEPHONE
+COMMERCIAL FACILITIES
+COMMERCIAL PLACE OF PUBLIC AMUSEMENT
+COMMON USE
+COMPLY WITH
+CROSS SLOPE
+CURB CUT
+CURB RAMP
+DESIGNATED PUBLIC TRANSPORTATION
+DESIGNATED-ORIENTED ELEVATOR
+DETECTABLE WARNING
+DIRECTIONAL SIGN
+DISABILITY
+DISTRICT AGRICULTURAL ASSOCIATIONS
+DORMITORY
+DRIVE AISLE
+DRIVE-UP ELECTRIC VEHICLE CHARGING STATION
+DRIVEWAY
+ELECTRIC VEHICLE (EV)
+ELECTRIC VEHICLE (EV) CHARGER
+ELECTRIC VEHICLE CHARGING SPACE (EV SPACE)
+ELECTRIC VEHICLE CHARGING STATION (EVCS)
+ELECTRIC VEHICLE (EV) CONNECTOR
+ELEMENT
+ELEVATED PLAY COMPONENT
+ELEVATOR, PASSENGER
+EMPLOYEE WORK AREA
+ENFORCING AGENCY
+ENTRANCE
+EQUIVALENT FACILITATION
+EXISTING BUILDING OR FACILITY
+EXIT
+FACILITY
+FUNCTIONAL AREA
+GANGWAY
+GOLF CAR PASSAGE
+GRAB BAR
+GRADE (ADJACENT GROUND ELEVATION)
+GRADE BREAK
+GROUND FLOOR
+GROUND LEVEL PLAY COMPONENT
+GUARD
+HALL CALL CONSOLE
+HANDRAIL
+HEALTH CARE PROVIDER
+HISTORIC BUILDINGS
+HOUSING AT A PLACE OF EDUCATION
+IF, IF . . . THEN
+INTERNATIONAL SYMBOL OF ACCESSIBILITY
+KEY STATION
+KICK PLATE
+KITCHEN OR KITCHENETTE
+LAVATORY
+MAIL BOXES
+MARKED CROSSING
+MAY
+MEZZANINE
+MULTI-BEDROOM HOUSING UNIT
+NFPA
+NOSING
+OCCUPANT LOAD
+OCCUPIABLE SPACE
+OPEN RISER
+OPERABLE PART
+PASSENGER ELEVATOR
+PATH OF TRAVEL
+PEDESTRIAN
+PEDESTRIAN WAY
+PERMANENT
+PERMIT
+PICTOGRAM
+PLACE OF PUBLIC ACCOMMODATION
+PLATFORM
+PLATFORM (WHEELCHAIR) LIFT
+PLAY AREA
+PLAY COMPONENT
+POINT-OF-SALE DEVICE
+POWDER ROOM
+POWER-ASSISTED DOOR
+PRIVATE BUILDING OR FACILITY
+PROFESSIONAL OFFICE OF A HEALTH CARE PROVIDER
+PUBLIC BUILDING OR FACILITY
+PUBLIC ENTITY
+PUBLIC ENTRANCE
+PUBLIC HOUSING
+PUBLIC USE
+PUBLIC-USE AREAS
+PUBLIC WAY
+QUALIFIED HISTORIC BUILDING OR FACILITY
+RAMP
+REASONABLE PORTION
+RECOMMEND
+REMODELING
+REPAIR
+RESIDENTIAL DWELLING UNIT
+RESTRICTED ENTRANCE
+RISER
+RUNNING SLOPE
+SELF-SERVICE STORAGE
+SERVICE ENTRANCE
+SHALL
+SHOPPING CENTER (OR SHOPPING MALL)
+SHOULD
+SIDEWALK
+SIGN
+SINK
+SITE
+SLEEPING ACCOMMODATIONS
+SOFT CONTAINED PLAY STRUCTURE
+SPACE
+SPECIFIED PUBLIC TRANSPORTATION
+STAGE
+STAIR
+STAIRWAY
+STORY
+STRUCTURAL FRAME
+STRUCTURE
+TACTILE
+TACTILE SIGN
+TECHNICALLY INFEASIBLE
+TEEING GROUND
+TEMPORARY
+TEXT TELEPHONE
+TRANSFER DEVICE
+TRANSIENT LODGING
+TRANSIT BOARDING PLATFORM
+TRANSITION PLATE
+TTY
+UNREASONABLE HARDSHIP
+USE ZONE
+VALUATION THRESHOLD
+VARIABLE MESSAGE SIGN (VMS)
+VARIABLE MESSAGE SIGN (VMS) CHARACTERS
+VEHICULAR WAY
+WALK
+WET BAR
+WHEELCHAIR
+WHEELCHAIR SPACE
+WORKSTATION
+WORK AREA EQUIPMENT
+11B-107 Special Conditions Appeals Action
+See Chapter 1, Section 1.9.1.5.
+11B-108 Maintenance of Accessible Features
+Features, facilities and equipment required by Chapter 11B to be accessible to and useable by persons with disabilities shall be maintained in operable working condition. Isolated or temporary interruptions in service or accessibility due to maintenance or repairs shall be permitted.
+Division 2 Scoping Requirements
+Section 11B-201 Application
+11B-201.1 Scope
+Diagram
+All areas of newly designed and newly constructed buildings and facilities and altered portions of existing buildings and facilities shall comply with these requirements.
+UpCodes Diagrams (2)
+Primary
+Retail (CA 11B)
+Primary
+Routes: Dwelling Units (CA 11B)
+11B-201.2 Application Based on Building or Facility Use
+Where a site, building, facility, room or space contains more than one use, each portion shall comply with the applicable requirements for that use.
+11B-201.3 Temporary and Permanent Structures
+Diagram
+These requirements shall apply to temporary and permanent buildings and facilities.
+UpCodes Diagram (1)
+
+Egress Req. for Temporary Structures
+11B-201.4 Construction Support Facilities
+These requirements shall apply to temporary or permanent construction support facilities for uses and activities not directly associated with the actual processes of construction, including but not limited to offices, meeting rooms, plan rooms, other administrative or support functions. When provided, toilet and bathing facilities serving construction support facilities shall comply with Section 11B-213. When toilet and bathing facilities serving construction support facilities are provided by portable units, at least one of each type shall be accessible and connected to the construction support facilities it serves by an accessible route.
+Exception: During construction an accessible route shall not be required between site arrival points or the boundary of the area of construction and the entrance to the construction support facilities if the only means of access between them is a vehicular way not providing pedestrian access.
+Section 11B-202 Existing Buildings and Facilities
+11B-202.1 General
+Additions and alterations to existing buildings or facilities shall comply with Section 11B-202.
+11B-202.2 Additions
+Each addition to an existing building or facility shall comply with the requirements for new construction and shall comply with Section 11B-202.4.
+11B-202.3 Alterations
+Where existing elements or spaces are altered, each altered element or space shall comply with the applicable requirements of Division 2, including Section 11B-202.4.
+Exceptions:
+Reserved.
+Technically infeasible. In alterations, where the enforcing authority determines compliance with applicable requirements is technically infeasible, the alteration shall provide equivalent facilitation or comply with the requirements to the maximum extent feasible. The details of the finding that full compliance with the requirements is technically infeasible shall be recorded and entered into the files of the enforcing agency.
+Residential dwelling units not required to be accessible in compliance with this code shall not be required to comply with Section 11B-202.3.
+11B-202.3.1 Prohibited Reduction in Access
+An alteration that decreases or has the effect of decreasing the accessibility of a building or facility below the requirements for new construction at the time of the alteration is prohibited.
+11B-202.3.2 Extent of Application
+An alteration of an existing element, space or area of a building or facility shall not impose a requirement for accessibility greater than required for new construction.
+11B-202.3.3 Alteration of Single Elements
+If alterations of single elements, when considered together, amount to an alteration of a room or space in a building or facility, the entire room or space shall be made accessible.
+11B-202.4 Path of Travel Requirements in Alterations, Additions and Structural Repairs
+Diagram
+When alterations or additions are made to existing buildings or facilities, an accessible path of travel to the specific area of alteration or addition shall be provided. The primary accessible path of travel shall include:
+A primary entrance to the building or facility,
+Toilet and bathing facilities serving the area,
+Drinking fountains serving the area,
+Public telephones serving the area, and
+Signs.
+Exceptions:
+Residential dwelling units shall comply with Section 11B-233.3.4.2.
+If the following elements of a path of travel have been constructed or altered in compliance with the accessibility requirements of the immediately preceding edition of the California Building Code, it shall not be required to retrofit such elements to reflect the incremental changes in this code solely because of an alteration to an area served by those elements of the path of travel:
+A primary entrance to the building or facility,
+Toilet and bathing facilities serving the area,
+Drinking fountains serving the area,
+Public telephones serving the area, and
+Signs.
+Note: The language in this exception, which refers to the "immediately preceding edition of the California Building Code," shall permit a reference back to one CBC edition only and is not accumulative to prior editions.
+Additions or alterations to meet accessibility requirements consisting of one or more of the following items shall be limited to the actual scope of work of the project and shall not be required to comply with Section 11B-202.4:
+Altering one building entrance.
+Altering one existing toilet facility.
+Altering existing elevators.
+Altering existing steps.
+Altering existing handrails.
+Alterations solely for the purpose of barrier removal undertaken pursuant to the requirements of the Americans with Disabilities Act (Public Law 101-336, 28 C.F.R., Section 36.304) or the accessibility requirements of this code as those requirements or regulations now exist or are hereafter amended including, but not limited to, one or more of the following items shall be limited to the actual scope of work of the project and shall not be required to comply with Section 11B-202.4:
+Installing ramps.
+Making curb cuts in sidewalks and entrance.
+Repositioning shelves.
+Rearranging tables, chairs, vending machines, display racks and other furniture.
+Repositioning telephones.
+Adding raised markings on elevator control buttons.
+Installing flashing alarm lights.
+Widening doors.
+Installing offset hinges to widen doorways.
+Eliminating a turnstile or providing an alternative accessible route.
+Installing accessible door hardware.
+Installing grab bars in toilet stalls.
+Rearranging toilet partitions to increase maneuvering space.
+Insulating lavatory pipes under sinks to prevent burns.
+Installing a raised toilet seat.
+Installing a full-length bathroom mirror.
+Repositioning the paper towel dispenser in a bathroom.
+Creating designated accessible parking spaces.
+Removing high-pile, low-density carpeting.
+Alterations of existing parking lots by resurfacing and/or restriping shall be limited to the actual scope of work of the project and shall not be required to comply with Section 11B-202.4.
+The addition or replacement of signs and/or identification devices shall be limited to the actual scope of work of the project and shall not be required to comply with Section 11B-202.4.
+Projects consisting only of heating, ventilation, air conditioning, reroofing, electrical work not involving placement of switches and receptacles, cosmetic work that does not affect items regulated by this code, such as painting, equipment not considered to be a part of the architecture of the building or area, such as computer terminals and office equipment shall not be required to comply with Section 11B-202.4 unless they affect the usability of the building or facility.
+When the adjusted construction cost, as defined, is less than or equal to the current valuation threshold, as defined, the cost of compliance with Section 11B-202.4 shall be limited to 20 percent of the adjusted construction cost of alterations, structural repairs or additions. When the cost of full compliance with Section 11B-202.4 would exceed 20 percent, compliance shall be provided to the greatest extent possible without exceeding 20 percent.
+When the adjusted construction cost, as defined, exceeds the current valuation threshold, as defined, and the enforcing agency determines the cost of compliance with Section 11B-202.4 is an unreasonable hardship, as defined, full compliance with Section 11B-202.4 shall not be required. Compliance shall be provided by equivalent facilitation or to the greatest extent possible without creating an unreasonable hardship; but in no case shall the cost of compliance be less than 20 percent of the adjusted construction cost of alterations, structural repairs or additions. The details of the finding of unreasonable hardship shall be recorded and entered into the files of the enforcing agency and shall be subject to Chapter 1, Section 1.9.1.5, Special Conditions for Persons with Disabilities Requiring Appeals Action Ratification.
+For the purposes of this exception, the adjusted construction cost of alterations, structural repairs or additions shall not include the cost of alterations to path of travel elements required to comply with Section 11B-202.4.
+In choosing which accessible elements to provide, priority should be given to those elements that will provide the greatest access in the following order:
+An accessible entrance;
+An accessible route to the altered area;
+At least one accessible restroom for each sex or one accessible unisex (single-user or family) restroom;
+Accessible telephones;
+Accessible drinking fountains; and
+When possible, additional accessible elements such as parking, signs, storage and alarms.
+If an area has been altered without providing an accessible path of travel to that area, and subsequent alterations of that area or a different area on the same path of travel are undertaken within three years of the original alteration, the total cost of alterations to the areas on that path of travel during the preceding three-year period shall be considered in determining whether the cost of making that path of travel accessible is disproportionate.
+Certain types of privately funded, multistory buildings and facilities were formerly exempt from accessibility requirements above and below the first floor under this code, but as of April 1, 1994 are no longer exempt due to more restrictive provisions in the federal Americans with Disabilities Act. In alteration projects involving buildings and facilities previously approved and built without elevators, areas above and below the ground floor are subject to the 20-percent disproportionality provisions described in Exception 8, above, even if the value of the project exceeds the valuation threshold in Exception 8. The types of buildings and facilities are:
+Office buildings and passenger vehicle service stations of three stories or more and 3,000 or more square feet (279 m2) per floor.
+Offices of physicians and surgeons.
+Shopping centers.
+Other buildings and facilities three stories or more and 3,000 or more square feet (279 m2) per floor if a reasonable portion of services sought and used by the public is available on the accessible level.
+For the general privately funded multistory building exception applicable to new construction and alterations, see Section 11B-206.2.3, Exception 1.
+The elevator exception set forth in this section does not obviate or limit in any way the obligation to comply with the other accessibility requirements in this code. For example, floors above or below the accessible ground floor must meet the requirements of this section except for elevator service. If toilet or bathing facilities are provided on a level not served by an elevator, then toilet or bathing facilities must be provided on the accessible ground floor.
+Alterations solely for the purpose of installing electric vehicle charging stations (EVCS) at facilities where vehicle fueling, recharging, parking or storage is a primary function shall comply with Section 11B-202.4 to the maximum extent feasible without exceeding 20 percent of the cost of the work directly associated with the installation of EVCS. A "primary function" is a major activity for which the facility is intended.
+Alterations solely for the purpose of installing EVCS at facilities where vehicle fueling, recharging, parking or storage is not a primary function shall not be required to comply with Section 11B-202.4
+UpCodes Diagram (1)
+
+Drinking Fountain Clearances
+Building products (4)
+
+Liv® Built-in Filtered Refrigerated Water Dispenser Remote Chiller Midnight - LBWD06BKK
+Elkay
+
+
+Liv® Built-in Filtered Water Dispenser Non-refrigerated Aspen White - LBWD00WHC
+Elkay
+
+
+Pro Filtration® Bottle Filling Station & Bi-Level ADA Cooler Refrigerated Ultra-Capacity Lead Reduction - LZSTL8WSBPRO
+Elkay
+
+
+Pro Filtration® Bottle Filling Station & Single ADA Cooler Refrigerated Ultra-Capacity Lead Reduction - LZS8WSBPRO
+Elkay
+
+11B-202.5 Alterations to Qualified Historic Buildings and Facilities
+Alterations to a qualified historic building or facility shall comply with the State Historical Building Code, Part 8, Title 24, of the California Code of Regulations.
+Exception: Reserved.
+Section 11B-203 General Exceptions
+11B-203.1 General
+Sites, buildings, facilities and elements are exempt from these requirements to the extent specified by 11B-203.
+11B-203.2 Construction Sites
+Structures and sites directly associated with the actual processes of construction, including but not limited to, scaffolding, bridging, materials hoists, materials storage and construction trailers shall not be required to comply with these requirements or to be on an accessible route. Portable toilet units provided for use exclusively by construction personnel on a construction site shall not be required to comply with Section 11B-213 or to be on an accessible route.
+11B-203.3 Raised Areas
+Areas raised primarily for purposes of security, life safety or fire safety, including but not limited to observation or lookout galleries, prison guard towers, fire towers or life guard stands, shall not be required to comply with these requirements or to be on an accessible route.
+11B-203.4 Limited Access Spaces
+Spaces not customarily occupied and accessed only by ladders, catwalks, crawl spaces or very narrow passageways shall not be required to comply with these requirements or to be on an accessible route.
+11B-203.5 Machinery Spaces
+Spaces frequented only by service personnel for maintenance, repair or occasional monitoring of equipment shall not be required to comply with these requirements or to be on an accessible route. Machinery spaces include, but are not limited to, elevator pits or elevator penthouses; mechanical, electrical or communications equipment rooms; piping or equipment catwalks; water or sewage treatment pump rooms and stations; electric substations and transformer vaults; and highway and tunnel utility facilities.
+11B-203.6 Single Occupant Structures
+Single occupant structures accessed only by passageways below grade or elevated above standard curb height, including but not limited to, toll booths that are accessed only by underground tunnels, shall not be required to comply with these requirements or to be on an accessible route.
+11B-203.7 Detention and Correctional Facilities
+Diagram
+In detention and correctional facilities, common use areas that are used only by inmates or detainees and security personnel and that do not serve holding cells or housing cells required to comply with Section 11B-232, shall not be required to comply with these requirements or to be on an accessible route.
+UpCodes Diagram (1)
+
+Detention & Correctional Facilities - Common Use Areas
+11B-203.8 Residential Facilities
+In residential facilities, common use areas that do not serve residential dwelling units required to provide mobility features complying with Sections 11B-809.2 through 11B-809.4 or adaptable features complying with Sections 11B-809.6 through 11B-809.12 shall not be required to comply with these requirements or to be on an accessible route.
+11B-203.9 Employee Workstations
+Diagram
+Employee workstations shall be on an accessible route complying with Division 4. Spaces and elements within employee workstations shall only be required to comply with Sections 11B-207.1, 11B-215.3, 11B-302, 11B-303, 11B-308.1.1, 11B-308.1.2 and 11B-404.2.3 unless exempted by other parts of this code. Common use circulation paths within employee workstations shall comply with Section 11B-206.2.8.
+Exception: Receptacles, controls and switches that are an integral part of workstation furnishings, fixtures and equipment shall not be required to comply with Sections 11B-308.1.1 and 11B-308.1.2.
+UpCodes Diagram (1)
+
+Retail (CA 11B)
+11B-203.10 Raised Refereeing, Judging and Scoring Areas
+Raised structures used solely for refereeing, judging or scoring a sport shall not be required to comply with these requirements or to be on an accessible route. An accessible route complying with Division 4 shall be provided to the ground- or floor-level entry points, where provided, of stairs, ladders or other means of reaching the raised elements or areas.
+11B-203.11 Water Slides
+Water slides shall not be required to comply with these requirements or to be on an accessible route. An accessible route complying with Division 4 shall be provided to the ground- or floor-level entry points, where provided, of stairs, ladders or other means of reaching the raised elements or areas.
+11B-203.12 Animal Containment Areas
+Animal containment areas that are not for public use shall not be required to comply with these requirements or to be on an accessible route. Animal containment areas for public use shall be on an accessible route.
+11B-203.13 Raised Boxing or Wrestling Rings
+Raised boxing or wrestling rings shall not be required to comply with these requirements or to be on an accessible route. An accessible route complying with Division 4 shall be provided to the ground- or floor-level entry points, where provided, of stairs, ladders or other means of reaching the raised elements or areas.
+11B-203.14 Raised Diving Boards and Diving Platforms
+Raised diving boards and diving platforms shall not be required to comply with these requirements or to be on an accessible route. An accessible route complying with Division 4 shall be provided to the ground- or floor-level entry points, where provided, of stairs, ladders or other means of reaching the raised elements or areas.
+Section 11B-204 Protruding Objects
+11B-204.1 General
+Protruding objects on circulation paths shall comply with Section 11B-307.
+Exceptions:
+Within areas of sport activity, protruding objects on circulation paths shall not be required to comply with Section 11B-307.
+Within play areas, protruding objects on circulation paths shall not be required to comply with Section 11B-307 provided that ground level accessible routes provide vertical clearance in compliance with Section 11B-1008.2.
+Section 11B-205 Operable Parts
+Diagram
+UpCodes Diagrams (3)
+
+Accessible Bathing Facilities (11B)
+
+Mounting Heights: Bathroom Accessories
+
+Door Hardware Req. (CA 11B)
+11B-205.1 General
+Diagram
+Operable parts on accessible elements, accessible routes, and in accessible rooms and spaces shall comply with Section 11B-309.
+Exceptions:
+Operable parts that are intended for use only by service or maintenance personnel shall not be required to comply with Section 11B-309.
+Electrical or communication receptacles serving a dedicated use shall not be required to comply with Section 11B-309.
+Reserved.
+Floor electrical receptacles shall not be required to comply with Section 11B-309.
+HVAC diffusers shall not be required to comply with Section 11B-309.
+Except for light switches, where redundant controls are provided for a single element, one control in each space shall not be required to comply with Section 11B-309.
+Cleats and other boat securement devices shall not be required to comply with Section 11B-309.3.
+Exercise machines and exercise equipment shall not be required to comply with Section 11B-309.
+In residential dwelling units with mobility features where receptacles are provided in a kitchen at a corner work surface, one receptacle shall be located 36 inches (915 mm) from either wall at the inside corner.
+FIGURE 11B-205.1 Ex. 9—ELECTRICAL RECEPTACLES AT CORNER WORKSURFACES
+UpCodes Diagrams (2)
+
+Outlet Locations Over an Obstruction (FHA)
+
+Accessible Switch & Control Recommendations (FHA)
+Section 11B-206 Accessible Routes
+Diagram
+UpCodes Diagrams (8)
+
+Routes Within a Facility (ADA)
+
+Accessible Route Components
+
+Routes: Mezzanines
+
+Security Barriers (ADA)
+
+Distance to Elevators <200 ft
+
+Distance to Elevators >200 ft
+
+EV Charging Stations Relationship to Accessible Routes (CA 11B)
+
+Area of Refuge Access to Stairway or Elevator
+11B-206.1 General
+Diagram
+Accessible routes shall be provided in accordance with Section 11B-206 and shall comply with Division 4.
+UpCodes Diagrams (2)
+
+Accessible Route Components
+
+Walking Surface Slopes
+Building products (4)
+
+Back Up Pavers 4 x 2¼ x 7⅝
+Interstate Brick
+
+
+Modular Paver 4 x 2¼ x 7⅝
+Interstate Brick
+
+
+Modular Solid 4 x 2¼ x 8
+Interstate Brick
+
+
+True Paver 4 x 2¼ x 8
+Interstate Brick
+
+11B-206.2 Where Required
+Accessible routes shall be provided where required by Section 11B-206.2.
+11B-206.2.1 Site Arrival Points
+Diagram
+At least one accessible route shall be provided within the site from accessible parking spaces and accessible passenger drop-off and loading zones; public streets and sidewalks; and public transportation stops to the accessible building or facility entrance they serve. Where more than one route is provided, all routes must be accessible.
+Exceptions:
+Reserved.
+An accessible route shall not be required between site arrival points and the building or facility entrance if the only means of access between them is a vehicular way not providing pedestrian access.
+General circulation paths shall be permitted when located in close proximity to an accessible route.
+UpCodes Diagram (1)
+Primary
+Routes: Site Arrival Points
+11B-206.2.2 Within a Site
+Diagram
+At least one accessible route shall connect accessible buildings, accessible facilities, accessible elements and accessible spaces that are on the same site.
+Exception: An accessible route shall not be required between accessible buildings, accessible facilities, accessible elements and accessible spaces if the only means of access between them is a vehicular way not providing pedestrian access.
+UpCodes Diagrams (2)
+Primary
+Routes Within the Site
+
+EV Charging Station Location within a Site
+11B-206.2.3 Multistory Buildings and Facilities
+Diagram
+At least one accessible route shall connect each story and mezzanine in multistory buildings and facilities.
+Exceptions:
+The following types of privately funded multi-story buildings do not require a ramp or elevator above and below the first floor:
+1.1.   Multistoried office buildings (other than the professional office of a health care provider) and passenger vehicle service stations less than three stories high or less than 3,000 square feet (279 m2) per story.
+1.2.   Any other privately funded multistoried building that is not a shopping center, shopping mall or the professional office of a health care provider or a terminal, depot or other station used for specified public transportation or an airport passenger terminal and that is less than three stories high or less than 3,000 square feet (279 m2) per story if a reasonable portion of all facilities and accommodations normally sought and used by the public in such a building are accessible to and usable by persons with disabilities.
+Reserved.
+In detention and correctional facilities, an accessible route shall not be required to connect stories where cells with mobility features required to comply with Section 11B-807.2, all common use areas serving cells with mobility features required to comply with Section 11B-807.2, and all public use areas are on an accessible route.
+In residential facilities, an accessible route shall not be required to connect stories where residential dwelling units with mobility features required to comply with Sections 11B-809.2 through 11B-809.4, residential dwelling units with adaptable features complying with Sections 11B-809.6 through 11B-809.12, all common use areas serving residential dwelling units with mobility features required to comply with Sections 11B-809.2 through 11B-809.4, all common use areas serving residential dwelling units with adaptable features complying with Sections 11B-809.6 through 11B-809.12, and public use areas serving residential dwelling units are on an accessible route.
+Within multistory transient lodging guest rooms with mobility features required to comply with Section 11B-806.2, an accessible route shall not be required to connect stories provided that spaces complying with Section 11B-806.2 are on an accessible route and sleeping accommodations for two persons minimum are provided on a story served by an accessible route.
+In air traffic control towers, an accessible route shall not be required to serve the cab and the equipment areas on the floor immediately below the cab.
+Reserved.
+UpCodes Diagram (1)
+Primary
+Routes: Mezzanines
+11B-206.2.3.1 Stairs and Escalators in Existing Buildings
+In alterations and additions, where an escalator or stair is provided where none existed previously and major structural modifications are necessary for the installation, an accessible route shall be provided between the levels served by the escalator or stair unless exempted by Section 11B-206.2.3 Exceptions 1 through 7.
+11B-206.2.3.2 Distance to Elevators
+Diagram
+In new construction of buildings where elevators are required by Section 11B-206.2.3, and which exceed 10,000 square feet (929 m2) on any floor, an accessible means of vertical access via ramp, elevator or lift shall be provided within 200 feet (60,960 mm) of travel of each stair and each escalator. In existing buildings that exceed 10,000 square feet (929 m2) on any floor and in which elevators are required by Section 11B-206.2.3, whenever a newly constructed means of vertical access is provided via stairs or an escalator, an accessible means of vertical access via ramp, elevator or lift shall be provided within 200 feet (60,960 mm) of travel of each new stair or escalator.
+Exception: Stairs used solely for emergency egress.
+UpCodes Diagrams (2)
+Primary
+Distance to Elevators >200 ft
+Primary
+Distance to Elevators <200 ft
+11B-206.2.4 Spaces and Elements
+Diagram
+At least one accessible route shall connect accessible building or facility entrances with all accessible spaces and elements within the building or facility, including mezzanines, which are otherwise connected by a circulation path unless exempted by Section 11B-206.2.3 Exceptions 1 through 7.
+Exceptions:
+Reserved.
+In assembly areas with fixed seating required to comply with Section 11B-221, an accessible route shall not be required to serve fixed seating where wheelchair spaces required to be on an accessible route are not provided.
+Reserved.
+UpCodes Diagram (1)
+
+Routes: Dwelling Units (CA 11B)
+11B-206.2.5 Restaurants, Cafeterias, Banquet Facilities and Bars
+In restaurants, cafeterias, banquet facilities, bars and similar facilities, an accessible route shall be provided to all functional areas, including raised or sunken areas, and outdoor areas.
+Exceptions:
+In alterations of buildings or facilities not required to provide an accessible route between stories, an accessible route shall not be required to a mezzanine dining area where the mezzanine contains less than 25 percent of the total combined area for seating and dining and where the same decor and services are provided in the accessible area.
+Reserved.
+In sports facilities, tiered dining areas providing seating required to comply with Section 11B-221 shall be required to have accessible routes serving at least 25 percent of the dining area provided that accessible routes serve seating complying with Section 11B-221 and each tier is provided with the same services.
+11B-206.2.6 Performance Areas
+Where a circulation path directly connects a performance area to an assembly seating area, an accessible route shall directly connect the assembly seating area with the performance area. An accessible route shall be provided from performance areas to ancillary areas or facilities used by performers unless exempted by Section 11B-206.2.3 Exceptions 1 through 7.
+11B-206.2.7 Press Boxes
+Press boxes in assembly areas shall be on an accessible route.
+Exceptions:
+An accessible route shall not be required to press boxes in bleachers that have points of entry at only one level provided that the aggregate area of all press boxes is 500 square feet (46 m2) maximum.
+An accessible route shall not be required to free-standing press boxes that are elevated above grade 12 feet (3660 mm) minimum provided that the aggregate area of all press boxes is 500 square feet (46 m2) maximum.
+11B-206.2.8 Employee Work Areas
+Common use circulation paths within employee work areas shall comply with Section 11B-402.
+Exceptions:
+Reserved.
+Common use circulation paths located within employee work areas that are an integral component of work area equipment shall not be required to comply with Section 11B-402.
+Common use circulation paths located within exterior employee work areas that are fully exposed to the weather shall not be required to comply with Section 11B-402.
+11B-206.2.9 Amusement Rides
+Amusement rides required to comply with Section 11B-234 shall provide accessible routes in accordance with Section 11B-206.2.9. Accessible routes serving amusement rides shall comply with Division 4 except as modified by Section 11B-1002.2.
+11B-206.2.9.1 Load and Unload Areas
+Load and unload areas shall be on an accessible route. Where load and unload areas have more than one loading or unloading position, at least one loading and unloading position shall be on an accessible route.
+11B-206.2.9.2 Wheelchair Spaces, Ride Seats Designed for Transfer, and Transfer Devices
+When amusement rides are in the load and unload position, wheelchair spaces complying with Section 11B-1002.4, amusement ride seats designed for transfer complying with Section 11B-1002.5, and transfer devices complying with Section 11B-1002.6 shall be on an accessible route.
+11B-206.2.10 Recreational Boating Facilities
+Boat slips required to comply with Section 11B-235.2 and boarding piers at boat launch ramps required to comply with Section 11B-235.3 shall be on an accessible route. Accessible routes serving recreational boating facilities shall comply with Division 4, except as modified by Section 11B-1003.2.
+11B-206.2.11 Bowling Lanes
+Where bowling lanes are provided, at least 5 percent, but no fewer than one of each type of bowling lane, shall be on an accessible route.
+11B-206.2.12 Court Sports
+In court sports, at least one accessible route shall directly connect both sides of the court.
+11B-206.2.13 Exercise Machines and Equipment
+Exercise machines and equipment required to comply with Section 11B-236 shall be on an accessible route.
+11B-206.2.14 Fishing Piers and Platforms
+Fishing piers and platforms shall be on an accessible route. Accessible routes serving fishing piers and platforms shall comply with Division 4 except as modified by Section 11B-1005.1.
+11B-206.2.15 Golf Facilities
+At least one accessible route shall connect accessible elements and spaces within the boundary of the golf course. In addition, accessible routes serving golf car rental areas; bag drop areas; course weather shelters complying with Section 11B-238.2.3; course toilet rooms; and practice putting greens, practice teeing grounds and teeing stations at driving ranges complying with Section 11B-238.3 shall comply with Division 4 except as modified by Section 11B-1006.2.
+Exception: Golf car passages complying with Section 11B-1006.3 shall be permitted to be used for all or part of accessible routes required by Section 11B-206.2.15.
+11B-206.2.16 Miniature Golf Facilities
+Holes required to comply with Section 11B-239.2, including the start of play, shall be on an accessible route. Accessible routes serving miniature golf facilities shall comply with Division 4 except as modified by Section 11B-1007.2.
+11B-206.2.17 Play Areas
+Play areas shall provide accessible routes in accordance with Section 11B-206.2.17. Accessible routes serving play areas shall comply with Division 4 except as modified by Section 11B-1008.2.
+11B-206.2.17.1 Ground Level and Elevated Play Components
+At least one accessible route shall be provided within the play area. The accessible route shall connect ground level play components required to comply with Section 11B-240.2.1 and elevated play components required to comply with Section 11B-240.2.2, including entry and exit points of the play components.
+11B-206.2.17.2 Soft Contained Play Structures
+Where three or fewer entry points are provided for soft contained play structures, at least one entry point shall be on an accessible route. Where four or more entry points are provided for soft contained play structures, at least two entry points shall be on an accessible route.
+11B-206.2.18 Area of Sport Activity
+An accessible route shall be provided to the boundary of each area of sport activity.
+11B-206.2.19 Pedestrian Street Crossings
+Where walks or sidewalks are provided, a curb ramp, blended transition or a combination of curb ramps and blended transitions complying with Section 11B-406 shall connect the walks or sidewalks at each pedestrian street crossing. The curb ramp (excluding any flared sides) or blended transition shall be contained wholly within the width of the pedestrian street crossing served.
+Exception: Compliance with Section 11B-206.2.19 shall not be required where pedestrian crossing is prohibited by the appropriate administrative authority.
+11B-206.3 Location
+Accessible routes shall coincide with or be located in the same area as general circulation paths. Where circulation paths are interior, required accessible routes shall also be interior. An accessible route shall not pass through kitchens, storage rooms, restrooms, closets or other spaces used for similar purposes, except as permitted by Chapter 10.
+11B-206.4 Entrances
+Entrances shall be provided in accordance with Section 11B-206.4. Entrance doors, doorways and gates shall comply with Section 11B-404 and shall be on an accessible route complying with Section 11B-402.
+Exceptions:
+Reserved.
+Reserved.
+11B-206.4.1 Entrances
+All entrances shall comply with Section 11B-404.
+11B-206.4.2 Parking Structure Entrances
+Diagram
+Where direct access is provided for pedestrians from a parking structure to a building or facility entrance, each direct access to the building or facility entrance shall comply with Section 11B-404.
+UpCodes Diagram (1)
+
+Parking Garages: Accessible Parking
+11B-206.4.3 Entrances From Tunnels or Elevated Walkways
+Where direct access is provided for pedestrians from a pedestrian tunnel or elevated walkway to a building or facility, all entrances to the building or facility from each tunnel or walkway shall comply with Section 11B-404.
+11B-206.4.4 Transportation Facilities
+In addition to the requirements of Sections 11B-206.4.2, 11B-206.4.3 and 11B-206.4.5 through 11B-206.4.9, transportation facilities shall provide entrances in accordance with Section 11B-206.4.4.
+11B-206.4.4.1 Location
+In transportation facilities, where different entrances serve different transportation fixed routes or groups of fixed routes, entrances serving each fixed route or group of fixed routes shall comply with Section 11B-404.
+Exception: Entrances to key stations and existing intercity rail stations retrofitted in accordance with 49 CFR 37.49 or 49 CFR 37.51 shall not be required to comply with Section 11B-206.4.4.1.
+11B-206.4.4.2 Direct Connections
+Direct connections to other facilities shall provide an accessible route complying with Section 11B-404 from the point of connection to boarding platforms and all transportation system elements required to be accessible. Any elements provided to facilitate future direct connections shall be on an accessible route connecting boarding platforms and all transportation system elements required to be accessible.
+Exception: In key stations and existing intercity rail stations, existing direct connections shall not be required to comply with Section 11B-404.
+11B-206.4.4.3 Key Stations and Intercity Rail Stations
+Key stations and existing intercity rail stations required by Subpart C of 49 CFR part 37 to be altered, shall have entrances complying with Section 11B-404.
+11B-206.4.5 Tenant Spaces
+All entrances to each tenancy in a facility shall comply with Section 11B-404.
+Exception: Self-service storage facilities not required to comply with Section 11B-225.3 shall not be required to be on an accessible route.
+11B-206.4.6 Residential Dwelling Unit Primary Entrance
+Diagram
+In residential dwelling units, at least one primary entrance shall comply with Section 11B-404. The primary entrance to a residential dwelling unit shall not be to a bedroom.
+UpCodes Diagram (1)
+
+Routes: Dwelling Units (CA 11B)
+11B-206.4.7 Restricted Entrances
+Where restricted entrances are provided to a building or facility, all restricted entrances to the building or facility shall comply with Section 11B-404.
+11B-206.4.8 Service Entrances
+If a service entrance is the only entrance to a building or to a tenancy in a facility, that entrance shall comply with Section 11B-404. In existing buildings and facilities, a service entrance shall not be the sole accessible entrance unless it is the only entrance to a building or facility.
+11B-206.4.9 Entrances for Inmates or Detainees
+Where entrances used only by inmates or detainees and security personnel are provided at judicial facilities, detention facilities or correctional facilities, at least one such entrance shall comply with Section 11B-404.
+11B-206.4.10 Medical Care and Long-Term Care Facilities
+Weather protection by a canopy or roof overhang shall be provided at a minimum of one accessible entrance to licensed medical care and licensed long-term care facilities where the period of stay may exceed twenty-four hours. The area of weather protection shall include the passenger drop-off and loading zone complying with Section 11B-209.3 and the accessible route from the passenger loading zone to the accessible entrance it serves.
+11B-206.5 Doors, Doorways and Gates
+Diagram
+Doors, doorways and gates providing user passage shall be provided in accordance with Section 11B-206.5.
+UpCodes Diagram (1)
+
+Door Hardware Req. (CA 11B)
+11B-206.5.1 Entrances
+Each entrance to a building or facility required to comply with Section 11B-206.4 shall comply with Section 11B-404.
+11B-206.5.2 Rooms and Spaces
+Within a building or facility, every door, doorway or gate serving rooms and spaces complying with this chapter shall comply with Section 11B-404.
+11B-206.5.3 Transient Lodging Facilities
+In transient lodging facilities, entrances, doors and doorways providing user passage into and within guest rooms that are not required to provide mobility features complying with Section 11B-806.2 shall comply with Section 11B-404.2.3.
+Exception: Shower and sauna doors in guest rooms that are not required to provide mobility features complying with Section 11B-806.2 shall not be required to comply with Section 11B-404.2.3.
+11B-206.5.4 Residential Dwelling Units
+Diagram
+In residential dwelling units required to provide mobility features complying with Sections 11B-809.2 through 11B-809.4, all doors and doorways providing user passage shall comply with Section 11B-404.
+UpCodes Diagram (1)
+
+Routes: Dwelling Units (CA 11B)
+11B-206.6 Elevators
+Elevators provided for passengers shall comply with Section 11B-407. Where multiple elevators are provided, each elevator shall comply with Section 11B-407.
+Exceptions:
+In a building or facility permitted to use the exceptions to Section 11B-206.2.3 or permitted by Section 11B-206.7 to use a platform lift, elevators complying with Section 11B-408 shall be permitted.
+Elevators complying with Section 11B-408 or 11B-409 shall be permitted in multistory residential dwelling units. Elevators provided as a means of access within a private residence shall be installed so that they are not accessible to the general public or to other occupants of the building.
+Destination-oriented elevators complying with Section 11B-411 shall be permitted.
+11B-206.6.1 Existing Elevators
+Where elements of existing elevators are altered, the same element shall also be altered in all elevators that are programmed to respond to the same hall call control as the altered elevator and shall comply with the requirements of Section 11B-407 for the altered element.
+Exception: Where a group of existing elevators are altered into a destination-oriented elevator system, or where elements of existing destination-oriented elevators are altered, the same elements shall also be altered in all elevators that are programmed to respond to the same call console or group of call consoles and shall comply with the requirements of Section 11B-411 for the altered elements.
+11B-206.7 Platform Lifts
+Diagram
+Platform lifts shall comply with Section 11B-410. Platform lifts shall be permitted as a component of an accessible route in new construction in accordance with Section 11B-206.7. Platform lifts shall be permitted as a component of an accessible route in an existing building or facility.
+UpCodes Diagram (1)
+
+Vertical Platform Lifts
+11B-206.7.1 Performance Areas and Speakers' Platforms
+Platform lifts shall be permitted to provide accessible routes to performance areas and speakers' platforms.
+11B-206.7.2 Wheelchair Spaces
+Platform lifts shall be permitted to provide an accessible route to comply with the wheelchair space dispersion and line-of-sight requirements of Sections 11B-221 and 11B-802.
+11B-206.7.3 Incidental Spaces
+Platform lifts shall be permitted to provide an accessible route to incidental spaces which are not public use spaces and which are occupied by five persons maximum.
+11B-206.7.4 Judicial Spaces
+Platform lifts shall be permitted to provide an accessible route to: jury boxes and witness stands; raised courtroom stations, including judges' benches, clerks' stations, bailiffs' stations, deputy clerks' stations and court reporters' stations; and to depressed areas such as the well of a court.
+11B-206.7.5 Existing Site Constraints
+Platform lifts shall be permitted where existing exterior site constraints make use of a ramp or elevator infeasible.
+11B-206.7.6 Guest Rooms and Residential Dwelling Units
+Platform lifts shall be permitted to connect levels within transient lodging guest rooms required to provide mobility features complying with Section 11B-806.2 or residential dwelling units required to provide mobility features complying with Sections 11B-809.2 through 11B-809.4 or adaptable features complying with Sections 11B-809.6 through 11B-809.12.
+11B-206.7.7 Amusement Rides
+Platform lifts shall be permitted to provide accessible routes to load and unload areas serving amusement rides.
+11B-206.7.8 Play Areas
+Platform lifts shall be permitted to provide accessible routes to play components or soft contained play structures.
+11B-206.7.9 Team or Player Seating
+Platform lifts shall be permitted to provide accessible routes to team or player seating areas serving areas of sport activity.
+11B-206.7.10 Recreational Boating Facilities and Fishing Piers and Platforms
+Platform lifts shall be permitted to be used instead of gangways that are part of accessible routes serving recreational boating facilities and fishing piers and platforms.
+11B-206.8 Security Barriers
+Diagram
+Security barriers, including but not limited to security bollards and security check points, shall not obstruct a required accessible route or accessible means of egress.
+Exception: Where security barriers incorporate elements that cannot comply with these requirements such as certain metal detectors, fluoroscopes or other similar devices, the accessible route shall be permitted to be located adjacent to security screening devices. The accessible route shall permit persons with disabilities passing around security barriers to maintain visual contact with their personal items to the same extent provided others passing through the security barrier.
+UpCodes Diagram (1)
+
+Security Barriers (ADA)
+Section 11B-207 Accessible Means of Egress
+Diagram
+UpCodes Diagrams (2)
+
+Areas of Refuge (CA)
+
+Access. Means of Egress: Stairways
+11B-207.1 General
+Diagram
+Means of egress shall comply with Chapter 10, Section 1009 and Section 11B-207.
+Exceptions:
+Where means of egress are permitted by local building or life safety codes to share a common path of egress travel, accessible means of egress shall be permitted to share a common path of egress travel.
+Areas of refuge shall not be required in detention and correctional facilities.
+Accessible means of egress are not required to be provided in existing buildings.
+Doors that provide access only to interior or exterior stairways shall not be required to comply with Section 11B-404.
+Exits in excess of those required by Chapter 10, and which are more than 24 inches (610 mm) above grade shall not be required to comply with Section 11B-404 or be on an accessible route. Directional signs shall be provided in compliance with Chapter 10, Section 1009.10.
+UpCodes Diagrams (2)
+
+Access. Means of Egress: Elevators
+
+Common Path of Egress Travel
+11B-207.2 Platform Lifts
+Standby power shall be provided for platform lifts permitted by Chapter 10, Section 1009.5 to serve as a part of an accessible means of egress. To ensure continued operation in case of primary power loss, platform lifts shall be provided with standby power or with self-rechargeable battery power that provides sufficient power to operate all platform lift functions for a minimum of five upward and downward trips.
+Section 11B-208 Parking Spaces
+Diagram
+UpCodes Diagrams (3)
+
+Multiple Parking Lots on a Site
+
+Parking Stalls (CA 11B)
+
+Example: Accessible parking in multiple lots
+11B-208.1 General
+Diagram
+Where parking spaces are provided, parking spaces shall be provided in accordance with Section 11B-208. For the purposes of this section, electric vehicle charging stations are not parking spaces; see Section 11B-228.
+Exceptions:
+Parking spaces used exclusively for buses, trucks, other delivery vehicles or vehicular impound shall not be required to comply with Section 11B-208 provided that lots accessed by the public are provided with a passenger drop-off and loading zone complying with Section 11B-503.
+In public housing facilities, electric vehicle chargers are permitted to be installed at an accessible parking space assigned to the resident.
+UpCodes Diagram (1)
+Primary
+Multiple Parking Lots on a Site
+11B-208.2 Minimum Number
+Diagram
+Parking spaces complying with Section 11B-502 shall be provided in accordance with Table 11B-208.2 except as required by Sections 11B-208.2.1, 11B-208.2.2 and 11B-208.2.3. Where more than one parking facility is provided on a site, the number of accessible spaces provided on the site shall be calculated according to the number of spaces required for each parking facility.
+TABLE 11B-208.2—
+PARKING SPACES
+UpCodes Diagram (1)
+Primary
+Example: Accessible parking in multiple lots
+11B-208.2.1 Hospital Outpatient Facilities
+Diagram
+Ten percent of patient and visitor parking spaces provided to serve hospital outpatient facilities, and free-standing buildings providing outpatient clinical services of a hospital, shall comply with Section 11B-502.
+UpCodes Diagram (1)
+
+Parking: Outpatient Facilities
+11B-208.2.2 Rehabilitation Facilities and Outpatient Physical Therapy Facilities
+Twenty percent of patient and visitor parking spaces provided to serve rehabilitation facilities specializing in treating conditions that affect mobility and outpatient physical therapy facilities shall comply with Section 11B-502.
+11B-208.2.3 Residential Facilities
+Parking spaces provided to serve residential facilities shall comply with Section 11B-208.2.3.
+11B-208.2.3.1 Parking for Residents
+Where at least one parking space is provided for each residential dwelling unit, at least one parking space complying with Section 11B-502 shall be provided for each residential dwelling unit required to provide mobility features complying with Sections 11B-809.2 through 11B-809.4. Where fewer than one parking space is provided for each residential dwelling unit, parking spaces complying with Section 11B-502 shall be provided in accordance with Table 11B-208.2.
+11B-208.2.3.2 Additional Parking Spaces for Residents
+Where the total number of parking spaces provided for each residential dwelling unit exceeds one parking space per residential dwelling unit, 2 percent, but no fewer than one space, of all the parking spaces not covered by Section 11B-208.2.3.1 shall comply with Section 11B-502.
+11B-208.2.3.3 Parking for Guests, Employees and Other Non-Residents
+Where parking spaces are provided for persons other than residents, parking shall be provided in accordance with Table 11B-208.2.
+11B-208.2.4 Van Parking Spaces
+For every six or fraction of six parking spaces required by Section 11B-208.2 to comply with Section 11B-502, at least one shall be a van parking space complying with Section 11B-502.
+11B-208.3 Location
+Parking facilities shall comply with Section 11B-208.3.
+11B-208.3.1 General
+Diagram
+Parking spaces complying with Section 11B-502 that serve a particular building or facility shall be located on the shortest accessible route from parking to an entrance complying with Section 11B-206.4. Where parking serves more than one accessible entrance, parking spaces complying with Section 11B-502 shall be dispersed and located on the shortest accessible route to the accessible entrances. In parking facilities that do not serve a particular building or facility, parking spaces complying with Section 11B-502 shall be located on the shortest accessible route to an accessible pedestrian entrance of the parking facility.
+Exceptions:
+All van parking spaces shall be permitted to be grouped on one level within a multistory parking facility.
+Parking spaces shall be permitted to be located in different parking facilities if substantially equivalent or greater accessibility is provided in terms of distance from an accessible entrance or entrances, parking fee and user convenience.
+UpCodes Diagrams (3)
+
+Multiple Parking Lots on a Site
+
+Parking Access Aisles and Accessible Routes
+
+Parking Garages: Accessible Parking
+11B-208.3.2 Residential Facilities
+In residential facilities containing residential dwelling units required to provide mobility features complying with Sections 11B-809.2 through 11B-809.4, and adaptable features complying with Sections 11B-809.6 through 11B-809.12, parking spaces provided in accordance with Section 11B-208.2.3.1 shall be located on the shortest accessible route to the residential dwelling unit entrance they serve. Spaces provided in accordance with Section 11B-208.2.3.2 shall be dispersed throughout all types of parking provided for the residential dwelling units.
+Exception: Parking spaces provided in accordance with Section 11B-208.2.3.2 shall not be required to be dispersed throughout all types of parking if substantially equivalent or greater accessibility is provided in terms of distance from an accessible entrance, parking fee and user convenience.
+11B-208.3.3 Private Garages Accessory to Residential Dwelling Units
+Private garages accessory to residential dwelling units shall comply with Section 11B-208.3. Private garages include individual garages and multiple individual garages grouped together.
+11B-208.3.3.1
+Detached private garages accessory to residential dwelling units shall be accessible as required by Section 11B-208.3.
+11B-208.3.3.2
+Attached private garages directly serving a single residential dwelling unit shall provide at least one of the following options:
+A door leading directly from the residential dwelling unit which immediately enters the garage.
+An accessible route from the residential dwelling unit to an exterior door entering the garage.
+An accessible route from the residential dwelling unit's primary entry door to the vehicular entrance at the garage.
+Section 11B-209 Passenger Drop-Off and Loading Zones and Bus Stops
+11B-209.1 General
+Passenger drop-off and loading zones shall be provided in accordance with Section 11B-209.
+11B-209.2 Type
+Where provided, passenger drop-off and loading zones shall comply with Section 11B-209.2.
+11B-209.2.1 Passenger Drop-Off and Loading Zones
+Passenger drop-off and loading zones, except those required to comply with Sections 11B-209.2.2 and 11B-209.2.3, shall provide at least one passenger drop-off and loading zone complying with Section 11B-503 in every continuous 100 linear feet (30480 mm) of drop-off and loading zone space, or fraction thereof.
+11B-209.2.2 Bus Loading Zones
+In bus loading zones restricted to use by designated or specified public transportation vehicles, each bus bay, bus stop or other area designated for lift or ramp deployment shall comply with Section 11B-810.2.
+11B-209.2.3 On-Street Bus Stops
+On-street bus stops shall comply with Section 11B-810.2 to the maximum extent practicable.
+11B-209.3 Medical Care and Long-Term Care Facilities
+At least one passenger drop-off and loading zone complying with Section 11B-503 shall be provided at an accessible entrance to licensed medical care and licensed long-term care facilities where the period of stay may exceed twenty-four hours.
+11B-209.4 Valet Parking
+Parking facilities that provide valet parking services shall provide at least one passenger drop-off and loading zone complying with Section 11B-503. The parking requirements of Section 11B-208.1 apply to facilities with valet parking.
+11B-209.5 Mechanical Access Parking Garages
+Mechanical access parking garages shall provide at least one passenger drop-off and loading zone complying with Section 11B-503 at vehicle drop-off and vehicle pick-up areas.
+Section 11B-210 Stairways
+Diagram
+UpCodes Diagram (1)
+
+Access. Means of Egress: Stairways
+11B-210.1 General
+Diagram
+Interior and exterior stairs shall comply with Section 11B-504.
+Exceptions:
+In detention and correctional facilities, stairs that are not located in public use areas shall not be required to comply with Section 11B-504.
+In alterations, stairs between levels that are connected by an accessible route shall not be required to comply with Section 11B-504, except that striping complying with Section 11B-504.4.1 and handrails complying with Section 11B-505 shall be provided when the stairs are altered.
+In assembly areas, aisle stairs shall not be required to comply with Section 11B-504 except that striping complying with Section 11B-504.4.1 shall be provided.
+Stairs that connect play components shall not be required to comply with Section 11B-504 except that striping complying with Section 11B-504.4.1 shall be provided.
+UpCodes Diagram (1)
+
+Stair Treads: Contrasting Stripe
+Section 11B-211 Drinking Fountains and Bottle-Filling Stations
+Diagram
+UpCodes Diagrams (2)
+
+Drinking Fountain Accessibility: Scoping, pt. 1
+
+Drinking Fountain Accessibility: Scoping, pt. 2
+Building products (4)
+
+Liv® Built-in Filtered Refrigerated Water Dispenser Remote Chiller Midnight - LBWD06BKK
+Elkay
+
+
+Liv® Built-in Filtered Water Dispenser Non-refrigerated Aspen White - LBWD00WHC
+Elkay
+
+
+Pro Filtration® Bottle Filling Station & Bi-Level ADA Cooler Refrigerated Ultra-Capacity Lead Reduction - LZSTL8WSBPRO
+Elkay
+
+
+Pro Filtration® Bottle Filling Station & Single ADA Cooler Refrigerated Ultra-Capacity Lead Reduction - LZS8WSBPRO
+Elkay
+
+11B-211.1 General
+Where drinking fountains are provided on an exterior site, on a floor, or within a secured area they shall be provided in accordance with Section 11B-211.
+Exception: In detention or correctional facilities, drinking fountains only serving holding or housing cells not required to comply with Section 11B-232 shall not be required to comply with Section 11B-211.
+11B-211.2 Minimum Number
+Diagram
+No fewer than two drinking fountains shall be provided. When provided, one drinking fountain shall comply with Sections 11B-602.1 through 11B-602.6, 11B-602.8 and 11B-602.9 and one drinking fountain shall comply with Sections 11B-602.7 and 11B-602.9.
+Exception: Where a single drinking fountain complies with Sections 11B-602.1 through 11B-602.9, it shall be permitted to be substituted for two separate drinking fountains.
+UpCodes Diagrams (4)
+Primary
+Drinking Fountain Accessibility: Scoping, pt. 2
+Primary
+Drinking Fountain Accessibility: Scoping, pt. 1
+
+Multiple Drinking Fountains
+
+Drinking Fountains: Pedestrian Protection (11B)
+11B-211.3 More Than Minimum Number
+Diagram
+Where more than the minimum number of drinking fountains specified in Section 11B-211.2 are provided, 50 percent of the total number of drinking fountains provided shall comply with Sections 11B-602.1 through 11B-602.6, 11B-602.8 and 11B-602.9, and 50 percent of the total number of drinking fountains provided shall comply with Sections 11B-602.7 and 11B-602.9.
+Exception: Where 50 percent of the drinking fountains yields a fraction, 50 percent shall be permitted to be rounded up or down provided that the total number of drinking fountains complying with Section 11B-211 equals 100 percent of drinking fountains.
+UpCodes Diagrams (3)
+Primary
+Drinking Fountain Accessibility: Scoping, pt. 2
+Primary
+Drinking Fountain Accessibility: Scoping, pt. 1
+
+Drinking Fountains: Pedestrian Protection (11B)
+11B-211.4 Bottle-Filling Stations
+Diagram
+Where bottle-filling stations are provided they shall comply with Section 11B-602.10.
+Exception: In detention or correctional facilities, bottle-filling stations only serving holding or housing cells not required to comply with Section 11B-232 shall not be required to comply with Section 11B-211.4.
+UpCodes Diagram (1)
+
+Bottle Fillers and Drinking Fountain Alts.
+Section 11B-212 Kitchens, Kitchenettes, Wet Bars and Sinks
+Diagram
+UpCodes Diagram (1)
+
+Routes: Dwelling Units (CA 11B)
+Building products (2)
+
+600 Lumens/Ft. Angled Linear Fixture, Tunable-White, 2700K–5000K - LT-P3
+Task Lighting and Power
+
+
+Flat Profile Linear Fixtures - Single-White - LS-P7
+Task Lighting and Power
+
+11B-212.1 General
+Where provided, kitchens, kitchenettes, wet bars and sinks shall comply with Section 11B-212.
+11B-212.2 Kitchens, Kitchenettes and Wet Bars
+Kitchens, kitchenettes and wet bars shall comply with Section 11B-804.
+11B-212.3 Sinks
+Where sinks are provided, at least 5 percent, but no fewer than one, of each type provided in each accessible room or space shall comply with Section 11B-606.
+Exceptions:
+Mop, service or scullery sinks shall not be required to comply with Section 11B-212.3.
+Scrub sinks, as defined in California Plumbing Code Section 221.0, shall not be required to comply with Section 11B-606.
+Building products (2)
+
+H-Line Low Gooseneck Kitchen Faucet With Pull Down Spray
+Watermark Designs
+
+
+Stratford 1 Hole Gooseneck Kitchen Faucet With Pull Down Spray
+Watermark Designs
+
+Section 11B-213 Toilet Facilities and Bathing Facilities
+Diagram
+UpCodes Diagrams (4)
+Primary
+Single Toilet Room: ADA vs. CA 11B
+
+Plumbing Fixture Count: Retail (CA)
+
+Accessible Bathing Facilities (11B)
+
+Mounting Heights: Bathroom Accessories
+Building products (7)
+
+Integrated Plumbing System / Aerofoil - TSL.IPS.AERO
+The Splash Lab
+
+
+Lumashelf Integrated Sink - TSL.LUMA
+The Splash Lab
+
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+
+The Aerofoil Basin - TSL.AERO
+The Splash Lab
+
+11B-213.1 General
+Where toilet facilities and bathing facilities are provided, they shall comply with Section 11B-213. Where toilet facilities and bathing facilities are provided in facilities permitted by Section 11B-206.2.3 Exception 1 not to connect stories by an accessible route, toilet facilities and bathing facilities shall be provided on a story connected by an accessible route to an accessible entrance.
+11B-213.1.1 Toilet Facilities for Designated User Groups
+Where separate toilet facilities are provided for the exclusive use of separate user groups, the toilet facilities serving each user group shall comply with Section 11B-213.
+11B-213.2 Toilet Rooms and Bathing Rooms
+Where toilet rooms are provided, each toilet room shall comply with Section 11B-603. Where bathing rooms are provided, each bathing room shall comply with Section 11B-603.
+Exceptions:
+In alterations where it is technically infeasible to comply with Section 11B-603, altering existing toilet or bathing rooms shall not be required where a single unisex (single-user or family) toilet room or bathing room complying with Section 11B-213.2.1 is provided and located in the same area and on the same floor as existing inaccessible toilet or bathing rooms.
+Reserved.
+Where multiple single user portable toilet or bathing units are clustered at a single location 5 percent, but no fewer than one, of the toilet units and bathing units at each cluster shall comply with Section 11B-603. Portable toilet units and bathing units complying with Section 11B-603 shall be identified by the International Symbol of Accessibility complying with Section 11B-703.7.2.1.
+Where multiple single user toilet rooms are clustered at a single location, 50 percent, but no fewer than one, of the single user toilet rooms for each use at each cluster shall comply with Section 11B-603.
+Building product (1)
+
+Sensor Soap Dispensers
+Hadrian Solutions ULC
+
+11B-213.2.1 Unisex (Single-User or Family) Toilet and Unisex (Single-User or Family) Bathing Rooms
+Unisex (single-user or family) toilet rooms shall contain not more than one lavatory, and not more than two water closets without urinals or one water closet and one urinal. Unisex (single-user or family) bathing rooms shall contain one shower or one shower and one bathtub, one lavatory, and one water closet. Doors to unisex (single-user or family) toilet rooms and unisex (single-user or family) bathing rooms shall have privacy latches.
+11B-213.2.2 Unisex (Patient) Toilet Rooms in Medical Care and Long-Term Care Facilities
+Common-use unisex toilet rooms for exclusive patient use not located within patient bedrooms shall contain a lavatory and one water closet.
+11B-213.2.3 Unisex (Patient) Bathing Rooms in Medical Care and Long-Term Care Facilities
+Common-use unisex bathing rooms for exclusive patient use not located within patient bedrooms shall contain one shower or one bathtub, one lavatory, and one water closet.
+11B-213.2.4 Multi-User All-Gender Toilet Facilities
+Where multi-user all-gender toilet facilities are provided, they shall comply with Section 11B-213.3.1.
+11B-213.3 Plumbing Fixtures and Accessories
+Diagram
+Plumbing fixtures and accessories provided in a toilet room or bathing room required to comply with Section 11B-213.2 shall comply with Section 11B-213.3.
+UpCodes Diagram (1)
+
+Mounting Heights: Bathroom Accessories
+Building products (21)
+
+AquaSense® 4 in. Base Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6915
+Zurn
+
+
+AquaSense® 5-3/8 in. Gooseneck Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6920
+Zurn
+
+
+AquaSense® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6913
+Zurn
+
+
+AquaSense® Wall Mount 5-3/8 in. Gooseneck Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6922
+Zurn
+
+
+Camaya Series® Sensor Faucet with Gear-driven Ceramic Cartridge, Hydropower - ZG6953
+Zurn
+
+
+Cumberland Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6956
+Zurn
+
+
+Fulmer Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6951
+Zurn
+
+
+Loft 6" Diameter Wall Mounted Towel Ring
+Watermark Designs
+
+
+Loft Wall Mounted 18" Center-to-Center Towel Bar
+Watermark Designs
+
+
+Loft Wall Mounted 24" Center-to-Center Towel Bar
+Watermark Designs
+
+
+Radius Deck Mounted Sensor Faucet / Large - TSL.960
+The Splash Lab
+
+
+Radius Deck Mounted Sensor Faucet / Small - TSL.990
+The Splash Lab
+
+
+Radius Sensor Faucet / Large - TSL.882
+The Splash Lab
+
+
+Radius Sensor Faucet / Small - TSL.884
+The Splash Lab
+
+
+Serio Series® 4 in. Base Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6955
+Zurn
+
+
+Serio Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6950
+Zurn
+
+
+Straight Spout Faucet / Small - TSL.980
+The Splash Lab
+
+
+The Channel Faucet - TSL.C.050
+The Splash Lab
+
+
+The Ribbon Faucet - TSL.R.020
+The Splash Lab
+
+
+Titanium Wall Mounted Paper Holder
+Watermark Designs
+
+
+Titanium Wall Mounted Robe Hook
+Watermark Designs
+
+11B-213.3.1 Toilet Compartments and Urinal Compartments
+Where only toilet compartments are provided, they shall comply with Section 11B-213.3.1.1. Where both toilet and urinal compartments are provided, they shall comply with Section 11B-213.3.1.2.
+Building products (13)
+
+Ceiling Hung Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Ceiling Hung Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Ceiling Hung Solid Plastic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Floor Mounted Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Floor to Ceiling Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Floor to Ceiling Stainless Steel Toilet Partitions
+Hadrian Solutions ULC
+
+
+Headrail Braced Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Headrail Braced Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Headrail Braced Solid Plastic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Headrail Braced Stainless Steel Toilet Partitions
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Stainless Steel Toilet Partitions
+Hadrian Solutions ULC
+
+11B-213.3.1.1 Toilet Compartments
+Diagram
+Where toilet compartments are provided, at least five percent of the toilet compartments, or five percent of the combination of toilet compartments and urinals, but no fewer than one toilet compartment shall comply with Section 11B-604.8.1. In addition to the compartments required to comply with Section 11B-604.8.1, where six or more toilet compartments are provided, or where the combination of urinals and water closets totals six or more fixtures, toilet compartments complying with Section 11B-604.8.2 shall be provided in the same quantity as the toilet compartments required to comply with Section 11B-604.8.1.
+UpCodes Diagram (1)
+
+Ambulatory Toilet Compartments (11B)
+11B-213.3.1.2 Toilet Rooms With Toilet Compartments and Urinal Compartments
+Where both toilet compartments and urinal compartments are provided, at least five percent of toilet compartments, but no fewer than one, shall comply with Section 11B-604.8.1 and at least ten percent of urinal compartments, but no fewer than one, shall comply with Section 11B-605.5. In addition to the toilet compartments required to comply with Section 11B-604.8.1 and urinal compartments required to comply with Section 11B-605.5, where the combination of urinals and water closets totals six or more fixtures, toilet compartments complying with Section 11B-604.8.2 shall be provided in the same quantity as the toilet compartments required to comply with Section 11B-604.8.1. At all compartments not required to comply with Section 11B-604.8 or Section 11B-605.5, compartment doors shall be in-swinging and self-closing. All individual compartments shall be identified with a sign complying with Section 11B-216.8.3.
+11B-213.3.2 Water Closets
+Where water closets are provided, at least 5 percent but no fewer than one shall comply with Section 11B-604.
+11B-213.3.3 Urinals
+Diagram
+Where one or more urinals are provided, at least 10 percent but no fewer than one shall comply with Section 11B-605.
+UpCodes Diagram (1)
+
+Urinals and Partitions (CA)
+11B-213.3.4 Lavatories
+Where lavatories are provided, at least 10 percent but no fewer than one shall comply with Section 11B-606 and shall not be located in a toilet or urinal compartment.
+Building products (16)
+
+Integrated Plumbing System / Aerofoil - TSL.IPS.AERO
+The Splash Lab
+
+
+Lumashelf Integrated Sink - TSL.LUMA
+The Splash Lab
+
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+
+Nano Plus Sink - TSL.NANO.P
+The Splash Lab
+
+
+Nano Smallest ADA Sink - TSL.NANO
+The Splash Lab
+
+
+Radius Deck Mounted Sensor Faucet / Large - TSL.960
+The Splash Lab
+
+
+Radius Deck Mounted Sensor Faucet / Small - TSL.990
+The Splash Lab
+
+
+Radius Sensor Faucet / Large - TSL.882
+The Splash Lab
+
+
+Radius Sensor Faucet / Small - TSL.884
+The Splash Lab
+
+
+Straight Spout Faucet / Small - TSL.980
+The Splash Lab
+
+
+The Aerofoil Basin - TSL.AERO
+The Splash Lab
+
+
+The Channel Faucet - TSL.C.050
+The Splash Lab
+
+
+The Ribbon Faucet - TSL.R.020
+The Splash Lab
+
+11B-213.3.5 Mirrors
+Where mirrors are provided, at least one shall comply with Section 11B-603.3.
+11B-213.3.6 Bathing Facilities
+Where bathtubs or showers are provided, at least one bathtub complying with Section 11B-607 or at least one shower complying with Section 11B-608 shall be provided. Where two or more accessible showers are provided within the same functional area, at least one shower shall be opposite hand from the other or others (that is, one left-hand controls versus right-hand controls). Transfer type shower compartments shall be permitted in transient lodging guest rooms, multibedroom housing units in undergraduate student housing and residential dwelling units; and shall not be permitted at other locations to meet the requirements of Section 11B-213.3.6.
+Building products (2)
+
+Temp-Gard® III Shower Unit - Z7300-SS-HW2-MT
+Zurn
+
+
+Temp-Gard® III Tub and Hand Wall Shower Unit w/ 24 Slide Bar 60 Metal Hose NPT Connections and Vacuum Breaker - Z7300-SS-MT-HW6
+Zurn
+
+11B-213.3.7 Coat Hooks and Shelves
+Diagram
+Where coat hooks or shelves are provided in toilet rooms without toilet compartments, at least one of each type shall comply with Section 11B-603.4. Where coat hooks or shelves are provided in toilet compartments, at least one of each type complying with Section 11B-604.8.3 shall be provided in toilet compartments required to comply with Section 11B-213.3.1. Where coat hooks or shelves are provided in bathing facilities, at least one of each type complying with Section 11B-603.4 shall serve fixtures required to comply with Section 11B-213.3.6.
+UpCodes Diagram (1)
+
+Mounting Heights: Bathroom Accessories
+Building product (1)
+
+Titanium Wall Mounted Robe Hook
+Watermark Designs
+
+Section 11B-214 Washing Machines and Clothes Dryers
+Diagram
+UpCodes Diagrams (2)
+
+Clothes Dryer Exhaust (CA)
+
+Accessibility at Washers & Clothes Dryers
+11B-214.1 General
+Where provided, washing machines and clothes dryers shall comply with Section 11B-214.
+11B-214.2 Washing Machines
+Where three or fewer washing machines are provided, at least one shall comply with Section 11B-611. Where more than three washing machines are provided, at least two shall comply with Section 11B-611.
+11B-214.3 Clothes Dryers
+Where three or fewer clothes dryers are provided, at least one shall comply with Section 11B-611. Where more than three clothes dryers are provided, at least two shall comply with Section 11B-611.
+Section 11B-215 Fire Alarm Systems and Carbon Monoxide Alarm Systems
+11B-215.1 General
+Where fire alarm systems and carbon monoxide alarm systems provide audible alarm coverage, alarms shall comply with Section 11B-215.
+Exception: In existing facilities, visible alarms for fire alarm systems shall not be required except where an existing fire alarm system is upgraded or replaced, or a new fire alarm system is installed.
+11B-215.2 Public and Common Use Areas
+Diagram
+Alarms in public use areas and common use areas shall comply with Chapter 9, Section 907.5.2.3.1.
+UpCodes Diagram (1)
+
+Common vs. Public Use Area (11A)
+11B-215.3 Employee Work Areas
+Where employee work areas have audible alarm coverage, the wiring system shall be designed so that visible alarms complying with Chapter 9, Section 907.5.2.3.1 Exception can be integrated into the alarm system.
+11B-215.4 Transient Lodging
+Guest rooms required to comply with Section 11B-224.4 shall provide fire alarms complying with Chapter 9, Section 907.5.2.3.2, and carbon monoxide alarms, where provided, complying with Chapter 9, Section 915.
+11B-215.5 Residential Facilities
+Where provided in residential dwelling units required to comply with Section 11B-809.5, fire alarms shall comply with Chapter 9, Section 907.5.2.3.3 and carbon monoxide alarms shall comply with Chapter 9, Section 915.
+Section 11B-216 Signs
+Diagram
+UpCodes Diagram (1)
+
+Signs: Toilet / Bathing Rooms (CA 11B)
+11B-216.1 General
+New or altered signs shall be provided in accordance with Section 11B-216 and shall comply with Section 11B-703. The addition of or replacement of signs shall not trigger any additional path of travel requirements.
+Exceptions:
+Building directories, menus, seat and row designations in assembly areas, occupant names, building addresses, and company names and logos shall not be required to comply with Section 11B-216.
+Reserved.
+Temporary, 7 days or less, signs shall not be required to comply with Section 11B-216.
+In detention and correctional facilities, signs not located in public use areas shall not be required to comply with Section 11B-216.
+11B-216.2 Designations
+Interior and exterior signs identifying permanent rooms and spaces shall comply with Sections 11B-703.1, 11B-703.2, 11B-703.3 and 11B-703.5. Where pictograms are provided as designations of permanent rooms and spaces, the pictograms shall comply with Section 11B-703.6 and shall have text descriptors complying with Sections 11B-703.2 and 11B-703.5.
+Exception: Exterior signs that are not located at the door to the space they serve shall not be required to comply with Section 11B-703.2.
+11B-216.3 Directional and Informational Signs
+Signs that provide direction to or information about interior and exterior spaces and facilities of the site shall comply with Section 11B-703.5.
+11B-216.4 Means of Egress
+Signs for means of egress shall comply with Section 11B-216.4.
+11B-216.4.1 Exit Doors
+Diagram
+Signs required by Chapter 10, Section 1013.4 at doors to exit passageways, exit discharge and exit stairways shall comply with Sections 11B-703.1, 11B-703.2, 11B-703.3 and 11B-703.5.
+UpCodes Diagrams (2)
+
+Exit Door Signs: Ramps / Horiz. Exits
+
+Exit Door Signs at Stairways and Corridors
+11B-216.4.2 Areas of Refuge and Exterior Areas for Assisted Rescue
+Diagram
+Signs required by Chapter 10, Section 1009.11 to provide instructions in areas of refuge shall comply with Section 11B-703.5. Signs required by Chapter 10, Section 1009.9 at doors to areas of refuge and exterior areas for assisted rescue shall comply with Sections 11B-703.1, 11B-703.2, 11B-703.3 and 11B-703.5 and include an International Symbol of Accessibility complying with Section 11B-703.7.2.1.
+UpCodes Diagram (1)
+
+Areas of Refuge (CA)
+11B-216.4.3 Directional Signs
+Signs required by Chapter 10, Section 1009.10 to provide directions to accessible means of egress shall comply with Section 11B-703.5.
+11B-216.4.4 Delayed Egress Locks
+Signs required by Chapter 10, Section 1010.2.13.1, Item 6.4 at doors with delayed egress locks shall comply with Sections 11B-703.1, 11B-703.2, 11B-703.3 and 11B-703.5.
+11B-216.5 Parking and Electric Vehicle Charging Facilities
+Signs identifying parking spaces and signs within parking facilities shall comply with Section 11B-216.5. Signs identifying electric vehicle charging spaces and signs within electric vehicle charging facilities shall comply with Section 11B-216.5.
+11B-216.5.1 Parking Spaces
+Parking spaces complying with Section 11B-502 shall be identified by signs complying with Sections 11B-502.6 and 11B-502.8.
+Exceptions:
+Reserved.
+In residential facilities, where parking spaces are assigned to specific residential dwelling units, identification of accessible parking spaces shall not be required.
+11B-216.5.2 Electric Vehicle Charging Spaces
+Signs identifying electric vehicle charging spaces shall comply with Section 11B-812.8.
+11B-216.5.3 Parking and Electric Vehicle Charging Facilities
+Signs within parking and charging facilities shall comply with Section 11B-216.5.3.
+11B-216.5.3.1 Signs Intended for Use by Pedestrians
+Signs intended for use by pedestrians within parking and charging facilities, including directional or informational signs indicating parking sections or levels, shall comply with the requirements of Section 11B-216.
+11B-216.5.3.2 Additional Signs
+Signs within parking facilities containing parking spaces complying with Section 11B-502 shall comply with Section 11B-502.8.
+11B-216.6 Entrances
+In existing buildings and facilities where not all entrances comply with Section 11B-404, entrances complying with Section 11B-404 shall be identified by the International Symbol of Accessibility complying with Section 11B-703.7.2.1. Directional signs complying with Section 11B-703.5 that indicate the location of the nearest entrance complying with Section 11B-404 shall be provided at entrances that do not comply with Section 11B-404. Directional signs complying with Section 11B-703.5, including the International Symbol of Accessibility complying with Section 11B-703.7.2.1, indicating the accessible route to the nearest accessible entrance shall be provided at junctions when the accessible route diverges from the regular circulation path.
+11B-216.7 Elevators
+Where existing elevators do not comply with Section 11B-407, elevators complying with Section 11B-407 shall be clearly identified with the International Symbol of Accessibility complying with Section 11B-703.7.2.1. Existing buildings that have been remodeled to provide specific elevators for public use that comply with these building standards shall have the location of and the directions to these elevators posted in the building lobby on a sign complying with Section 11B-703.5, including the International Symbol of Accessibility complying with Section 11B-703.7.2.1.
+11B-216.8 Toilet Rooms and Bathing Rooms
+Diagram
+Where existing toilet rooms or bathing rooms do not comply with Section 11B-603, directional signs indicating the location of the nearest toilet room or bathing room complying with Section 11B-603 within the facility shall be provided. Signs shall comply with Section 11B-703.5 and shall include the International Symbol of Accessibility complying with Section 11B-703.7.2.1. Where existing toilet rooms or bathing rooms do not comply with Section 11B-603, the toilet rooms or bathing rooms complying with Section 11B-603 shall be identified by the International Symbol of Accessibility complying with Section 11B-703.7.2.1. Where clustered single user toilet rooms or bathing facilities are permitted to use exceptions to Section 11B-213.2, toilet rooms or bathing facilities complying with Section 11B-603 shall be identified by the International Symbol of Accessibility complying with Section 11B-703.7.2.1 unless all toilet rooms and bathing facilities comply with Section 11B-603. Existing buildings that have been remodeled to provide specific toilet rooms or bathing rooms for public use that comply with these building standards shall have the location of and the directions to these rooms posted in or near the building lobby or entrance on a sign complying with Section 11B-703.5, including the International Symbol of Accessibility complying with Section 11B-703.7.2.1.
+UpCodes Diagram (1)
+Primary
+Signs: Toilet / Bathing Rooms (CA 11B)
+11B-216.8.1 Geometric Symbols
+Geometric symbols complying with Section 11B-703.7.2.6 shall be provided at entrances to toilet and bathing rooms.
+Exceptions:
+Geometric symbols shall not be required at entrances to toilet and bathing rooms located within private or semi-private rooms or spaces. Such spaces include but are not limited to: patient sleeping rooms, transient lodging guest rooms and residential dwelling units.
+Geometric symbols shall not be required at entrances to inmate toilet rooms and bathing rooms in detention and correctional facilities where only one gender is housed.
+11B-216.8.2 Identification for All-Gender Multi-User Toilet Facilities
+Geometric symbols complying with Section 11B-703.7.2.6.3 shall be provided at the entrance to all-gender multi-user toilet facilities. In addition, a sign complying with Sections 11B-703.1 through 11B-703.5 shall be provided stating "ALL-GENDER MULTI-USER".
+11B-216.8.3 Signs at Toilet and Urinal Compartments
+Where both toilet compartments and urinal compartments are provided, each individual compartment shall be identified with a sign complying with Sections 11B-703.1 through 11B-703.5. Signs shall identify the type of fixture within the compartment, either "URINAL" or "TOILET". A pictogram identifying the fixture type within the compartment is not permitted.
+Exception: A sign with tactile characters shall be permitted on an in-swinging and self-closing door at compartments not required to comply with Section 11B-604 or Section 11B-605.5.
+11B-216.9 TTYs
+Identification and directional signs for public TTYs shall be provided in accordance with Section 11B-216.9.
+11B-216.9.1 Identification Signs
+Public TTYs shall be identified by the International Symbol of TTY complying with Section 11B-703.7.2.2.
+11B-216.9.2 Directional Signs
+Directional signs indicating the location of the nearest public TTY shall be provided at all banks of public pay telephones not containing a public TTY. In addition, where signs provide direction to public pay telephones, they shall also provide direction to public TTYs. If a facility has no banks of telephones, the directional signs shall be provided at the entrance or in a building directory. Directional signs shall comply with Section 11B-703.5 and shall include the International Symbol of TTY complying with Section 11B-703.7.2.2.
+11B-216.10 Assistive Listening Systems
+Each assembly area required by Section 11B-219 to provide assistive listening systems shall provide signs informing patrons of the availability of the assistive listening system. The sign shall include wording that states "Assistive-Listening System Available" and shall be posted in a prominent place at or near the assembly area entrance. Assistive listening signs shall comply with Section 11B-703.5 and shall include the International Symbol of Access for Hearing Loss complying with Section 11B-703.7.2.4.
+Exception: Where ticket offices or windows are provided, signs shall not be required at each assembly area provided that signs are displayed at each ticket office or window informing patrons of the availability of assistive listening systems.
+11B-216.11 Check-Out Aisles
+Diagram
+Where more than one check-out aisle is provided, check-out aisles complying with Section 11B-904.3 shall be identified by a sign complying with Section 11B-904.3.4. Where check-out aisles are identified by numbers, letters or functions, signs identifying check-out aisles complying with Section 11B-904.3 shall be located in the same location as the check-out aisle identification.
+Exception: Where all check-out aisles comply with Section 11B-904.3, signs complying with Section 11B-703.7.2.1 shall not be required.
+UpCodes Diagrams (2)
+
+Check-Out Aisles
+
+Check-Out Aisles: Counter Surface (ADA)
+11B-216.12 Amusement Rides
+Signs identifying the type of access provided on amusement rides shall be provided at entries to queues and waiting lines. In addition, where accessible unload areas also serve as accessible load areas, signs indicating the location of the accessible load and unload areas shall be provided at entries to queues and waiting lines. Signs shall comply with Section 11B-703.5 and shall include the International Symbol of Accessibility complying with Section 11B-703.7.2.1.
+11B-216.13 Variable Message Signs
+Where provided in transportation facilities, variable message signs conveying transportation-related information shall comply with Section 11B-703.8. Where provided in buildings that are designed as emergency shelters, variable message signs conveying emergency-related information shall comply with Section 11B-703.8.
+Section 11B-217 Telephones
+11B-217.1 General
+Where coin-operated public pay telephones, coinless public pay telephones, public closed-circuit telephones, public courtesy phones, or other types of public telephones are provided, public telephones shall be provided in accordance with Section 11B-217 for each type of public telephone provided. For purposes of this section, a bank of telephones shall be considered to be two or more adjacent telephones.
+11B-217.2 Wheelchair Accessible Telephones
+Where public telephones are provided, wheelchair accessible telephones complying with Section 11B-704.2 shall be provided in accordance with Table 11B-217.2.
+Exception: Drive-up only public telephones shall not be required to comply with Section 11B-217.2.
+TABLE 11B-217.2—
+WHEELCHAIR ACCESSIBLE TELEPHONES
+11B-217.3 Volume Controls
+All public telephones shall have volume controls complying with Section 11B-704.3.
+11B-217.4 TTYs
+TTYs complying with Section 11B-704.4 shall be provided in accordance with Section 11B-217.4.
+11B-217.4.1 Bank Requirement
+Where four or more public pay telephones are provided at a bank of telephones, at least one public TTY complying with Section 11B-704.4 shall be provided at that bank.
+Exception: Reserved.
+11B-217.4.2 Floor Requirement
+TTYs in public buildings shall be provided in accordance with Section 11B-217.4.2.1. TTYs in private buildings shall be provided in accordance with Section 11B-217.4.2.2.
+11B-217.4.2.1 Public Buildings
+Where at least one public pay telephone is provided on a floor of a public building, at least one public TTY shall be provided on that floor.
+11B-217.4.2.2 Private Buildings
+Where four or more public pay telephones are provided on a floor of a private building, at least one public TTY shall be provided on that floor.
+11B-217.4.3 Building Requirement
+TTYs in public buildings shall be provided in accordance with Section 11B-217.4.3.1. TTYs in private buildings shall be provided in accordance with Section 11B-217.4.3.2.
+11B-217.4.3.1 Public Buildings
+Where at least one public pay telephone is provided in a public building, at least one public TTY shall be provided in the building. Where at least one public pay telephone is provided in a public use area of a public building, at least one public TTY shall be provided in the public building in a public use area.
+11B-217.4.3.2 Private Buildings
+Where four or more public pay telephones are provided in a private building, at least one public TTY shall be provided in the building.
+Exception: In a stadium or arena, in a convention center, in a hotel with a convention center or in a covered mall, if an interior public pay telephone is provided at least one interior public TTY shall be provided in the facility.
+11B-217.4.4 Exterior Site Requirement
+Where four or more public pay telephones are provided on an exterior site, at least one public TTY shall be provided on the site.
+11B-217.4.5 Rest Stops, Emergency Roadside Stops and Service Plazas
+Where at least one public pay telephone is provided at a public rest stop, emergency roadside stop or service plaza, at least one public TTY shall be provided.
+11B-217.4.6 Hospitals
+Diagram
+Where at least one public pay telephone is provided serving a hospital emergency room, hospital recovery room or hospital waiting room, at least one public TTY shall be provided at each location.
+UpCodes Diagram (1)
+
+Waiting Areas in Medical Facilities (11B)
+11B-217.4.7 Transportation Facilities
+In transportation facilities, in addition to the requirements of Sections 11B-217.4.1 through 11B-217.4.4, where at least one public pay telephone serves a particular entrance to a bus or rail facility, at least one public TTY shall be provided to serve that entrance. In airports, in addition to the requirements of Sections 11B-217.4.1 through 11B-217.4.4, where four or more public pay telephones are located in a terminal outside the security areas, a concourse within the security areas or a baggage claim area in a terminal, at least one public TTY shall be provided in each location.
+11B-217.4.8 Detention and Correctional Facilities
+In detention and correctional facilities, where at least one pay telephone is provided in a secured area used only by detainees or inmates and security personnel, at least one TTY shall be provided in at least one secured area.
+11B-217.5 Shelves for Portable TTYs
+Where a bank of telephones in the interior of a building consists of three or more public pay telephones, at least one public pay telephone at the bank shall be provided with a shelf and an electrical outlet in accordance with Section 11B-704.5.
+Exceptions:
+Secured areas of detention and correctional facilities where shelves and outlets are prohibited for purposes of security or safety shall not be required to comply with Section 11B-217.5.
+The shelf and electrical outlet shall not be required at a bank of telephones with a TTY.
+Section 11B-218 Transportation Facilities
+11B-218.1 General
+Transportation facilities shall comply with Section 11B-218.
+11B-218.2 New and Altered Fixed Guideway Stations
+New and altered stations in rapid rail, light rail, commuter rail, intercity rail, high speed rail and other fixed guideway systems shall comply with Sections 11B-810.5 through 11B-810.10.
+11B-218.3 Key Stations and Existing Intercity Rail Stations
+Key stations and existing intercity rail stations shall comply with Sections 11B-810.5 through 11B-810.10.
+11B-218.4 Bus Shelters
+Where provided, bus shelters shall comply with Section 11B-810.3.
+11B-218.5 Other Transportation Facilities
+In other transportation facilities, public address systems shall comply with Section 11B-810.7 and clocks shall comply with Section 11B-810.8.
+Section 11B-219 Assistive Listening Systems
+11B-219.1 General
+Assistive listening systems shall be provided in accordance with Section 11B-219 and shall comply with Section 11B-706.
+11B-219.2 Required Systems
+An assistive listening system shall be provided in assembly areas, including conference and meeting rooms.
+Exception: This section does not apply to systems used exclusively for paging, background music, or a combination of these two uses.
+11B-219.3 Receivers
+Diagram
+The minimum number of receivers to be provided shall be equal to 4 percent of the total number of seats, but in no case less than two. Twenty-five percent minimum of receivers provided, but no fewer than two, shall be hearing-aid compatible in accordance with Section 11B-706.3.
+Exceptions:
+Where a building contains more than one assembly area and the assembly areas required to provide assistive listening systems are under one management, the total number of required receivers shall be permitted to be calculated according to the total number of seats in the assembly areas in the building provided that all receivers are usable with all systems.
+Where all seats in an assembly area are served by an induction loop assistive listening system, the minimum number of receivers required by Section 11B-219.3 to be hearing-aid compatible shall not be required to be provided.
+UpCodes Diagram (1)
+Primary
+Assisted Listening Systems: Min. Receivers Required
+11B-219.4 Location
+If the assistive-listening system provided is limited to specific areas or seats, then such areas or seats shall be within a 50-foot (15240 mm) viewing distance of the stage or playing area and shall have a complete view of the stage or playing area.
+11B-219.5 Permanent and Portable Systems
+Permanently installed assistive-listening systems are required in areas if (1) they accommodate at least 50 persons or if they have audio-amplification systems, and (2) they have fixed seating. If portable assistive-listening systems are used for conference or meeting rooms, the system may serve more than one room. An adequate number of electrical outlets or other supplementary wiring necessary to support a portable assistive-listening system shall be provided.
+Section 11B-220 Automatic Teller Machines, Fare Machines and Point-of-Sale Devices
+11B-220.1 Automatic Teller Machines and Fare Machines
+Where automatic teller machines or self-service fare vending, collection, or adjustment machines are provided they shall comply with Section 11B-220.1. Where bins are provided for envelopes, waste paper, or other purposes, at least one of each type shall comply with Section 11B-811.
+11B-220.1.1 One Automatic Teller Machine or Fare Machine
+Where one automatic teller machine or fare machine is provided at a location, it shall comply with Sections 11B-707.2 through 11B-707.8.
+11B-220.1.2 Two Automatic Teller Machines or Fare Machines
+Where two automatic teller machines or fare machines are provided at a location, one shall comply with Sections 11B-707.2 through 11B-707.8 and one shall comply with Sections 11B-707.3, 11B-707.4, 11B-707.5, 11B-707.6, 11B-707.7.2 and 11B-707.8.
+11B-220.1.3 Three or More Automatic Teller Machines or Fare Machines
+Where three or more automatic teller machines or fare machines are provided at a location, at least 50 percent shall comply with Sections 11B-707.2 through 11B-707.8 and the rest shall comply with Sections 11B-707.3, 11B-707.4, 11B-707.5, 11B-707.6, 11B-707.7.2 and 11B-707.8.
+11B-220.2 Point-of-Sale Devices
+Where point-of-sale devices are provided, all devices at each location shall comply with Sections 11B-707.3, 11B-707.7.2 and 11B-707.9. Where point-of-sale devices are provided at check stands and sales and service counters required to comply with Sections 11B-227.2 and 11B-227.3, they shall comply with Sections 11B-707.2, 11B-707.3, 11B-707.7.2 and 11B-707.9.
+Exceptions:
+Where a single point-of-sale device is installed for use with any type of motor fuel, it shall comply with Sections 11B-707.2, 11B-707.3, 11B-707.7.2 and 11B-707.9. Where more than one point-of-sale device is installed for use with a specific type of motor fuel, a minimum of two for that type shall comply with Sections 11B-707.2, 11B-707.3, 11B-707.7.2 and 11B-707.9. Types of motor fuel include, but are not limited to, gasoline, diesel, compressed natural gas, methanol or ethanol.
+Point-of-sale devices at electric vehicle charging stations required to comply with Section 11B-812 shall comply with Section 11B-812.10.3.
+Section 11B-221 Assembly Areas
+11B-221.1 General
+Assembly areas shall provide wheelchair spaces, companion seats, designated aisle seats and semi-ambulant seats complying with Sections 11B-221 and 11B-802. In addition, lawn seating shall comply with Section 11B-221.5.
+11B-221.2 Wheelchair Spaces
+Wheelchair spaces complying with Section 11B-221.2 shall be provided in assembly areas with fixed seating.
+Note: When required wheelchair spaces are not occupied by persons eligible for those spaces, individual, removable seats may be placed in those spaces.
+11B-221.2.1 Number and Location
+Wheelchair spaces shall be provided complying with Section 11B-221.2.1.
+11B-221.2.1.1 General Seating
+Wheelchair spaces complying with Section 11B-802.1 shall be provided in accordance with Table 11B-221.2.1.1.
+TABLE 11B-221.2.1.1—
+NUMBER OF WHEELCHAIR SPACES IN ASSEMBLY AREAS
+11B-221.2.1.2 Luxury Boxes, Club Boxes and Suites in Arenas, Stadiums and Grandstands
+In each luxury box, club box and suite within arenas, stadiums and grandstands, wheelchair spaces complying with Section 11B-802.1 shall be provided in accordance with Table 11B-221.2.1.1.
+11B-221.2.1.3 Other Boxes
+In boxes other than those required to comply with Section 11B-221.2.1.2, the total number of wheelchair spaces required shall be determined in accordance with Table 11B-221.2.1.1. Wheelchair spaces shall be located in not less than 20 percent of all boxes provided. Wheelchair spaces shall comply with Section 11B-802.1.
+11B-221.2.1.4 Team or Player Seating
+At least one wheelchair space complying with Section 11B-802.1 shall be provided in team or player seating areas serving areas of sport activity.
+Exception: Wheelchair spaces shall not be required in team or player seating areas serving bowling lanes not required to comply with Section 11B-206.2.11.
+11B-221.2.1.5 Stadium-Style Movie Theaters
+In stadium-style movie theaters, the total number of wheelchair spaces required shall be determined in accordance with Table 11B-221.2.1.1. The required wheelchair spaces shall be located on risers or cross-aisles in the stadium section that satisfy at least one of the following criteria:
+Located within the rear 60 percent of the seats provided in the theater; or
+Located within the area of the theater in which the vertical viewing angles (as measured to the top of the screen) are from the 40th to the 100th percentile of vertical viewing angles for all seats as ranked from the seats in the first row (1st percentile) to seats in the back row (100th percentile).
+11B-221.2.1.6 Specialty Seating Areas
+In assembly areas, wheelchair spaces shall be provided in each specialty seating area that provides spectators with distinct services or amenities that generally are not available to other spectators. The number of wheelchair spaces provided in specialty seating areas shall be included in, rather than be in addition to, the total number of wheelchair spaces required by Table 11B-221.2.1.1.
+Exception: In existing buildings and facilities, if it is not readily achievable for wheelchair spaces to be placed in each specialty seating area, those services or amenities shall be provided to individuals with disabilities, and their companions, at other designated accessible locations at no additional cost.
+11B-221.2.2 Integration
+Wheelchair spaces shall be an integral part of the seating plan.
+11B-221.2.3 Lines of Sight and Dispersion
+Wheelchair spaces shall provide lines of sight complying with Section 11B-802.2 and shall comply with Section 11B-221.2.3. In providing lines of sight, wheelchair spaces shall be dispersed. Wheelchair spaces shall provide spectators with choices of seating locations and viewing angles that are substantially equivalent to, or better than, the choices of seating locations and viewing angles available to all other spectators. When the number of wheelchair spaces required by Section 11B-221.2.1 has been met, further dispersion shall not be required. In stadiums, arenas and grandstands, wheelchair spaces shall be dispersed to all levels that include seating served by an accessible route.
+Exception: Wheelchair spaces in team or player seating areas serving areas of sport activity shall not be required to comply with Section 11B-221.2.3.
+11B-221.2.3.1 Horizontal Dispersion
+Wheelchair spaces shall be dispersed horizontally. In assembly areas that have seating encircling, in whole or in part, a field of play or performance, wheelchair spaces shall be dispersed horizontally around the field of play or performance area.
+Exceptions:
+Horizontal dispersion shall not be required in assembly areas with 300 or fewer seats if the companion seats required by Section 11B-221.3 and wheelchair spaces are located within the 2nd or 3rd quartile of the total row length. Intermediate aisles shall be included in determining the total row length. If the row length in the 2nd and 3rd quartile of a row is insufficient to accommodate the required number of companion seats and wheelchair spaces, the additional companion seats and wheelchair spaces shall be permitted to be located in the 1st and 4th quartile of the row.
+In row seating, two wheelchair spaces shall be permitted to be located side-by-side.
+11B-221.2.3.2 Vertical Dispersion
+Diagram
+Wheelchair spaces shall be dispersed vertically at varying distances from the screen, performance area or playing field. In addition, wheelchair spaces shall be located in each balcony or mezzanine that is located on an accessible route.
+Exceptions:
+Vertical dispersion shall not be required in assembly areas with 300 or fewer seats if the wheelchair spaces provide viewing angles that are equivalent to, or better than, the average viewing angle provided in the facility.
+In bleachers, wheelchair spaces shall not be required to be provided in rows other than rows at points of entry to bleacher seating.
+UpCodes Diagram (1)
+
+Dispersion of Wheelchair Spaces in Multilevel Assembly Seating Areas
+11B-221.2.4 Temporary Structures
+Wheelchair spaces shall not be located on, or be obstructed by, temporary platforms or other movable structures.
+Exception: When an entire seating section is placed on temporary platforms or other movable structures in an area where fixed seating is not provided, in order to increase seating for an event, wheelchair spaces may be placed in that section.
+11B-221.3 Companion Seats
+Diagram
+At least one companion seat complying with Section 11B-802.3 shall be provided immediately adjacent to each wheelchair space required by Section 11B-221.2.1.
+UpCodes Diagrams (2)
+
+Companion Seats
+
+Companion Seats - Bleachers
+11B-221.4 Designated Aisle Seats
+At least 5 percent of the total number of aisle seats provided shall comply with Section 11B-802.4 and shall be the aisle seats located closest to accessible routes.
+Exception: Team or player seating areas serving areas of sport activity shall not be required to comply with Section 11B-221.4.
+11B-221.5 Lawn Seating
+Lawn seating areas and exterior overflow seating areas, where fixed seats are not provided, shall connect to an accessible route.
+11B-221.6 Semi-Ambulant Seats
+At least 1 percent of the total number of seats, and no fewer than two, shall be semi-ambulant seats complying with Section 11B-802.5.
+Section 11B-222 Dressing, Fitting and Locker Rooms
+Diagram
+UpCodes Diagrams (4)
+
+Retail (CA 11B)
+
+Mirrors in Locker, Dressing, or Fitting Rooms (CA 11B)
+
+Fitting Rooms: ADA vs. CA 11B
+
+Professional Offices of Health Care Providers
+Building products (3)
+
+Corridor (Emperor) Lockers
+Hadrian Solutions ULC
+
+
+Specialty Lockers
+Hadrian Solutions ULC
+
+
+​​Athletic (Gladiator) Lockers
+Hadrian Solutions ULC
+
+11B-222.1 General
+Where dressing rooms, fitting rooms or locker rooms are provided, at least 5 percent, but no fewer than one, of each type of use in each cluster provided shall comply with Section 11B-803.
+Exception: In alterations, where it is technically infeasible to provide rooms in accordance with Section 11B-222.1, one room for each sex on each level shall comply with Section 11B-803. Where only unisex rooms are provided, unisex rooms shall be permitted.
+11B-222.2 Coat Hooks and Shelves
+Where coat hooks or shelves are provided in dressing, fitting or locker rooms without individual compartments, at least one of each type shall comply with Section 11B-803.5. Where coat hooks or shelves are provided in individual compartments at least one of each type complying with Section 11B-803.5 shall be provided in individual compartments in dressing, fitting or locker rooms required to comply with Section 11B-222.1.
+11B-222.3 Mirrors
+Diagram
+Where mirrors are provided in dressing, fitting or locker rooms without individual compartments, at least one of each type shall comply with Section 11B-803.6. Where mirrors are provided in individual compartments at least one of each type complying with Section 11B-803.6 shall be provided in individual compartments in dressing, fitting or locker rooms required to comply with Section 11B-222.1.
+UpCodes Diagram (1)
+Primary
+Mirrors in Locker, Dressing, or Fitting Rooms (CA 11B)
+Section 11B-223 Medical Care and Long-Term Care Facilities
+11B-223.1 General
+In licensed medical care facilities and licensed long-term care facilities where the period of stay exceeds twenty-four hours, patient bedrooms or resident sleeping rooms shall be provided in accordance with Sections 11B-223 and 11B-805.
+Exception: Toilet rooms that are part of critical or intensive care patient sleeping rooms shall not be required to comply with Section 11B-603.
+11B-223.1.1 Alterations
+Where patient bedrooms or resident sleeping rooms are altered or added, the requirements of Section 11B-223 shall apply only to the patient bedrooms or resident sleeping rooms being altered or added until the number of patient bedrooms or resident sleeping rooms complies with the minimum number required for new construction.
+11B-223.1.1.1 Area Alterations
+Patient bedrooms or resident sleeping rooms added or altered as part of a planned renovation of an entire wing, a department or other discrete area of an existing medical facility shall comply with Section 11B-805.2 until the number of patient bedrooms or resident sleeping rooms provided within the area of renovation complies with the minimum number required for new construction by Section 11B-223.2 or 11B-223.3.
+11B-223.1.1.2 Individual Alterations
+Patient bedrooms or resident sleeping rooms added or altered individually, and not as part of an alteration of an entire area, shall comply with Section 11B-805.2, until either: a) the number of patient bedrooms or resident sleeping rooms provided in the department or area containing the individually altered or added patient bedrooms or resident sleeping rooms complies with the minimum number required if the percentage requirements of Section 11B-223.2 or 11B-223.3 were applied to that department or area; or b) the overall number of patient bedrooms or resident sleeping rooms in the facility complies with the minimum number required for new construction by Section 11B-223.2 or 11B-223.3.
+11B-223.1.1.3 Toilet and Bathing Facilities
+Toilet/bathing rooms which are part of patient bedrooms added or altered and required to be accessible shall comply with Section 11B-805.2.4.
+11B-223.2 Hospitals, Rehabilitation Facilities, Psychiatric Facilities and Detoxification Facilities
+Hospitals, rehabilitation facilities, psychiatric facilities and detoxification facilities shall comply with Section 11B-223.2. All public use and common use areas shall be accessible in compliance with this chapter.
+11B-223.2.1 Facilities Not Specializing in Treating Conditions That Affect Mobility
+In facilities not specializing in treating conditions that affect mobility, including hospitals, psychiatric and detoxification facilities, at least 10 percent, but no fewer than one, of the patient bedrooms or resident sleeping rooms shall provide mobility features complying with Section 11B-805. Accessible patient bedrooms or resident sleeping rooms shall be dispersed in a manner that is proportionate by type of medical specialty.
+11B-223.2.2 Facilities Specializing in Treating Conditions That Affect Mobility
+In facilities specializing in treating conditions that affect mobility, 100 percent of the patient bedrooms shall provide mobility features complying with Section 11B-805.
+11B-223.2.3 On-Call Rooms
+Where physician or staff on-call sleeping rooms are provided, at least 10 percent, but no fewer than one, of the on-call rooms shall provide mobility features complying with Sections 11B-806.2.3, 11B-806.2.4 and 11B-806.2.6.
+11B-223.3 Long-Term Care Facilities
+In licensed long-term care facilities, including skilled nursing facilities, intermediate care facilities and nursing homes, at least 50 percent, but no fewer than one, of each type of patient bedroom or resident sleeping room shall provide mobility features complying with Section 11B-805.
+11B-223.4 Professional Offices of Health Care Providers
+Diagram
+Professional offices of health care providers shall comply with Section 11B-805.
+UpCodes Diagram (1)
+Primary
+Professional Offices of Health Care Providers
+Section 11B-224 Transient Lodging Guest Rooms, Housing at a Place of Education and Social Service Center Establishments
+Diagram
+UpCodes Diagrams (3)
+Primary
+CA Housing: Education / Social Services
+
+Housing at Place of Education: Grad. vs. Undergrad. (CA 11B)
+
+Housing: Regulations for Title III Entities
+Building products (3)
+
+Anika Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+
+H-Line 3-Hole Deck Mounted Widespread Lavatory Set
+Watermark Designs
+
+
+Loft Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+11B-224.1 General
+Hotels, motels, inns, resorts and similar transient lodging facilities, and housing at a place of education, shall provide guest rooms in accordance with Sections 11B-224.1 through 11B-224.6.
+11B-224.1.1 Alterations
+Where guest rooms are altered or added, the requirements of Section 11B-224 shall apply only to the guest rooms being altered or added until the number of guest rooms complies with the minimum number required for new construction.
+11B-224.1.2 Guest Room Doors and Doorways
+Entrances, doors and doorways providing user passage into and within guest rooms that are not required to provide mobility features complying with Section 11B-806.2 shall comply with Section 11B- 404.2.3. In transient lodging facilities, bathroom doors shall be either sliding or hung to swing in the direction of egress from the bathroom.
+Exception: Shower and sauna doors in guest rooms that are not required to provide mobility features complying with Section 11B-806.2 shall not be required to comply with Section 11B-404.2.3.
+11B-224.1.3 Range of Accommodations
+Accessible guest rooms or suites shall be dispersed among the various classes of sleeping accommodations to provide a range of options applicable to room sizes, costs and amenities provided.
+11B-224.1.4 Guest Room Toilet and Bathing Rooms
+In transient lodging facilities where toilet and bathing rooms are provided in guest rooms that are not required to provide mobility features complying with Section 11B-806.2, toilet and bathing fixtures shall only be required to comply with Section 11B-603.6.
+11B-224.2 Guest Rooms With Mobility Features
+Diagram
+In transient lodging facilities and housing at a place of education, guest rooms with mobility features complying with Section 11B-806.2 shall be provided in accordance with Table 11B-224.2. In transient lodging facilities, Table 11B-224.2 shall be applied as follows:
+TABLE 11B-224.2—
+GUEST ROOMS WITH MOBILITY FEATURES
+Provide either a bathtub complying with Section 11B-607 or a transfer type shower complying with Section 11B-608.2.1.
+Provide either a standard roll-in type shower complying with Section 11B-608.2.2 or an alternate type roll-in shower complying with Section 11B-608.2.3.
+UpCodes Diagram (1)
+
+Housing at Place of Education: Grad. vs. Undergrad. (CA 11B)
+Building products (3)
+
+Nano Plus Sink - TSL.NANO.P
+The Splash Lab
+
+
+The Solo Basin / Circular - TSL.SOLO1
+The Splash Lab
+
+
+The Solo Basin / Rectangular - TSL.SOLO2
+The Splash Lab
+
+11B-224.2.1 Fifty or Less Guest Room Facilities
+Facilities that are subject to the same permit application on a common site that each have fifty or fewer guest rooms may be combined for the purposes of determining the required number of accessible rooms and type of accessible bathing facility.
+11B-224.2.2 More Than Fifty Guest Room Facilities
+Facilities with more than fifty guest rooms shall be treated separately for the purposes of determining the required number of accessible rooms and type of accessible bathing facility.
+11B-224.3 Beds
+In guest rooms having more than 25 beds, 5 percent minimum of the beds shall have clear floor space complying with Section 11B-806.2.3.
+11B-224.4 Guest Rooms With Communication Features
+In transient lodging facilities, guest rooms with communication features complying with Section 11B-806.3 shall be provided in accordance with Table 11B-224.4.
+TABLE 11B-224.4—
+GUEST ROOMS WITH COMMUNICATION FEATURES
+11B-224.5 Dispersion
+Guest rooms required to provide mobility features complying with Section 11B-806.2 and guest rooms required to provide communication features complying with Section 11B-806.3 shall be dispersed among the various classes of guest rooms, and shall provide choices of types of guest rooms, number of beds and other amenities comparable to the choices provided to other guests. Where the minimum number of guest rooms required to comply with Section 11B-806 is not sufficient to allow for complete dispersion, guest rooms shall be dispersed in the following priority: guest room type, number of beds and amenities. At least one guest room required to provide mobility features complying with Section 11B-806.2 shall also provide communication features complying with Section 11B-806.3. Not more than 10 percent of guest rooms required to provide mobility features complying with Section 11B-806.2 shall be used to satisfy the minimum number of guest rooms required to provide communication features complying with Section 11B-806.3.
+11B-224.6 Storage
+Fixed or built-in storage facilities within guest rooms required to provide mobility features shall comply with Section 11B-225.
+Building products (2)
+
+Lighted Closet Rod - Tunable-white, Aluminum Profile, Frosted Lens, White - LCR-T
+Task Lighting and Power
+
+
+Top-Mounted Support, Lighted Closet Rod - L-LCR-HS
+Task Lighting and Power
+
+11B-224.7 Housing at a Place of Education
+Diagram
+Housing at a place of education subject to this section shall comply with Sections 11B-224.1 through 11B-224.6 and 11B-806 for transient lodging guest rooms. For the purposes of the application of this section, the term "sleeping room" is interchangeable with "guest room" as used in the transient lodging standards.
+Exception: Housing facilities that are provided by or on behalf of a place of education, with residential dwelling units leased on a year-round basis exclusively to graduate students or faculty, and that do not contain any public use or common use areas available for educational programming, are not subject to Section 11B-224 and shall comply with Section 11B-233.
+UpCodes Diagrams (2)
+Primary
+Housing at Place of Education: Grad. vs. Undergrad. (CA 11B)
+
+CA Housing: Education / Social Services
+11B-224.7.1 Multibedroom Housing Units With Mobility Features
+Multibedroom housing units containing accessible sleeping rooms with mobility features shall have an accessible route throughout the unit in compliance with Section 11B-809.2. Kitchens, when provided, within housing units containing accessible sleeping rooms with mobility features shall comply with Section 11B-804.
+11B-224.7.2 Accessible Dwelling Units With Adaptable Features
+Accessible dwelling units with adaptable features shall be provided as required by Section 11B-233.3.1.2. The number of required accessible dwelling units with adaptable features shall be reduced by the number of units with mobility features required by Section 11B-224.2.
+11B-224.8 Social Service Center Establishments
+Diagram
+Group homes, halfway houses, shelters or similar social service center establishments that provide either temporary sleeping accommodations or residential dwelling units subject to this section shall comply with Section 11B-233.3.
+UpCodes Diagram (1)
+
+CA Housing: Education / Social Services
+11B-224.8.1 More Than 25-Bed Sleeping Rooms
+In sleeping rooms with more than 25 beds, a minimum of 5 percent of the beds shall have clear floor space complying with Section 11B-806.2.3.
+11B-224.8.2 More Than 50-Bed Facilities
+Facilities with more than 50 beds that provide common use bathing facilities shall provide at least one roll-in shower with a seat that complies with Section 11B-608. When separate shower facilities are provided for men and women, at least one roll-in shower shall be provided for each group.
+Section 11B-225 Storage
+Diagram
+UpCodes Diagrams (4)
+
+Accessible Locker Shelving
+
+Accessible Lockers
+
+Library Book Stacks
+
+Professional Offices of Health Care Providers
+Building products (2)
+
+Lighted Closet Rod - Tunable-white, Aluminum Profile, Frosted Lens, White - LCR-T
+Task Lighting and Power
+
+
+Top-Mounted Support, Lighted Closet Rod - L-LCR-HS
+Task Lighting and Power
+
+11B-225.1 General
+Storage facilities shall comply with Section 11B-225.
+11B-225.2 Storage
+Where storage is provided in accessible spaces, at least one of each type shall comply with Section 11B-811.
+11B-225.2.1 Lockers
+Diagram
+Where lockers are provided, at least 5 percent, but no fewer than one of each type, shall comply with Section 11B-811.
+UpCodes Diagrams (2)
+Primary
+Accessible Lockers
+
+Accessible Locker Shelving
+11B-225.2.2 Self-Service Shelving
+Self-service shelves shall be located on an accessible route complying with Section 11B-402. Self-service shelving shall not be required to comply with Section 11B-308.
+11B-225.2.3 Library Book Stacks
+Diagram
+Book stacks available for public use shall be 54 inches (1372 mm) maximum above the finish floor.
+Exceptions:
+Book stacks available for public use may be higher than 54 inches (1372 mm) maximum above the finish floor when an attendant is available to assist persons with disabilities.
+Book stacks restricted to employee use are not required to comply with these requirements.
+UpCodes Diagram (1)
+Primary
+Library Book Stacks
+11B-225.3 Self-Service Storage Facilities
+Self-service storage facilities shall provide individual self-service storage spaces complying with these requirements in accordance with Table 11B-225.3.
+TABLE 11B-225.3—SELF-SERVICE STORAGE FACILITIES
+11B-225.3.1 Dispersion
+Individual self-service storage spaces shall be dispersed throughout the various classes of spaces provided. Where more classes of spaces are provided than the number required to be accessible, the number of spaces shall not be required to exceed that required by Table 11B-225.3. Self-service storage spaces complying with Table 11B-225.3 shall not be required to be dispersed among buildings in a multibuilding facility.
+Section 11B-226 Dining Surfaces and Work Surfaces
+11B-226.1 General
+Where dining surfaces are provided for the consumption of food or drink, at least 5 percent of the seating spaces and standing spaces at the dining surfaces shall comply with Section 11B-902. In addition, where work surfaces are provided for use by other than employees, at least 5 percent shall comply with Section 11B-902.
+Exceptions:
+Sales counters and service counters shall not be required to comply with Section 11B-902. See Section 11B-227.
+Check writing surfaces provided at check-out aisles not required to comply with Section 11B-904.3 shall not be required to comply with Section 11B-902.
+11B-226.2 Dispersion
+Dining surfaces required to comply with Section 11B-902 shall be dispersed throughout the space or facility containing dining surfaces for each type of seating in a functional area. Work surfaces required to comply with Section 11B-902 shall be dispersed throughout the space or facility containing work surfaces.
+11B-226.3 Dining Surfaces Exceeding 34 Inches in Height
+Where food or drink is served for consumption at a counter exceeding 34 inches (864 mm) in height, a portion of the main counter 60 inches (1525 mm) minimum in length shall be provided in compliance with Section 11B-902.3.
+11B-226.4 Baby Diaper Changing Station
+Diagram
+Baby diaper changing stations shall comply with Sections 11B-309 and 11B-902. Baby diaper changing stations when deployed shall not obstruct the required width of an accessible route except as allowed by Section 11B-307.2. Baby diaper changing stations shall not be located in toilet compartments complying with Section 11B-604.8 or urinal compartments complying with 11B-605.5 within a multiple accommodation toilet facility.
+UpCodes Diagram (1)
+Primary
+Baby Changing Tables
+Building products (4)
+
+DryBaby - ABC-300HSR
+World Dryer
+
+
+DryBaby® - ABC-300V
+World Dryer
+
+
+DryBaby® - ABC-300H
+World Dryer
+
+
+DryBaby® - ABC-300HS
+World Dryer
+
+Section 11B-227 Sales and Service
+11B-227.1 General
+Diagram
+Where provided, check-out aisles, sales counters, service counters, food service lines, queues and waiting lines shall comply with Sections 11B-227 and 11B-904.
+UpCodes Diagrams (2)
+
+Sales and Service Counters - Height & Depth (CA)
+
+Sales and Service Counters - Exception
+11B-227.2 Check-Out Aisles
+Diagram
+Where check-out aisles are provided, check-out aisles complying with Section 11B-904.3 shall be provided in accordance with Table 11B-227.2. Where check-out aisles serve different functions, check-out aisles complying with Section 11B-904.3 shall be provided in accordance with Table 11B-227.2 for each function. Where check-out aisles are dispersed throughout the building or facility, check-out aisles complying with Section 11B-904.3 shall be dispersed. When not all check-out aisles are accessible, accessible check-out aisles shall be identified by a sign complying with Section 11B-904.3.4.
+Note: Operational procedures are often necessary to ensure the Americans with Disabilities Act accessibility requirements are met. When check-out aisles are open for customer use, the business should ensure that a minimum of one accessible check-out aisle is always available for use by persons with disabilities. As check-out aisles are opened and closed based on fluctuating customer levels, the business should ensure that the number of accessible check-out aisles available complies with Table 11B-227.2.
+Exception: In existing buildings, where the selling space is under 5000 square feet (465 m2) no more than one check-out aisle complying with Section 11B-904.3 shall be required.
+TABLE 11B-227.2—
+CHECK-OUT AISLES
+UpCodes Diagrams (2)
+
+Check-Out Aisles
+
+Check-Out Aisles: Counter Surface (ADA)
+11B-227.2.1 Altered Check-Out Aisles
+Where check-out aisles are altered, at least one of each check-out aisle serving each function shall comply with Section 11B-904.3 until the number of check-out aisles complies with Section 11B-227.2.
+11B-227.3 Counters
+Diagram
+Where provided, at least one of each type of sales counter and service counter shall comply with Section 11B-904.4. Where counters are dispersed throughout the building or facility, counters complying with Section 11B-904.4 also shall be dispersed.
+UpCodes Diagrams (2)
+
+Sales and Service Counters - Height & Depth (CA)
+
+Sales and Service Counters - Exception
+11B-227.4 Food Service Lines
+Diagram
+Food service lines shall comply with Section 11B-904.5. Where self-service shelves are provided, at least 50 percent, but no fewer than one, of each type provided shall comply with Section 11B-308.
+UpCodes Diagrams (2)
+Primary
+Food Service: Self-Service Shelves
+
+Food Service Counters (ADA)
+11B-227.5 Queues and Waiting Lines
+Diagram
+Queues and waiting lines servicing counters or check-out aisles required to comply with Sections 11B-904.3 or 11B-904.4 shall comply with Section 11B-403.
+UpCodes Diagram (1)
+
+Waiting Lines as Accessible Routes
+Section 11B-228 Depositories, Vending Machines, Change Machines, Mail Boxes, Fuel Dispensers and Electric Vehicle Charging Stations
+Diagram
+UpCodes Diagram (1)
+
+EV Charging Stations Relationship to Accessible Routes (CA 11B)
+11B-228.1 General
+Where provided, at least one of each type of depository, vending machine, change machine and fuel dispenser shall comply with Section 11B-309. Electric vehicle charging stations shall comply with Section 11B-228.3.
+Exception: Drive-up only depositories shall not be required to comply with Section 11B-309.
+11B-228.2 Mail Boxes
+Where mail boxes are provided in an interior location, at least 5 percent, but no fewer than one, of each type shall comply with Section 11B-309. In residential facilities, where mail boxes are provided for each residential dwelling unit, mail boxes complying with Section 11B-309 shall be provided for each residential dwelling unit required to provide mobility features complying with Sections 11B-809.2 through 11B-809.4 and adaptable features complying with Sections 11B-809.6 through 11B-809.12.
+11B-228.3 Electric Vehicle Charging Stations
+Diagram
+UpCodes Diagram (1)
+
+EV Charging Stations Relationship to Accessible Routes (CA 11B)
+11B-228.3.1 General
+Where electric vehicle charging stations (EVCS) are provided, EVCS shall be provided in accordance with Section 11B-228.3.
+11B-228.3.1.1 Existing Facilities
+Where new EVCS are added to a facility with existing EVCS, the requirements of Section 11B-812 shall apply only to the new EVCS installed. Alterations to existing EVCS shall comply with Section 11B-228.3.
+11B-228.3.1.2 Operable Parts
+Where EV chargers are provided, operable parts on all EV chargers shall comply with Section 11B-309.4.
+11B-228.3.2 Minimum Number
+EVCS complying with Section 11B-812 shall be provided in accordance with Section 11B-228.3.2 for each combination of charging level and EV connector type integral to the EV charger. Each combination of charging level (such as: AC Level 1, AC Level 2, DC Fast Charge) and EV connector type shall be considered as a facility. Where EVCS are provided in more than one facility on a site, the number of EVCS complying with Section 11B-228.3.2 provided on the site shall be calculated according to the number required for each facility. In public housing facilities, EVCS provided for common use of residents shall comply with Section 11B-228.3.2. Where an EV charger can simultaneously charge more than one vehicle, the number of EV chargers provided shall be considered equivalent to the number of electric vehicles that can be simultaneously charged.
+Exceptions:
+EVCS not available to the general public and designated specifically for an individual EV driver shall not be required to comply with Section 11B-228.3.2.
+EVCS not available to the general public and serving only fleet vehicles shall not be required to comply with Section 11B-228.3.2.
+Note: Electric vehicle charging provided in newly constructed facilities are also subject to the California Green Building Standards Code.
+11B-228.3.2.1 Public Use or Common Use EVCS
+Where EVCS are provided for public use or common use, EVCS complying with Section 11B-812 shall be provided in accordance with Table 11B-228.3.2.1. Where new EVCS are installed in facilities with existing EVCS, the "Total Number of EVCS at a Facility" in Table 11B-228.3.2.1 shall include both existing and new EVCS.
+Exception: All drive-up EVCS shall comply with Section 11B-812.
+TABLE 11B-228.3.2.1—ELECTRIC VEHICLE CHARGING STATIONS FOR PUBLIC USE AND COMMON USE
+Where an EV charger can simultaneously charge more than one vehicle, the number of EVCS provided shall be considered equivalent to the number of electric vehicles that can be simultaneously charged.
+Section 11B-229 Windows
+11B-229.1 General
+Diagram
+Where glazed openings are provided in accessible rooms or spaces for operation by occupants, at least one opening shall comply with Section 11B-309. Each glazed opening required by an administrative authority to be operable shall comply with Section 11B-309.
+Exceptions:
+Glazed openings in residential dwelling units required to comply with Section 11B-809 shall not be required to comply with Section 11B-229.
+Glazed openings in guest rooms required to provide communication features and in guest rooms required to comply with Section 11B-206.5.3 shall not be required to comply with Section 11B-229.
+UpCodes Diagrams (2)
+Primary
+Accessible Windows: Operable Parts
+Primary
+Accessible Windows (CA 11B)
+Section 11B-230 Two-Way Communication Systems
+11B-230.1 General
+Where a two-way communication system is provided to gain admittance to a building or facility or to restricted areas within a building or facility, the system shall comply with Section 11B-708.
+Section 11B-231 Judicial Facilities
+11B-231.1 General
+Judicial facilities shall comply with Section 11B-231.
+11B-231.2 Courtrooms
+Each courtroom shall comply with Section 11B-808.
+11B-231.3 Holding Cells
+Where provided, central holding cells and court-floor holding cells shall comply with Section 11B-231.3.
+11B-231.3.1 Central Holding Cells
+Where separate central holding cells are provided for adult male, juvenile male, adult female or juvenile female, one of each type shall comply with Section 11B-807.2. Where central holding cells are provided and are not separated by age or sex, at least one cell complying with Section 11B-807.2 shall be provided.
+11B-231.3.2 Court-Floor Holding Cells
+Where separate court-floor holding cells are provided for adult male, juvenile male, adult female or juvenile female, each courtroom shall be served by one cell of each type complying with Section 11B-807.2. Where court-floor holding cells are provided and are not separated by age or sex, courtrooms shall be served by at least one cell complying with Section 11B-807.2. Cells may serve more than one courtroom.
+11B-231.4 Visiting Areas
+Visiting areas shall comply with Section 11B-231.4.
+11B-231.4.1 Cubicles and Counters
+At least 5 percent, but no fewer than one, of cubicles shall comply with Section 11B-902 on both the visitor and detainee sides. Where counters are provided, at least one shall comply with Section 11B-904.4.2 on both the visitor and detainee sides.
+Exception: The detainee side of cubicles or counters at non-contact visiting areas not serving holding cells required to comply with Section 11B-231 shall not be required to comply with Sections 11B-902 or 11B-904.4.2.
+11B-231.4.2 Partitions
+Where solid partitions or security glazing separate visitors from detainees at least one of each type of cubicle or counter partition shall comply with Section 11B-904.6.
+Section 11B-232 Detention Facilities and Correctional Facilities
+Diagram
+UpCodes Diagram (1)
+
+Security Barriers (ADA)
+11B-232.1 General
+Buildings, facilities, or portions thereof, in which people are detained for penal or correction purposes, or in which the liberty of the inmates is restricted for security reasons shall comply with Section 11B-232.
+11B-232.2 General Holding Cells and General Housing Cells
+General holding cells and general housing cells shall be provided in accordance with Section 11B-232.2.
+Exception: Reserved.
+11B-232.2.1 Cells With Mobility Features
+At least 3 percent, but no fewer than one, of the total number of cells in a facility shall provide mobility features complying with Section 11B-807.2.
+11B-232.2.1.1 Beds
+In cells having more than 25 beds, at least 5 percent of the beds shall have clear floor space complying with Section 11B-807.2.3.
+11B-232.2.1.2 Dispersion
+Cells with mobility features shall be provided in each classification level.
+11B-232.2.1.3 Substitute Cells
+When alterations are made to specific cells, detention and correctional facility operators may satisfy their obligation to provide the required number of cells with mobility features by providing the required mobility features in substitute cells (cells other than those where alterations are originally planned), provided that each substitute cell meets the following conditions:
+Located within the same prison site.
+Integrated with the other cells to the maximum extent feasible.
+Has equal physical access as the altered cells to areas used by inmates or detainees for visitation, dining, recreation, educational programs, medical services, work programs, religious services and participation in other programs that the facility offers to inmates or detainees.
+11B-232.2.1.4 Technically Infeasible
+Where it is technically infeasible to locate a substitute cell within the same prison site in compliance with Section 11B-232.2.1.3, a substitute cell shall be provided at another prison site within the correctional system.
+11B-232.2.2 Cells With Communication Features
+At least 2 percent, but no fewer than one, of the total number of general holding cells and general housing cells equipped with audible emergency alarm systems and permanently installed telephones within the cell shall provide communication features complying with Section 11B-807.3.
+11B-232.3 Special Holding Cells and Special Housing Cells
+Where special holding cells or special housing cells are provided, at least one cell serving each purpose shall provide mobility features complying with Section 11B-807.2. Cells subject to this requirement include, but are not limited to, those used for purposes of orientation, protective custody, administrative or disciplinary detention or segregation, detoxification and medical isolation.
+Exception: Reserved.
+11B-232.4 Medical Care Facilities
+Patient bedrooms or cells required to comply with Section 11B-223 shall be provided in addition to any medical isolation cells required to comply with Section 11B-232.3.
+11B-232.5 Visiting Areas
+Visiting areas shall comply with Section 11B-232.5.
+11B-232.5.1 Cubicles and Counters
+At least 5 percent, but no fewer than one, of cubicles shall comply with Section 11B-902 on both the visitor and detainee sides. Where counters are provided, at least one shall comply with Section 11B-904.4.2 on both the visitor and detainee or inmate sides.
+Exception: The inmate or detainee side of cubicles or counters at non-contact visiting areas not serving holding cells or housing cells required to comply with Section 11B-232 shall not be required to comply with Section 11B-902 or 11B-904.4.2.
+11B-232.5.2 Partitions
+Where solid partitions or security glazing separate visitors from detainees or inmates at least one of each type of cubicle or counter partition shall comply with Section 11B-904.6.
+Section 11B-233 Public Housing Facilities
+Diagram
+UpCodes Diagrams (8)
+Primary
+CA Public Housing: Ch. 11B (Pt. 2)
+Primary
+CA Public Housing: Ch. 11B (Pt. 1)
+
+Housing at Place of Education: Grad. vs. Undergrad. (CA 11B)
+
+Routes: Dwelling Units (CA 11B)
+
+Housing: ADA & Title II Entities
+
+Housing: Regulations for Title III Entities
+
+Housing: ADA Regulations
+
+CA Housing: Education / Social Services
+11B-233.1 General
+Public housing facilities with residential dwelling units shall comply with Section 11B-233. See Chapter 2, Section 202 of this code for the definition of Public Housing.
+11B-233.2 Reserved
+11B-233.3 Public Housing Facilities
+Public housing facilities with residential dwelling units shall comply with Sections 11B-233.3 and 11B-809.
+Note: Senior citizen housing may also be subject to Civil Code, Division 1. Part 2. Sections 51.2, 51.3 and 51.4.
+Building products (3)
+
+Anika Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+
+H-Line 3-Hole Deck Mounted Widespread Lavatory Set
+Watermark Designs
+
+
+Loft Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+11B-233.3.1 Minimum Number: New Construction
+Newly constructed facilities with residential dwelling units shall comply with Section 11B-233.3.1.
+Exception: Where facilities contain 15 or fewer residential dwelling units, the requirements of Sections 11B-233.3.1.1 and 11B-233.3.1.3 shall apply to the total number of residential dwelling units that are constructed under a single contract, or are developed as a whole, whether or not located on a common site.
+11B-233.3.1.1 Residential Dwelling Units With Mobility Features
+In facilities with residential dwelling units, at least 5 percent, but no fewer than one unit, of the total number of residential dwelling units shall provide mobility features complying with Sections 11B-809.1 through 11B-809.4 and shall be on an accessible route as required by Section 11B-206.
+11B-233.3.1.2 Residential Dwelling Units With Adaptable Features
+In buildings with three or more residential dwelling units, adaptable residential dwelling units shall comply with Section 11B-809.6 and shall be provided as required by Sections 11B-233.3.1.2.1 through 11B-233.3.1.2.6. Adaptable residential dwelling units shall be on an accessible route as required by Section 11B-206.
+Exception: The number of required adaptable residential dwelling units shall be reduced by the number of units required by Section 11B-233.3.1.1.
+11B-233.3.1.2.1 Elevator Buildings
+A residential building with one or more elevators shall have an elevator serve all floors with a residential dwelling unit primary entrance and all floors with common use areas. Elevators shall comply with Section 11B-407. Residential dwelling units on floors served by an elevator shall be adaptable.
+Exceptions:
+A building with only an elevator that serves a parking garage or building entry level not containing residential dwelling units to the first ground floor above grade containing residential dwelling units.
+A building with a multi-story residential dwelling unit with an elevator within the unit.
+11B-233.3.1.2.2 Ground Floor Residential Dwelling Units
+Ground floor residential dwelling units shall be adaptable. A building may have one or more ground floors.
+11B-233.3.1.2.3 Ground Floors Above Grade
+Where the first floor in a building containing residential dwelling units is a floor above grade, all units on that floor shall be adaptable.
+11B-233.3.1.2.4 Multistory Residential Dwelling Units in Buildings With One or More Elevators
+In elevator buildings, facilities with multistory residential dwelling units shall comply with the following:
+The primary entry of the multistory residential dwelling unit shall be on an accessible route on the floor served by the elevator.
+At least one powder room or bathroom and kitchen shall be located on the primary entry level.
+Rooms or spaces located on the primary entry level shall be served by an accessible route and comply with Sections 11B-809.6 through 11B-809.12.
+11B-233.3.1.2.5 Multistory Residential Dwelling Units in Buildings With No Elevator
+In non-elevator buildings, a minimum of 10 percent but not less than one of the ground floor multistory residential dwelling units shall be calculated using the total number of multistory residential dwelling units in buildings on a site and shall comply with the following:
+The primary entry of the multistory residential dwelling unit shall be on an accessible route.
+At least one powder room or bathroom shall be located on the primary entry level.
+Rooms or spaces located on the primary entry level shall be served by an accessible route and comply with Sections 11B-809.6 through 11B-809.12.
+11B-233.3.1.2.6 Public Housing Facility Site Impracticality
+The site impracticality tests in this section may be used to determine the number of required residential dwelling units with adaptable features in buildings without an elevator, located on sites with difficult terrain conditions or unusual characteristics.
+Except as provided for in Section 11B-233.3.1.2.5, the provisions of this section do not apply to multistory dwelling units in non-elevator buildings.
+11B-233.3.1.2.6.1 Single Building With One Common (Lobby) Entrance
+The following may only be used for determining required access to multifamily dwelling units, in a single building with one common (lobby) entrance, located on a site with difficult terrain conditions or unusual characteristics:
+All ground floor units in non-elevator buildings shall be adaptable and on an accessible route unless an accessible route to the common (lobby) entrance is not required as determined by Test No. 1, Individual Building Test, or Test No. 3, Unusual Characteristics Test, as described in this section.
+Sites where either Test No. 1 or Test No. 3 is used and it is determined that an accessible route to the common (lobby) entrance is not required, a minimum of 20 percent of the ground floor dwelling units shall comply with Section 11B-809.6, and all remaining ground floor dwelling units shall comply with the features listed in Section 11B-233.3.1.2.6.5 unless exempted by Test No. 3, Unusual Characteristics Test.
+Test No. 1—Individual Building Test may only be used if the site has terrain over 15 percent slope.
+Test No. 3—Unusual Characteristics Test may be used if applicable.
+Provisions to Test Nos. 1 and 2. Where a building elevator is provided only as means of creating an accessible route to dwelling units on a ground floor, the building is not considered to be an elevator building for purposes of this code; hence, only the ground floor dwelling units would be covered.
+11B-233.3.1.2.6.2 Test Number One, Individual Building Test
+It is not required by this code to provide an accessible route when the terrain of the site is such that both of the following apply:
+The slopes of the undisturbed site measured in a straight line between the planned entrance and all vehicular or pedestrian arrival points within 50 feet (15 240 mm) of the planned entrance exceed 15 percent; and
+The slopes of the planned finished grade measured between the entrance and all vehicular or pedestrian arrival points within 50 feet (15 240 mm) of the planned entrance also exceed 15 percent.
+If there are no vehicular or pedestrian arrival points within 50 feet (15 240 mm) of the planned entrance, the slope for the purposes of Test No. 1 will be measured to the closest vehicular or pedestrian arrival point.
+For purposes of these requirements, vehicular or pedestrian site arrival points include public or resident parking areas, public transportation stops, passenger loading zones and public streets or sidewalks. To determine site impracticality, the slope would be measured at ground level from the point of the planned entrance on a straight line to:
+Each vehicular or pedestrian arrival point that is within 50 feet (15 240 mm) of the planned entrance, or
+If there are no vehicular or pedestrian arrival points within the specified area, the vehicular or pedestrian arrival point closest to the planned entrance.
+In the case of sidewalks, the closest point to the entrance will be where a public sidewalk entering the site intersects with the walk to the entrance. In the case of resident parking areas, the closest point to the planned entrance will be measured from the entry point to the parking area that is located closest to the planned entrance.
+11B-233.3.1.2.6.3 Test Number Two, Site Analysis Test
+For a site having multiple buildings, or a site with a single building with multiple entrances, it is not required to provide a building entrance on an accessible route to all ground floor units under the following conditions:
+Calculate the percentage of the total buildable area of the undisturbed site with a natural grade less than 10 percent slope. The analysis of the existing slope (before grading) shall be done on a topographic survey with 2 foot (610 mm) contour intervals with slope determination made between each successive interval. The accuracy of the slope analysis shall be certified by a licensed engineer, landscape architect, architect or surveyor.
+Determine the requirement of providing an accessible route to planned multifamily dwellings based on the topography of the existing natural terrain. The minimum percentage of ground floor units required on an accessible route shall equal the percentage of the total buildable area (not restricted-use areas, flood plains or wetlands) of the undisturbed site with an existing natural grade of less than 10 percent slope.
+In addition to the percentage established in paragraph (2), all ground floor units in a building, or ground floor units served by a particular entrance on an accessible route defined by a calculation of the straight line slope not exceeding 8.33 percent, between their planned entrances and an arrival point, shall be on an accessible route and comply with the provisions of Section 11B-809.6.
+All additional ground floor units in a building, or ground floor units served by a particular entrance, not on an accessible route shall comply with the features listed in Section 11B-233.3.1.2.6.5.
+In no case shall less than 20 percent of the ground floor dwelling units be on an accessible route and comply with the provisions of Sections 11B-809.6 through 11B-809.12.
+11B-233.3.1.2.6.4 Test Number Three, Unusual Characteristics Test
+Unusual characteristics include sites located in a state or federally designated floodplain or coastal high-hazard areas and sites subject to other similar requirements of law or code that require the lowest floor or the lowest structural member of the lowest floor be designed to a specified level at or above the base flood elevation. An accessible route to a building entrance is impractical due to unusual characteristics of the site when:
+The original site characteristics result in a difference in finished grade elevation exceeding 30 inches (762 mm) and 10 percent measured between an entrance and all vehicular or pedestrian arrival points within 50 feet (15 240 mm) of the planned entrance; or
+If there are no vehicular or pedestrian arrival points within 50 feet (15 240 mm) of the planned entrance, the unusual characteristics result in a difference in finished grade elevation exceeding 30 inches (762 mm) and 10 percent measured between an entrance and the closest vehicular or pedestrian arrival point.
+11B-233.3.1.2.6.5 Additional Requirements
+In buildings without elevators and where site impracticality test numbers one, two or three reduce the required number of residential dwelling units with adaptable features, the remaining units shall provide the following:
+Grab bar reinforcement complying with Section 11B-809.10.5.2, 11B-809.10.6.4 or 11B-809.10.7.3.
+Interior door opening width complying with Section 11B-404.2.3.
+Door and gate hardware complying with Section 11B-404.2.7.
+Door signal devices complying with Section 11B-809.8.4.
+Door maneuvering clearance complying with Section 11B-809.8.
+Water closet seat height complying with Section 11B-809.10.7.4.
+Electrical receptacles, switches and controls complying with Section 11B-809.12.
+Faucets complying with Section 11B-809.10.8.6.
+Water closet, bathtub and lavatory maneuvering clearances complying with Section 11B-809.10.
+Removable base cabinets complying with Section 11B-809.9.3.
+11B-233.3.1.3 Residential Dwelling Units With Communication Features
+In public housing facilities with residential dwelling units, at least 2 percent, but no fewer than one unit, of the total number of residential dwelling units shall provide communication features complying with Section 11B-809.5.
+11B-233.3.2 Residential Dwelling Units for Sale
+Residential dwelling units designed and constructed or altered by public entities that will be offered for sale to individuals shall provide accessible features to the extent required by this chapter.
+11B-233.3.2.1 Buyer Identified Residential Dwelling Units for Sale
+The requirements of Section 11B-233.3.2 also apply to housing programs that are operated by public entities where design and construction of particular residential dwelling units take place only after a specific buyer has been identified. In such programs, the covered entity must provide the units that comply with the requirements for accessible features to those pre-identified buyers with disabilities who have requested such a unit.
+11B-233.3.3 Additions
+Where an addition to an existing building results in an increase in the number of residential dwelling units, the requirements of Section 11B-233.3.1 shall apply only to the residential dwelling units that are added until the total number of residential dwelling units complies with the minimum number required by Section 11B-233.3.1. Residential dwelling units required to comply with Sections 11B-233.3.1.1 and 11B-233.3.1.2 shall be on an accessible route as required by Section 11B-206.
+11B-233.3.4 Alterations
+Alterations shall comply with Section 11B-233.3.4.
+Exception: Where compliance with Section 11B-809.2, 11B-809.3 or 11B-809.4 is technically infeasible, or where it is technically infeasible to provide an accessible route to a residential dwelling unit, the entity shall be permitted to alter or construct a comparable residential dwelling unit to comply with Sections 11B-809.2 through 11B-809.4 provided that the minimum number of residential dwelling units required by Sections 11B-233.3.1.1 and 11B-233.3.1.3, as applicable, is satisfied.
+11B-233.3.4.1 Alterations to Vacated Buildings
+Where a building is vacated for the purposes of alteration, and the altered building contains more than 15 residential dwelling units, at least 5 percent of the residential dwelling units shall comply with Sections 11B-809.2 through 11B-809.4 and shall be on an accessible route as required by Section 11B-206. In addition, at least 2 percent of the residential dwelling units shall comply with Section 11B-809.5.
+11B-233.3.4.2 Alterations to Individual Residential Dwelling Units
+In individual residential dwelling units, where a bathroom or a kitchen is substantially altered, and at least one other room is altered, the requirements of Section 11B-233.3.1 shall apply to the altered residential dwelling units until the total number of residential dwelling units complies with the minimum number required by Sections 11B-233.3.1.1 and 11B-233.3.1.3. Residential dwelling units required to comply with Section 11B-233.3.1.1 shall be on an accessible route as required by Section 11B-206.
+Exception: Where facilities contain 15 or fewer residential dwelling units, the requirements of Sections 11B-233.3.1.1 and 11B-233.3.1.3 shall apply to the total number of residential dwelling units that are altered under a single contract, or are developed as a whole, whether or not located on a common site.
+11B-233.3.4.3 Alterations to Residential Dwelling Units With Adaptable Features
+The building standards for residential dwelling units with adaptable features do not apply to the alteration, repair, rehabilitation or maintenance of residential dwelling units constructed for first occupancy on or prior to March 13, 1991. Multifamily dwelling units with adaptable features constructed for first occupancy after March 13, 1991 shall be maintained in compliance with the accessibility standards in effect at the time of construction.
+Exception: Where any portion of a building's exterior is preserved, but the interior of the building is removed, including all structural portions of floors and ceilings and a new building is constructed behind the existing exterior, the building is considered a new building for determining the application of this chapter.
+11B-233.3.5 Dispersion
+Residential dwelling units required to provide mobility features complying with Sections 11B-809.2 through 11B-809.4 and residential dwelling units required to provide communication features complying with Section 11B-809.5 shall be dispersed among the various types of residential dwelling units in the facility and shall provide choices of residential dwelling units comparable to, and integrated with, those available to other residents.
+Exception: Where multistory residential dwelling units are one of the types of residential dwelling units provided, one-story residential dwelling units shall be permitted as a substitute for multistory residential dwelling units where equivalent spaces and amenities are provided in the one-story residential dwelling unit.
+11B-233.3.6 Graduate Student and Faculty Housing at a Place of Education
+Housing facilities that are provided by or on behalf of a place of education, with residential dwelling units leased on a year-round basis exclusively to graduate students or faculty, and that do not contain any public use or common use areas available for educational programming, are not subject to Section 11B-224 and shall comply with Section 11B-233.

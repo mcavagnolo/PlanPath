@@ -1,0 +1,285 @@
+
+Chapter 22A Steel
+CALIFORNIA BUILDING CODE — MATRIX ADOPTION TABLE
+CHAPTER 22A — STEEL
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.
+See Chapter 1 for state agency authority and building applications.)
+The state agency does not adopt sections identified with the following symbol: †
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+User notes:
+About this chapter: Chapter 22A provides the requirements necessary for the design and construction of structural steel (including composite construction), cold-formed steel, steel joists, steel cable structures, and steel storage racks. Chapter 22A is applicable to structures regulated by the Division of the State Architect-Structural Safety—including public elementary and secondary schools, community colleges, and state-owned or state-leased essential services buildings (applications listed in Sections 1.9.2.1 [DSASS] and 1.9.2.2 [DSA-SS/CC])—and by the Department of Health Care Access and Information/Office of Statewide Hospital Planning and Development—including hospitals and correctional treatment centers (applications listed in Sections 1.10.1 [OSHPD 1] and 1.10.4 [OSHPD 4]).
+This chapter was extensively reorganized for the 2024 edition. For complete information, see the relocations table in the Preface information of this code.
+Section 2201A General
+2201A.1 Scope
+The provisions of this chapter govern the quality, design, fabrication and erection of steel construction.
+2201A.1.1 Application
+The scope of application of Chapter 22A is as follows:
+Structures regulated by the Division of the State Architect-Structural Safety (DSA-SS), which include those applications listed in Section 1.9.2.1. These applications include public elementary and secondary schools, community colleges and stateowned or state-leased essential services buildings.
+Structures regulated by the Department of Health Care Access and Information/Office of Statewide Hospital Planning and Development (OSHPD), which include those applications listed in Sections 1.10.1 and 1.10.4. These applications include hospitals and correctional treatment centers.
+2201A.1.2 Amendments in This Chapter
+DSA-SS and OSHPD adopt this chapter and all amendments.
+Exception: Amendments adopted by only one agency appear in this chapter preceded with the appropriate acronym of the adopting agency, as follows:
+Division of the State Architect-Structural Safety: [DSA-SS] For applications listed in Section 1.9.2.1.
+Office of Statewide Hospital Planning and Development:
+[OSHPD 1] - For applications listed in Section 1.10.1.
+[OSHPD 4] - For applications listed in Section 1.10.4.
+2201A.2 Identification
+Identification of steel members shall be in accordance with the applicable referenced standards within this chapter. Other steel furnished for structural load-carrying purposes shall be identified for conformity to the ordered grade in accordance with the specified ASTM standard or other specification and the provisions of this chapter. Where the steel grade is not readily identifiable from marking and test records, the steel shall be tested to verify conformity to such standards. [DSA-SS] All material identification and testing shall be in accordance with Chapter 17A.
+2201A.3 Protection
+The protection of steel members shall be in accordance with the applicable referenced standards within this chapter.
+2201A.4 Connections
+The design and installation of steel connections shall be in accordance with the applicable referenced standards within this chapter. For special inspection of welding or installation of high-strength bolts, see Section 1705A.2.
+2201A.4.1 Restrained Welded Connections
+[OSHPD 1 & 4] Welded structural steel connections having a medium or high level of restraint, as defined by AWS D1.1 Annex H, shall have a minimum pre-heat temperature of not less than 150°F (66°C). Welded structural steel connections with welds to flange, web, wall or plate having a high level of restraint shall maintain a post-heat temperature of 300°F (149°C) for a minimum of 1 hour after completion of welding.
+2201A.5 Anchor Rods
+Anchor rods shall be set in accordance with the approved construction documents. The protrusion of the threaded ends through the connected material shall fully engage the threads of the nuts, but shall not be greater than the length of the threaded portion of the bolts.
+2201A.5.1 Shear Transfer at Column Base Plate
+Where the holes in column base plates are more than 1/8 inch (3 mm) larger than the anchor rods, as permitted by AISC 360, the anchor rods shall be designed for the induced bending stresses in combination with axial and shear stresses. Alternatively, shear lugs designed in accordance with ACI 318 Section 17.11 shall be permitted to transfer shear forces between column base plates and the supporting structure.
+Section 2202A Structural Steel and Composite Structural Steel and Concrete
+2202A.1 General
+The design, fabrication and erection of structural steel elements and composite structural steel and concrete elements in buildings, structures and portions thereof shall be in accordance with AISC 360.
+Exceptions: [OSHPD 1 & 4]
+For members designed based on tension, the slenderness ratio (L/r) shall not exceed 300, except for the design of hangers and bracing in accordance with NFPA 13 and for rod hangers in tension.
+For members designed based on compression, the slenderness ratio (KL/r) shall not exceed 200, except for the design of hangers and bracing in accordance with NFPA 13.
+2202A.2 Seismic Design
+Where required, the seismic design, fabrication and erection of buildings, structures and portions thereof shall be in accordance with Section 2202A.2.1 or 2202A.2.2, as applicable.
+2202A.2.1 Structural Steel Seismic Force-Resisting Systems and Composite Structural Steel and Concrete Seismic Forceresisting Systems
+The design, detailing, fabrication and erection of structural steel seismic force-resisting systems and composite structural steel and concrete seismic force-resisting systems shall be in accordance with the provisions of Section 2202A.2.1.1 or 2202A.2.1.2, as applicable. Seismic force-resisting systems of structural steel acting compositely with reinforced concrete shall be considered as an alternative system, except as permitted by:
+[DSA-SS] Section 2202A.6.1.
+[OSHPD 1 & 4] Section 2202A.4.1.
+2202A.2.1.1 Seismic Design Category B or C
+Not permitted by DSA-SS and OSHPD.
+2202A.2.1.2 Seismic Design Category D, E or F
+Structures assigned to Seismic Design Category D, E or F shall be designed and detailed in accordance with AISC 341. Beam-to-column moment connections in structural steel special moment frames and intermediate moment frames shall be prequalified in accordance with AISC 341, Section K1, qualified by testing in accordance with AISC 341, Section K2, or shall be prequalified in accordance with AISC 358.
+2202A.2.2 Structural Steel Elements
+The design, detailing, fabrication and erection of structural steel elements in seismic force-resisting systems, including struts, collectors, chords and foundation elements, shall be in accordance with AISC 341.
+2202A.3 Modifications to AISC 341
+[OSHPD 1 and 4]
+2202A.3.1 Section A4
+Modify Section A4.1 Item (c) by adding the following:
+(c)   Locations and dimensions of protected zones. The fabricator shall permanently mark protected zones of structural elements in the seismic force-resisting system in the building that are designated on the construction documents. If these markings are obscured during construction, such as after the application of fire protection, the owner's designated representative shall re-mark the protected zones as they are designated on the construction documents. [OSHPD 1 & 4] Primers or paints used to mark protected zones on steel surfaces, which are to receive sprayed fire-resistance material, shall comply with California Building Code Section 704.13.3.2.
+2202A.3.2 Section I2
+[OSHPD 1 & 4] Replace Section I2.1 Item (d) as follows:
+(d)  Decking attachments that penetrate the beam flange shall not be placed on beam flanges within the protected zone, except power-actuated fasteners up to 0.18 inch in diameter are permitted, provided that the penetration is less than 85 percent of beam flange thickness.
+2202A.4 Modifications to AISC 358
+[OSHPD 1 and 4]
+2202A.4.1 Modifications to AISC 358 Chapter 10
+[OSHPD 1 and 4] Steel and concrete ConXtech ConXL composite special moment frame connections shall be permitted, provided:
+Beams are provided with reduced beam sections (RBS);
+Web extension to beam web two-sided fillet welds are sized to develop expected strength of the beam web and shall not be less than a 1/4 inch fillet weld; and
+The built-up box column wall thickness shall not be less than 1.25 inches and the HSS column wall thickness shall not be less than 1/2 inch.
+2202A.4.2 Modifications to AISC 358 Chapter 11 Welded Moment Connection
+The welded side plate steel moment connection shall be permitted, provided:
+The beams shall consist of either rolled or built-up wide flange sections.
+The biaxial dual-strong axis and column minor axis configurations of the moment connection shall be considered as an alternative system.
+For SMF and IMF systems, U-shaped cover plates shall be used and the hinge-to-hinge span to beam depth, Lh/d, shall be greater than or equal to 5.
+The width-to-thickness ratios for beam flanges shall not be less than 3.
+The spacing for lateral bracing of wide flange beams, Lb, shall include the length of the side plate at beam ends.
+The extension of the side plates beyond the face of the column shall be within the range of 0.77d to 1.0d.
+The gap-to-side plate thickness ratio shall range from 2.1 to 2.3.
+Exception: The gap-to-side plate thickness ratio shall be permitted to be modified for moment connections with unequal beam sizes on opposite sides of the column or when orthogonal beams acting as drag connections frame into the side plate.
+Demand critical fillet welds {2}, {5}, {5a} and {7} shall have Magnetic Particle Testing (MT) in accordance with AWS D1.1 for procedure, technique and acceptance. Inspect the beginning and end of these welds for a 6-inch length, plus any location along the length of the weld where a start and restart is visually noted for a distance of 6 inches on either side of the start/stop location.
+2202A.4.3 Modifications to AISC 358 Chapter 11 Bolted Moment Connection
+The bolted sideplate steel moment connection shall be permitted, provided:
+The beams shall consist of either rolled or built-up wide flange sections. Columns shall consist of rolled or built-up wide flange sections or noncomposite built-up box or HSS with a minimum wall thickness of 3/4 inch (19 mm), or satisfy the requirements of width-to-thickness ratios of highly ductile members in AISC 341.
+The biaxial dual-strong axis and column minor axis configurations of the moment connection shall be considered as an alternative system.
+For SMF and IMF systems, on the sideplate standard or configuration A the U-shaped cover plates shall be used with the k dimension extension. The k dimension extension length is defined as beam depth db/6, rounded to the nearest 1/2 inch (12.7 mm).
+The hinge-to-hinge span to beam depth, Lh/d, shall be greater than or equal to 4.5.
+The width-to-thickness ratios for beam flanges shall not be less than 3.5.
+Exception: For width-to-thickness ratios less than 3.5 the Cpr shall be calculated in accordance with that for welded sideplate connections but in no case shall the width-to-thickness ratio be less than 3.0.
+The minimum bolt-to-bolt spacing shall not be less than 3 bolt diameters.
+The extension of the side plates beyond the face of the column shall be within the range of 0.65d to 1.5d.
+The gap-to-side plate thickness ratio shall range from 2.1 to 2.3.
+Exception: The gap-to-side plate thickness ratio shall be permitted to be modified for moment connections with unequal beam sizes on opposite sides of the column or when orthogonal beams acting as drag connections frame into the side plate.
+Demand Critical fillet welds {2}, {5}, {5a} and {8} shall have Magnetic Particle Testing (MT) in accordance with AWS D1.1 for procedure, technique and acceptance. Inspect the beginning and end of these welds for a 6-inch (152 mm) length, plus any location along the length of the weld where a start and restart is visually noted for a distance of 6 inches (152 mm) on either side of the start/stop location.
+The connection specific factor to account for peak connection strength, Cpr, shall be between 1.15 and 1.35. Calculations shall be submitted to OSHPD for review and approval.
+For in-plane collectors transferring axial loads into the sideplate connection, coordination between sideplate and the registered design professional in responsible charge will be required to confirm the collector connection is sufficient to transfer the load into the moment frame system. This requirement shall be satisfied by designing the sideplate connections in the first bay of a multi-bay sideplate moment frame or an end bay to have a minimum connection capacity, including combined shear (Vu + Vg) and moment (Mpr) demands, of at least 1.2 times the Mpr at the plastic hinge location when the axial load, as determined by ASCE 7, Section 12.10.2.1 without Ωo, exceeds 0.1 FyAg of the sideplate beam.
+A complete frame analysis for gravity and design wind loading using LRFD load combinations in Section 1605A.1 shall be performed including Demand/Capacity Ratios. Frame beam member nominal moment strengths (Mn) used for gravity and design wind loading for the bolted sideplate connection using Class A or Class B faying surfaces shall be taken as 0.80 FyZ for frame beams up to 300 plf and 0.60 FyZ for frame beams greater than 300 plf.
+For moment frame beams with maximum beam shear greater than 90 percent of the vertical bolt shear capacity, a secondary check is to be provided to confirm the vertical bolt shear capacities are sufficient.
+Bolted sideplate connections used on heavy-shallow frame beams for beams greater than 200 plf and shallower than 24 inches (610 mm) in depth shall be considered as an alternative system.
+Skewed beams shall utilize the link-beam fabrication method with CJP welded splices for skew angles. The skew angle shall be less than 15 degrees.
+For two-sided bolted sideplate connections sharing the same side plates at the same height and depth across the column, the vertical offset in the beams shall not exceed 10 inches (254 mm).
+2202A.4.4 Modifications to AISC 358 Chapter 12
+The Simpson Strong-Tie (SST) Strong Frame bolted moment connection shall be permitted, provided:
+Only T-stub yield links are permitted. End plate yield links are not permitted.
+The biaxial dual-strong axis and column minor axis configurations of the moment connection shall be considered as an alternative system.
+Beam flange width-to-thickness ratio shall satisfy AISC 341 Table D1.1b.
+Yield-Link stem-to-beam flange connection bolts shall not slip under wind design demand loads. Yield-Link stem to beam flange connection shall be designed to prevent slip using AISC 360 Equation J3-4, where the slip resistance, µ, is taken to be 0.3.
+Double shear plate connection is permitted to increase connection axial capacity for collector loads. A partial joint penetration (PJP) groove weld for second shear plate is permissible due to space restrictions.
+2202A.4.5 Modifications to AISC 358 Chapter 15
+The DuraFuse Frames (DFF) bolted moment connection shall be permitted, provided:
+The biaxial dual-strong axis and column minor axis configurations of the moment connection shall be considered as an alternative system.
+DFF connection bolts shall not slip under wind design demand loads. The connection shall be designed to prevent slip using AISC 360 Equation J3-4, where the slip resistance is taken to be 0.3.
+Beam flange width-to-thickness ratio shall satisfy AISC 341 Table D1.1b.
+The beam weight shall be limited to a maximum of 232 pounds per foot (345 kg/m).
+2202A.5 Modifications to AISC 341
+[DSA-SS]
+2202A.5.1 Section B5
+Modify exception of Section B5.2(a) as follows:
+Exception: The forces specified in this section need not be applied to truss diaphragms designed as a part of a three-dimensional system in which the seismic force-resisting system types consist of ordinary moment frames, ordinary concentrically braced frames, ordinary cantilever column systems, special cantilever column systems, or combinations thereof, and where each diagonal bracing member resists no more than 30 percent of the diaphragm shear at each line of resistance and where the truss diagonal members conform to Sections F1.4b and F1.5 and the connections conform to Section F1.6.
+2202A.5.2 Section D2
+Modify Section D2.6c(b)(2) as follows:
+(2)    The moment calculated using the load combinations of the applicable building code, including the amplified seismic load, provided the connection or other mechanism within the column base is designed to have the ductility necessary to accommodate the column base rotation resulting from the design story drift.
+2202A.6 Modifications to AISC 358
+[DSA-SS]
+2202A.6.1 Modifications to AISC 358 Chapter 10
+[DSA-SS] Steel and concrete ConXtech ConXL composite special moment frame connections shall be permitted, provided:
+Beams are provided with reduced beam sections (RBS);
+Web extension to beam web two-sided fillet welds are sized to develop expected strength of the beam web and shall not be less than a 1/4 inch fillet weld; and
+The built-up box column wall thickness shall not be less than 1.25 inches and the HSS column wall thickness shall not be less than 1/2 inch.
+Section 2203A Structural Stainless Steel
+2203A.1 General
+The design, manufacture and erection of austenitic and duplex structural stainless steel shall be in accordance with AISC 370.
+Section 2204A Cold-Formed Steel
+2204A.1 General
+The design of cold-formed carbon and low-alloy steel structural members not covered in Sections 2206A through 2209A shall be in accordance with AISI S100. The design of cold-formed steel diaphragms shall be in accordance with additional provisions of AISI S310 as applicable.
+Section 2205A Cold-Formed Stainless Steel
+2205A.1 General
+The design of cold-formed stainless steel structural members shall be in accordance with ASCE 8.
+Section 2206A Cold-Formed Steel Light-Frame Construction
+2206A.1 Structural Framing
+For cold-formed steel light-frame construction, the design and installation of the following structural framing systems, including their members and connections, shall be in accordance with AISI S240, and Sections 2206A.1.1 through 2206A.1.3, as applicable:
+Floor and roof systems.
+Structural walls.
+Shear walls, strap-braced walls and diaphragms that resist in-plane lateral loads.
+Trusses.
+2206A.1.1 Seismic Requirements for Cold-Formed Steel Structural Systems
+The design of cold-formed steel light-frame construction to resist seismic forces shall be in accordance with the provisions of Section 2206A.1.1.1 or 2206A.1.1.2, as applicable.
+2206A.1.1.1 Seismic Design Categories B and C
+Not permitted by DSA-SS and OSHPD.
+2206A.1.1.2 Seismic Design Categories D Through F
+In cold-formed steel light-frame construction assigned to Seismic Design Category D, E or F, the seismic force-resisting system shall be designed and detailed in accordance with AISI S400. The following additional requirements apply:
+Cold-formed steel stud foundation plates or sills shall be bolted or fastened to the foundation or foundation wall in accordance with Section 2304.3.4, Item 2.
+Shear wall assemblies in accordance with Sections E5, E6 and E7 of AISI 400 are not permitted within the seismic force-resisting system of buildings.
+2206A.1.2 Prescriptive Framing
+Not permitted by DSA-SS and OSHPD.
+2206A.1.3 Truss Design
+Cold-formed steel trusses shall comply with the additional provisions of Sections 2206A.1.3.1. through 2206A.1.3.3.
+Complete engineering analysis and truss design drawings shall accompany the construction documents submitted to the enforcement agency for approval. When load testing is required, the test report shall be submitted with the truss design drawings and engineering analysis to the enforcement agency.
+2206A.1.3.1 Truss Design Drawings
+The truss design drawings shall conform to the requirements of Section I1 of AISI S202 and shall be provided with the shipment of trusses delivered to the job site. The truss design drawings shall include the details of permanent individual truss member restraint/bracing in accordance with Section I1.6 of AISI S202 where these methods are utilized to provide restraint/bracing. [DSA-SS] Deferred submittal per Section I1.4.2 of AISI S202 is not permitted by DSA-SS.
+2206A.1.3.2 Trusses Spanning 60 Feet or Greater
+The owner or the owner's authorized agent shall contract with a registered design professional for the design of the temporary installation restraint/bracing and the permanent individual truss member restraint/bracing for trusses with clear spans 60 feet (18 288 mm) or greater. Special inspection of trusses over 60 feet (18 288 mm) in length shall be in accordance with Section 1705.2.
+2206A.1.3.3 Truss Quality Assurance
+Trusses not part of a manufacturing process that provides requirements for quality control done under the supervision of a third-party quality control agency in accordance with AISI S240 Chapter D shall be fabricated in compliance with Sections 1704.2.5 and 1705.2, as applicable.
+2206A.2 Nonstructural Members
+For cold-formed steel light-frame construction, the design and installation of nonstructural members and connections shall be in accordance with AISI S220 for noncomposite assembly design. Where nonstructural members do not qualify for design under AISI S220, the design and installation of nonstructural members and connections shall be in accordance with AISI S240 or S100.
+2206A.3 Cutting and Notching
+The cutting and notching of holes in cold-formed steel framing members shall be in accordance with AISI S240 for structural members and AISI S220 for nonstructural members.
+Section 2207A Steel Joists
+2207A.1 General
+The design, manufacture and use of open-web steel joists and joist girders shall be in accordance with either SJI 100 or SJI 200, as applicable.
+2207A.1.1 Seismic Design
+Where required, the seismic design of buildings shall be in accordance with the additional provisions of Section 2202A.2 or 2206A.1.1.
+2207A.2 Design
+The registered design professional shall indicate on the construction documents the steel joist and steel joist girder designations from SJI 100 or SJI 200; and shall indicate the requirements for joist and joist girder design, layout, end supports, anchorage, bridging design that differs from SJI 100 or SJI 200, bridging termination connections and bearing connection design to resist uplift and lateral loads. These documents shall indicate special requirements as follows:
+Special loads including:
+Concentrated loads.
+Nonuniform loads.
+Net uplift loads.
+Axial loads.
+End moments.
+Connection forces.
+Special considerations including:
+Profiles for joist and joist girder configurations that differ from those defined by SJI 100 or SJI 200.
+Oversized or other nonstandard web openings.
+Extended ends.
+Deflection criteria for joists and joist girder configurations that differ from those defined by SJI 100 or SJI 200.
+2207A.3 Calculations
+The steel joist and joist girder manufacturer shall design the steel joists and steel joist girders in accordance with SJI 100 or SJI 200 to support the load requirements of Section 2207A.2. The registered design professional shall be permitted to require submission of the steel joist and joist girder calculations as prepared by a registered design professional responsible for the product design. Where requested by the registered design professional, the steel joist manufacturer shall submit design calculations with a cover letter bearing the seal and signature of the joist manufacturer's registered design professional. In addition to the design calculations submitted under seal and signature, the following shall be included:
+Bridging design that differs from SJI 100 or SJI 200, such as cantilevered conditions and net uplift.
+Connection design for:
+Connections that differ from SJI 100 or SJI 200, such as flush-framed or framed connections.
+Field splices.
+Joist headers.
+2207A.4 Steel Joist Drawings
+Steel joist placement plans shall be provided to show the steel joist products as specified on the approved construction documents and are to be utilized for field installation in accordance with specific project requirements as stated in Section 2207A.2. Steel joist placement plans shall include, at a minimum, the following:
+Listing of applicable loads as stated in Section 2207A.2 and used in the design of the steel joists and joist girders as specified in the approved construction documents.
+Profiles for joist and joist girder configurations that differ from those defined by SJI 100 or SJI 200.
+Connection requirements for:
+Joist supports.
+Joist girder supports.
+Field splices.
+Bridging attachments.
+Deflection criteria for joists and joist girder configurations that differ from those defined by SJI 100 or SJI 200.
+Size, location and connections for bridging.
+Joist headers.
+2207A.4.1 Design Approval
+[DSA-SS] Joist and joist girder design calculations and profiles with member sizes and connection details, and joist placement plans shall be provided to the enforcement agency and approved prior to joist fabrication, in accordance with the California Administrative Code (Title 24, Part 1). Joist and joist girder design calculations and profiles with member sizes and connection details shall bear the signature and stamp or seal of the registered engineer or licensed architect responsible for the joist design. Alterations to the approved joist and joist girder design calculations and profiles with member sizes and connection details, or to fabricated joists are subject to the approval of the enforcement agency.
+2207A.5 Certification
+At completion of manufacture, the steel joist manufacturer shall submit a certificate of compliance to the owner or the owner's authorized agent for submittal to the building official as specified in Section 1704.5 stating that work was performed in accordance with approved construction documents and with SJI 100 or SJI 200, as applicable.
+2207A.6 Joist Chord Bracing
+The chords of all joists shall be laterally supported at all points where the chords change direction.
+Section 2208A Steel Deck
+2208A.1 Steel Decks
+The design and construction of cold-formed steel floor and roof decks and composite slabs of concrete and steel deck shall be in accordance with SDI SD. The design of cold-formed steel diaphragms shall be in accordance with additional provisions of AISI S310, as applicable. The base material thickness of steel deck shall not be less than 0.0359 inch (0.9 mm) (20 gage).
+Exception: [DSA-SS] For single-story open structures, the minimum deck thickness may be waived if the steel roof deck need not be used as the diaphragm and there are no suspended hangers or bracing for nonstructural components attached to the deck.
+Section 2209A Steel Storage Racks
+2209A.1 General
+The design, testing and utilization of steel storage racks made of cold-formed or hot-rolled steel structural members shall be in accordance with ANSI MH16.1. The design, testing and utilization of steel cantilevered storage racks made of cold-formed or hot-rolled steel structural members shall be in accordance with ANSI MH 16.3.
+2209A.2 Seismic Design
+Where required by ASCE 7, the seismic design of steel storage racks and cantilevered steel storage racks shall be in accordance with Section 15.5.3 of ASCE 7.
+2209A.3 Certification
+For steel storage racks that are 8 feet (2438 mm) in height or greater to the top load level and assigned to Seismic Design Category D, E, or F at completion of the storage rack installation, a certificate of compliance shall be submitted to the owner or the owner's authorized agent stating that the work was performed in accordance with approved construction documents.
+Section 2210A Metal Building Systems
+2210A.1 General
+The design, fabrication and erection of a metal building system shall be in accordance with the provisions of this section.
+2210A.1.1 Design
+The design of metal building systems shall be in accordance with Sections 2210A.1.1.1 through 2210A.1.1.4, as applicable.
+2210A.1.1.1 Structural Steel
+The design, fabrication and erection of structural steel shall be in accordance with Section 2202A.
+2210A.1.1.2 Cold-Formed Steel
+The design of cold-formed carbon and low-alloy steel structural members shall be in accordance with Section 2204A.
+2210A.1.1.3 Steel Joists
+The design of steel joists shall be in accordance with Section 2207A.
+2210A.1.1.4 Steel Cable
+The design, fabrication and erection of steel cables, including related connections, shall be in accordance with Section 2214A.
+2210A.2 Seismic Design
+Where required, the seismic design, fabrication and erection of the structural steel seismic force-resisting system shall be in accordance with Section 2202A.2.1 or 2202A.2.2, as applicable.
+Section 2211A Industrial Boltless Steel Shelving
+2211A.1 General
+The design, testing and utilization of industrial boltless steel shelving shall be in accordance with MHI ANSI/MH 28.2. Where required by ASCE 7, the seismic design of industrial boltless steel shelving shall be in accordance with Chapter 15 of ASCE 7.
+Section 2212A Industrial Steel Work Platforms
+2212A.1 General
+The design, testing and utilization of industrial steel work platforms shall be in accordance with MHI ANSI/MH 28.3. Where required by ASCE 7, the seismic design of industrial steel work platforms shall be in accordance with Chapter 15 of ASCE 7.
+Section 2213A Stairs, Ladders and Guarding for Steel Storage Racks and Industrial Steel Work Platforms
+2213A.1 General
+The design and installation of stairs, ladders and guarding serving steel storage racks and industrial steel work platforms shall be in accordance with MHI ANSI/MH 32.1.
+Section 2214A Steel Cable Structures
+2214A.1 General
+The design, fabrication and erection including related connections, and protective coatings of steel cables for buildings shall be in accordance with ASCE 19. Steel cables with glass or polymer fabric material acting as a tensile membrane structure is an alternative system.
+Section 2215A [DSA-SS] Light Modular Steel Moment Frames for Public Elementary and Secondary Schools, and Community Colleges
+2215A.1 General
+2215A.1.1 Configuration
+Light modular steel moment frame buildings shall be constructed of factory-assembled modules comprising a single-story moment-resisting space frame supporting a floor and roof. Individual modules shall not exceed a width of 14 feet (4.25 m) nor a length of 72 feet (22 m). All connections of beams to corner columns shall be designed as moment-resisting in accordance with the criteria of Section 2215A.2. Modules may be stacked to form multistory structures not exceeding 35 feet or two stories in height. When stacked modules are evaluated separately, seismic forces on each module shall be distributed in accordance with Section 12.8.3 of ASCE 7, considering the modules in the stacked condition. See Section 2215A.2.5 of this code.
+2215A.1.2 Design, Fabrication and Erection
+The design, fabrication and erection of light modular steel moment-frame buildings shall be in accordance with the AISC Specification for Structural Steel Buildings (ANSI/AISC 360) and the AISI North American Specification for the Design of Cold-Formed Steel Structural Members (AISI S100), as applicable, and the requirements of this section. The maximum dead load of the roof and elevated floor shall not exceed 25 psf and 50 psf (1197 Pa and 2394 Pa), respectively. The maximum dead load of the exterior walls shall not exceed 45 psf (2155 Pa).
+2215A.2 Seismic Requirements
+In addition to the other requirements of this code, the design, materials and workmanship of light modular steel moment frames shall comply with the requirements of this section. The response modification coefficient R shall be equal to 3 1/2. Cd and Ω0 shall be equal to 3.0.
+2215A.2.1 Base Materials
+Beams, columns and connection materials shall be limited to those materials permitted under the AISC Specification for Structural Members (ANSI/AISC 360) and the AISI North American Specification for the Design of Cold-Formed Steel Structural Members (AISI S100). All columns shall conform with standard AISC 360 shapes.
+2215A.2.2 Beam-to-Column Strength Ratio
+At each moment-resisting connection the following shall apply:
+
+(Equation 22A-1)
+where:
+Fybi = The specified yield stress of beam "i."
+Fycj = The specified yield stress of column "j."
+Sbi = The flexural section modulus of each beam "i" that is moment connected to the column "j" at the connection.
+Scj = The flexural section modulus of each column "j" that is moment connected to the beam "i" at the connection.
+Exceptions:
+Beam-to-column connections at the floor level beams of first or second-story modules need not comply with this requirement.
+Beam-to-column strength ratios less than 1.4 are allowed if proven to be acceptable by analysis or testing.
+2215A.2.3 Welding
+Weld filler metals shall be capable of producing weld metal with a minimum Charpy V-Notch toughness of 20 ft-lb at 0°F. Where beam bottom flanges attach to columns with complete joint penetration groove welds and weld backing is used at the bottom surface of the beam flange, such backing shall be removed and the root pass back-gouged, repaired and reinforced with a minimum 3/16 inch (5 mm) fillet weld.
+2215A.2.4 Connection Design
+Connections of beams to columns shall have the design strength to resist the maximum seismic load effect, Em, calculated in accordance with Section 12.4.3 of ASCE 7.
+2215A.2.5 Multistory Assemblies
+Analysis of multistory assemblies shall be permitted to consider the stacked modules as a single assembly, with restraint conditions between the stacked units that represent the actual method of attachment. Alternatively, it shall be permitted to analyze the individual modules of stacked assemblies independently, with lateral and vertical reactions from modules above applied as concentrated loads at the top of the supporting module.
+Section 2216A Testing and Field Verification
+2216A.1 Tests of High-Strength Bolts, Nuts and Washers
+High-strength bolts, nuts and washers shall be sampled and tested in accordance with Section 1705A.2.8 [OSHPD 1 & 4] and this section.
+[OSHPD 1 and 4] A minimum of nine samples per lot, as defined in the ASTM standards for bolts [not nuts and washers], shall be tested for tensile properties in accordance with ASTM F606, but need not exceed three samples per 400 bolts.
+2216A.2 Tests of End-Welded Studs
+End-welded studs shall be tested in accordance with the requirements of the AWS D1.1, Clauses 9.7 and 9.8.
+Exception: Fillet-welded studs exempted by AWS D1.1 Clause 9.5.

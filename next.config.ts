@@ -9,6 +9,10 @@ const nextConfig: NextConfig = {
   // Fix for pdfjs-dist "canvas" dependency issue in Next.js
   webpack: (config) => {
     config.resolve.alias.canvas = false;
+    config.resolve.fallback = {
+      ...config.resolve.fallback,
+      fs: false,
+    };
     return config;
   },
 };

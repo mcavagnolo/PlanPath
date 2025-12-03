@@ -1,0 +1,1397 @@
+
+Chapter 3 Occupancy Classification and Use
+CALIFORNIA BUILDING CODE — MATRIX ADOPTION TABLE
+CHAPTER 3 — OCCUPANCY CLASSIFICATION AND USE
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.
+See Chapter 1 for state agency authority and building applications.)
+The state agency does not adopt sections identified with the following symbol: †
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+User notes:
+About this chapter: Chapter 3 provides the criteria by which buildings and structures are classified into use groups and occupancies. Through the balance of the code, occupancy classification is fundamental in the setting of features of construction; occupant safety requirements, especially building limitations; means of egress; fire protection systems; and interior finishes.
+ICC code development note: Code change proposals to sections preceded by the designation [F] will be considered by the IFC code development committee meeting during the 2024 (Group A) Code Development Cycle. All other code change proposals will be considered by a code development committee meeting during the 2025 (Group B) Code Development Cycle.
+Section 301 Scope
+301.1 General
+The provisions of this chapter shall control the classification of all buildings and structures as to occupancy and use. Different classifications of occupancy and use represent varying levels of hazard and risk to building occupants and adjacent properties.
+Section 302 Occupancy Classification and Use Designation
+302.1 Occupancy Classification
+Diagram
+Occupancy classification is the formal designation of the primary purpose of the building, structure or portion thereof. Structures shall be classified into one or more of the occupancy groups specified in this section based on the nature of the hazards and risks to building occupants generally associated with the intended purpose of the building or structure. An area, room or space that is intended to be occupied at different times for different purposes shall comply with all applicable requirements associated with such potential multipurpose. Structures containing multiple occupancy groups shall comply with Section 508. Where a structure is proposed for a purpose that is not specified in this section, such structure shall be classified in the occupancy it most nearly resembles based on the fire safety and relative hazard. Occupiable roofs shall be classified in the group that the occupancy most nearly resembles, according to the fire safety and relative hazard, and shall comply with Section 503.1.4.
+Assembly (see Section 303): Groups A-1, A-2, A-3, A-4 and A-5.
+Business (see Section 304): Group B.
+[SFM] Organized Camps (see Section 450): Group C.
+Educational (see Section 305): Group E.
+Factory and Industrial (see Section 306): Groups F-1 and F-2.
+High Hazard (see Section 307): Groups H-1, H-2, H-3, H-4 and H-5.
+Institutional (see Section 308): Groups I-2, I-3 and I-4.
+[SFM] Laboratory (see Section 202): Group B, unless classified as Group L (see Section 453) or Group H (see Section 307).
+[SFM] Laboratory Suites (see Section 453): Group L.
+Mercantile (see Section 309): Group M.
+Residential (see Section 310): Groups R-1, R-2, R-2.1, R-3, R-3.1 and R-4.
+Storage (see Section 311): Groups S-1 and S-2.
+Utility and Miscellaneous (see Section 312): Group U.
+[SFM] Existing buildings housing existing protective social care homes or facilities established prior to 1972 (see California Fire Code Chapter 11 and California Existing Building Code).
+UpCodes Diagrams (2)
+
+Multiple Occupancy Building: Non-Separated Occupancy Requirements
+
+Multiple Occupancy Building: Separated Occupancy Requirements
+302.1.1
+Reserved
+302.1.2
+Reserved
+302.1.3 Pharmacies; Veterinary Facilities; Barbering, Cosmetology or Electrolysis Establishments; And Acupuncture Offices
+See Chapter 12.
+302.2 Use Designation
+Occupancy groups contain subordinate uses having similar hazards and risks to building occupants. Uses include, but are not limited to, those functional designations specified within the occupancy group descriptions in Section 302.1. Certain uses require specific limitations and controls in accordance with the provisions of Chapter 4 and elsewhere in this code.
+Section 303 Assembly Group A
+Diagram
+UpCodes Diagrams (16)
+
+Assembly: Main Exit Provided
+
+Assembly: No Main Exit or Multiple Exits
+
+Automatic Doors: When Required
+
+Increased Occupant Load
+
+Multiple Occupancy Building: Design Occupant Load
+
+Min. Assembly Aisle Widths
+
+Fire Alarm: Group A Requirements
+
+Assembly Occupancies on Roofs
+
+Common Path of Travel from Assembly Seating
+
+Occupancy Groups of the Building Code
+Show 6 more
+303.1 Assembly Group A
+Assembly Group A occupancy includes, among others, the use of a building or structure, or a portion thereof, for the gathering of persons for purposes such as civic, social or religious functions; recreation, food or drink consumption or awaiting transportation; motion picture and television production studio sound stages, approved production facilities and production locations; or for the showing of motion pictures when an admission fee is charged and when such building or structure is open to the public and has a capacity of 10 or more persons.
+303.1.1 Small Buildings and Tenant Spaces
+A building or tenant space used for assembly purposes with an occupant load of less than 50 persons shall be classified as a Group B occupancy.
+303.1.2 Small Assembly Spaces
+Diagram
+The following rooms and spaces shall not be classified as Assembly occupancies:
+A room or space used for assembly purposes with an occupant load of less than 50 persons and accessory to another occupancy shall be classified as a Group B occupancy or as part of that occupancy.
+A room or space used for assembly purposes that is less than 750 square feet (70 m2) in area and accessory to another occupancy shall be classified as a Group B occupancy or as part of that occupancy.
+UpCodes Diagrams (3)
+
+Occupant Load Calc: Small Space
+
+Cumulative Occ. Loads: Intervening Spaces/Accessory Areas
+
+Multiple Occupancy Building: Non-Separated Occupancy Requirements
+303.1.3 Associated With Group E Occupancies
+Diagram
+A room or space used for assembly purposes that is associated with a Group E occupancy is not considered a separate occupancy.
+UpCodes Diagram (1)
+Primary
+Edu. Accessory to Group A
+303.1.4 Accessory to Places of Religious Worship
+Diagram
+Accessory religious educational rooms and religious auditoriums with occupant loads of less than 100 per room or space are not considered separate occupancies.
+UpCodes Diagrams (2)
+
+Accessory Occupancies
+
+Edu. Accessory to Group A
+303.1.5 Special Amusement Areas
+Special amusement areas shall comply with Section 411.
+303.2 Assembly Group A-1
+Diagram
+Group A-1 occupancy includes assembly uses, usually with fixed seating, intended for the production and viewing of the performing arts or motion pictures, including but not limited to:
+Motion picture and television production studio sound stages, approved production facilities and production locations. (with live audiences).
+Motion picture theaters
+Symphony and concert halls
+Television and radio studios admitting an audience
+Theaters
+UpCodes Diagrams (5)
+
+Foyers and Lobbies (Group A-1) Pt 2
+
+Foyers and Lobbies (Group A-1) Pt 1
+
+Sprinklers: Group A-1
+
+Aisle Req. by Occ. Group
+
+Handrails at Aisles: Assembly
+303.3 Assembly Group A-2
+Diagram
+Group A-2 occupancy includes assembly uses intended for food and/or drink consumption, including but not limited to:
+Banquet halls
+Casinos (gaming areas)
+Nightclubs
+Restaurants, cafeterias and similar dining facilities (including associated commercial kitchens)
+Taverns and bars
+UpCodes Diagrams (8)
+Primary
+Commercial Kitchens: Occupancy
+
+Aisles with Tables and Fixtures
+
+Fire Areas: Additions to Buildings
+
+Vents Not Required: Bars, Soda Fountains, and Counter
+
+Occupant Load: Multiple Function Spaces
+
+Food Service: Self-Service Shelves
+
+Food Service Counters (ADA)
+
+Grease Interceptors (UPC)
+303.4 Assembly Group A-3
+Diagram
+Group A-3 occupancy includes assembly uses intended for worship, recreation or amusement and other assembly uses not classified elsewhere in Group A, including but not limited to:
+Amusement arcades
+Art galleries
+Bowling alleys
+Community halls
+Courtrooms
+Dance halls (not including food or drink consumption)
+Exhibition halls
+Funeral parlors
+Greenhouses for the conservation and exhibition of plants that provide public access
+Gymnasiums (without spectator seating)
+Indoor swimming pools (without spectator seating)
+Indoor tennis courts (without spectator seating)
+Lecture halls
+Libraries
+Museums
+Places of religious worship
+Pool and billiard parlors
+Waiting areas in transportation terminals
+UpCodes Diagrams (4)
+
+Occupant Load Calc: Gallery
+
+Aisles at Tables or Seats: Assembly Occ.
+
+Exits through Lobbies
+
+Occupancy Groups: Art Studios
+Building products (4)
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+303.5 Assembly Group A-4
+Diagram
+Group A-4 occupancy includes assembly uses intended for viewing of indoor sporting events and activities with spectator seating, including but not limited to:
+Arenas
+Skating rinks
+Swimming pools
+Tennis courts
+UpCodes Diagrams (3)
+
+Guardrail Opening Limitations (Ex. 5)
+
+Exit Access Stair: Enclosure (Ex. 7)
+
+Sprinklers: Group A-4
+Building products (9)
+
+Benches
+Hadrian Solutions ULC
+
+
+Integrated Plumbing System / Aerofoil - TSL.IPS.AERO
+The Splash Lab
+
+
+Lumashelf Integrated Sink - TSL.LUMA
+The Splash Lab
+
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+
+The Aerofoil Basin - TSL.AERO
+The Splash Lab
+
+
+​​Athletic (Gladiator) Lockers
+Hadrian Solutions ULC
+
+303.6 Assembly Group A-5
+Diagram
+Group A-5 occupancy includes assembly uses intended for participation in or viewing outdoor activities, including but not limited to:
+Amusement park structures
+Bleachers
+Grandstands
+Stadiums
+UpCodes Diagrams (4)
+
+Guardrail Opening Limitations (Ex. 5)
+
+Spaces Under Bleachers
+
+Exit Access Stair: Enclosure (Ex. 7)
+
+Perimeter Guards at Assembly Seating
+Building products (9)
+
+Benches
+Hadrian Solutions ULC
+
+
+Integrated Plumbing System / Aerofoil - TSL.IPS.AERO
+The Splash Lab
+
+
+Lumashelf Integrated Sink - TSL.LUMA
+The Splash Lab
+
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+
+The Aerofoil Basin - TSL.AERO
+The Splash Lab
+
+
+​​Athletic (Gladiator) Lockers
+Hadrian Solutions ULC
+
+303.7 Fixed Guideway Transit Systems
+[SFM] Fixed guideway transit system buildings shall conform to the requirements of this code for their occupancy classification in addition to the provisions set forth in Section 443.
+303.8 Subterranean Spaces for Winery Facilities in Natural or Manmade Caves
+[SFM] For fire and life safety requirements, see Section 446.
+Section 304 Business Group B
+Diagram
+UpCodes Diagrams (12)
+Primary
+Commercial Kitchens: Occupancy
+
+Locking Arrangements in Educational Occupancies
+
+Automatic Doors: When Required
+
+Multiple Occupancy Building: Design Occupant Load
+
+Occ. Loads: Business and Concentrated Business Use
+
+Shafts: Duct & Air Transfer Opening Penetrations - Excpt. 2
+
+Occupancy Groups of the Building Code
+
+Occupancy Groups: Art Studios
+
+Multiple Occupancy Building - Occupancy Groups
+
+Multiple Occupancy Building: Non-Separated Occupancy Requirements
+Show 2 more
+304.1 Business Group B
+Diagram
+Business Group B occupancy includes, among others, the use of a building or structure, or a portion thereof, for office, professional or service-type transactions, including storage of records and accounts. Business occupancies shall include, but not be limited to, the following:
+Airport traffic control towers
+Ambulatory care facilities
+Animal hospitals, kennels and pounds
+Banks
+Barber and beauty shops
+Car wash
+Civic administration
+Clinic, outpatient
+Dry cleaning and laundries: pick-up and delivery stations and self-service
+Educational occupancies for students above the 12th grade including higher education laboratories
+Electronic data entry
+Food processing establishments and commercial kitchens not associated with restaurants, cafeterias and similar dining facilities not more than 2,500 square feet (232 m2) in area
+Laboratories: testing and research and [SFM] instruction
+Lithium-ion or lithium metal battery testing, research and development
+Motor vehicle showrooms
+Post offices
+Print shops
+Professional services (architects, attorneys, dentists, physicians, engineers, etc.)
+Radio and television stations
+Telephone exchanges
+Training and skill development not in a school or academic program (this shall include, but not be limited to, tutoring centers, martial arts studios, gymnastics and similar uses regardless of the ages served, and where not classified as a Group A occupancy)
+UpCodes Diagrams (4)
+
+Cumulative Occ. Loads: Intervening Spaces/Accessory Areas
+
+Increased Occupant Load
+
+Commercial Kitchens: Occupancy
+
+Grease Interceptors (UPC)
+Building products (8)
+
+Integrated Plumbing System / Aerofoil - TSL.IPS.AERO
+The Splash Lab
+
+
+Lumashelf Integrated Sink - TSL.LUMA
+The Splash Lab
+
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+
+Specialty Lockers
+Hadrian Solutions ULC
+
+
+The Aerofoil Basin - TSL.AERO
+The Splash Lab
+
+304.2 Airport Traffic Control Towers
+Airport traffic control towers shall comply with Section 412.2.
+304.3 Ambulatory Care Facilities
+Diagram
+Ambulatory care facilities shall comply with Section 422.
+UpCodes Diagram (1)
+
+Existing Bldgs: Min. Door Reqs. - Healthcare
+Section 305 Educational Group E
+Diagram
+UpCodes Diagrams (4)
+
+Locking Arrangements in Educational Occupancies
+
+Occupancy Groups of the Building Code
+
+Decorative Materials: Group E
+
+Alterations: Locking Arrangements in Educational Occupancies
+305.1 Educational Group E
+Educational Group E occupancy includes, among others, the use of a building or structure, or a portion thereof, more than six persons at any one time for educational purposes through the 12th grade.
+Exception: [SFM] A residence used as a home school for the children who normally reside at the residence. Such residences shall remain classified as Group R-2, or Group R-3 occupancies.
+Building product (1)
+
+Corridor (Emperor) Lockers
+Hadrian Solutions ULC
+
+305.1.1 Accessory to Places of Religious Worship
+Diagram
+Religious educational rooms and religious auditoriums, which are accessory to places of religious worship in accordance with Section 303.1.4 and have occupant loads of less than 100 per room or space, shall be classified as Group A-3 occupancies.
+UpCodes Diagrams (2)
+
+Accessory Occupancies
+
+Edu. Accessory to Group A
+305.2 Group E, Child-Care Facilities
+This group includes buildings and structures or portions thereof occupied by more than six children 36 months of age and older who receive educational, supervision or personal care services for fewer than 24 hours per day.
+Exception: [SFM] A child-care facility not otherwise classified a Group R-3 occupancy, where occupants are not capable of responding to an emergency situation without physical assistance from the staff shall be classified as Group I-4. Infants and toddlers are allowed in a Group E child care when the facility complies with California Building Code Section 305.2.1, 305.2.2, 305.2.3 or 308.5.1.
+305.2.1 Within Places of Religious Worship
+Rooms and spaces within places of religious worship providing such child care during religious functions shall be classified as part of the primary occupancy where not licensed for child-care purposes by the Department of Social Services.
+305.2.2 Five or Fewer Children
+A facility having five or fewer children receiving such day care shall be classified as part of the primary occupancy.
+305.2.3 Five or Fewer Children in a Dwelling Unit
+A facility such as the above within a dwelling unit and having five or fewer children receiving such day care shall be classified as a Group R-3 occupancy or shall comply with the California Residential Code.
+305.3 Storm Shelters in Group E Occupancies
+Storm shelters shall be provided for Group E occupancies where required by Section 423.5.
+Section 306 Factory Group F
+Assembly
+Diagram
+UpCodes Diagrams (6)
+
+Travel Distance Increase: Group F-1 and S-1
+
+Occupancy Groups of the Building Code
+
+Occupancy Groups: Art Studios
+
+Multiple Occupancy Building - Occupancy Groups
+
+Multiple Occupancy Building: Non-Separated Occupancy Requirements
+
+Multiple Occupancy Building: Separated Occupancy Requirements
+Assemblies (2)
+
+WP 9200; 2hr, Steel Wall Panel / Girts
+
+WP 9205; 2hr, Steel Wall Panel / Girts
+Building product (1)
+
+High Bay Bluetooth-enabled
+RAB Lighting
+
+306.1 Factory Industrial Group F
+Diagram
+Factory Industrial Group F occupancy includes, among others, the use of a building or structure, or a portion thereof, for assembling, disassembling, fabricating, finishing, manufacturing, packaging, repair or processing operations that are not classified as a Group H hazardous or Group S storage occupancy.
+UpCodes Diagram (1)
+
+Guardrail Openings - Exceptions 3 & 4
+306.2 Moderate-Hazard Factory Industrial, Group F-1
+Diagram
+Factory industrial uses that are not classified as Factory Industrial F-2 Low Hazard shall be classified as F-1 Moderate Hazard and shall include, but not be limited to, the following:
+Aircraft (manufacturing, not to include repair)
+Appliances
+Athletic equipment
+Automobiles and other motor vehicles
+Bakeries
+Beverages: over 20-percent alcohol content
+Bicycles
+Boats
+Brooms or brushes
+Business machines
+Cameras and photo equipment
+Canvas or similar fabric
+Carpets and rugs (includes cleaning)
+Clothing
+Construction and agricultural machinery
+Disinfectants
+Dry cleaning and dyeing
+Electric generation plants
+Electronics
+Energy storage systems (ESS) in dedicated use buildings
+Energy storage systems (ESS) and equipment containing lithium-ion or lithium metal batteries
+Engines (including rebuilding)
+Food processing establishments and commercial kitchens not associated with restaurants, cafeterias and similar dining facilities more than 2,500 square feet (232 m2) in area
+Furniture
+Hemp products
+Jute products
+Laundries
+Leather products
+Lithium-ion batteries
+Machinery
+Metals
+Millwork (sash and door)
+[SFM] Motion picture and television production studio Sound Stages, Approved Production Facilities and production locations (without live audiences)
+Motion pictures and television filming (without spectators)
+Musical instruments
+Optical goods
+Paper mills or products
+Photographic film
+Plastic products
+Printing or publishing
+Recreational vehicles
+Refuse incineration
+Shoes
+Soaps and detergents
+Textiles
+Tobacco
+Trailers
+Upholstering
+Vehicles powered by lithium-ion or lithium metal batteries
+Water/sewer treatment facilities
+Wood; distillation
+Woodworking (cabinet)
+UpCodes Diagrams (5)
+Primary
+Commercial Kitchens: Occupancy
+
+Travel Distance Increase: Group F-1 and S-1
+
+Multiple Occupancy Building: Design Occupant Load
+
+Sprinklers: Group F-1
+
+Aircraft Manuf.: Exit Access Travel Dist.
+306.2.1 Aircraft Manufacturing Facilities
+Aircraft manufacturing facilities shall comply with Section 412.6.
+306.3 Low-Hazard Factory Industrial, Group F-2
+Diagram
+Factory industrial uses that involve the fabrication or manufacturing of noncombustible materials that during finishing, packing or processing do not involve a significant fire hazard shall be classified as Group F-2 occupancies and shall include, but not be limited to, the following:
+Beverages: up to and including 20-percent alcohol content
+Brick and masonry
+Ceramic products
+Foundries
+Glass products
+Gypsum
+Ice
+Metal products (fabrication and assembly)
+UpCodes Diagram (1)
+
+Sprinklers: Bldgs > 55 ft. (Ex. 2)
+Section 307 High-Hazard Group H
+Diagram
+UpCodes Diagrams (6)
+
+Guardrail Openings - Exceptions 3 & 4
+
+Hazmat Control Areas
+
+Fire Separation Distance: Group H
+
+Unlimited Area Exception: Group H
+
+Unlimited Bldg Area: Group H-2, H-3 and H-4 Occs.
+
+Occupancy Groups of the Building Code
+[F] 307.1 High-Hazard Group H
+High-hazard Group H occupancy includes, among others, the use of a building or structure, or a portion thereof, that involves the manufacturing, processing, generation or storage of materials that constitute a physical or health hazard in quantities in excess of those allowed in control areas complying with Section 414, based on the maximum allowable quantity limits for control areas set forth in Tables 307.1(1) and 307.1(2). Hazardous occupancies are classified in Groups H-1, H-2, H-3, H-4 and H-5 and shall be in accordance with this section, the requirements of Section 415 and the California Fire Code. Hazardous materials stored or used on top of roofs or canopies shall be classified as rooftop storage or use and shall comply with the California Fire Code.
+[F] TABLE 307.1(1)—MAXIMUM ALLOWABLE QUANTITY PER CONTROL AREA OF HAZARDOUS MATERIALS POSING A PHYSICAL HAZARDa, i, l, m
+For SI: 1 cubic foot = 0.028 m3, 1 pound = 0.454 kg, 1 gallon = 3.785 L.
+NL = Not Limited; NA = Not Applicable; UD = Unclassified Detonable.
+For use of control areas, see Section 414.2.
+The aggregate quantity in use and storage shall not exceed the maximum allowable quantity for storage, including applicable increases.
+Reserved.
+[SFM] In other than Group L occupancies, maximum allowable quantities shall be increased 100 percent in buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1. Where Note e also applies, the increase for both notes shall be applied accumulatively.
+Maximum allowable quantities shall be increased 100 percent when stored in approved storage cabinets, day boxes, gas cabinets, gas rooms or exhausted enclosures or in listed safety cans in accordance with Section 5003.9.10 of the California Fire Code. Where Note d also applies, the increase for both notes shall be applied accumulatively.
+Quantities shall not be limited in a building equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1.
+Allowed only in buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1.
+Containing not more than the maximum allowable quantity per control area of Class IA, IB or IC flammable liquids.
+Quantities in parentheses indicate quantity units in parentheses at the head of each column.
+A maximum quantity of 220 pounds of solid or 22 gallons of liquid Class 3 oxidizers is allowed when such materials are necessary for maintenance purposes, operation or sanitation of equipment when the storage containers and the manner of storage are approved.
+Net weight of the pyrotechnic composition of the fireworks. Where the net weight of the pyrotechnic composition of the fireworks is not known, 25 percent of the gross weight of the fireworks, including packaging, shall be used.
+For gallons of liquids, divide the amount in pounds by 10 in accordance with Section 5003.1.2 of the California Fire Code.
+For oxidizers, unstable (reactive) materials, and water-reactive materials stored or displayed in Group M occupancies or stored in Group S occupancies, see Section 414.2.5.1.
+For flammable and combustible liquid storage in Group M occupancy wholesale and retail sales uses, see Section 414.2.5.2.
+Where manufactured, generated or used in such a manner that the concentration and conditions create a fire or explosion hazard based on information prepared in accordance with Section 414.1.3.
+High Burning Velocity (High BV) Category 1B flammable gas has a burning velocity greater than 3.9 inches per second (10 cm/s). Low Burning Velocity (Low BV) Category 1B flammable gas has a burning velocity of 3.9 inches per second (10 cm/s) or less.
+[F] TABLE 307.1(2)—MAXIMUM ALLOWABLE QUANTITY PER CONTROL AREA OF HAZARDOUS MATERIALS POSING A HEALTH HAZARDa, h, i
+For SI: 1 cubic foot = 0.028 m3, 1 pound = 0.454 kg, 1 gallon = 3.785 L.
+For use of control areas, see Section 414.2.
+The aggregate quantity in use and storage shall not exceed the maximum allowable quantity for storage, including applicable increases.
+Reserved.
+[SFM] In other than Group L occupancies, maximum allowable quantities shall be increased 100 percent in buildings equipped throughout with an approved automatic sprinkler system in accordance with Section 903.3.1.1. Where Note e also applies, the increase for both notes shall be applied accumulatively.
+Maximum allowable quantities shall be increased 100 percent where stored in approved storage cabinets, gas cabinets or exhausted enclosures as specified in the California Fire Code. Where Note d also applies, the increase for both notes shall be applied accumulatively.
+For corrosive, highly toxic and toxic materials stored or displayed in Group M occupancies or stored in Group S occupancies, see Section 414.2.5.1.
+Allowed only where stored in approved exhausted gas cabinets or exhausted enclosures as specified in the California Fire Code.
+Quantities in parentheses indicate quantity units in parentheses at the head of each column.
+For gallons of liquids, divide the amount in pounds by 10 in accordance with Section 5003.1.2 of the California Fire Code.
+[F] 307.1.1 Occupancy Exemptions
+Storage, use and handling of hazardous materials in accordance with Table 307.1.1 shall not be counted as contributing to Maximum Allowable Quantities and shall not cause classification of an occupancy to be Group H. Such storage, use and handling shall comply with applicable provisions of the California Fire Code.
+TABLE 307.1.1—HAZARDOUS MATERIALS EXEMPTIONSa
+For SI: 1 gallon = 3.785L, °C = (°F - 32)/1.8.
+Exempted materials and conditions listed in this table are required to comply with applicable provisions of the California Fire Code.
+[F] 307.2 Hazardous Materials
+Hazardous materials in any quantity shall conform to the requirements of this code, including Section 414, and the California Fire Code.
+[F] 307.3 High-Hazard Group H-1
+Buildings and structures containing materials that pose a detonation hazard shall be classified as Group H-1. Such materials shall include, but not be limited to, the following:
+Detonable pyrophoric materials
+Explosives:
+Division 1.1
+Division 1.2
+Division 1.3
+Division 1.4
+Division 1.5
+Division 1.6
+Organic peroxides, unclassified detonable
+Oxidizers, Class 4
+Unstable (reactive) materials, Class 3 detonable and Class 4
+[F] 307.3.1 Occupancies Containing Explosives Not Classified as H-1
+The following occupancies containing explosive materials shall be classified as follows:
+Division 1.3 explosive materials that are used and maintained in a form where either confinement or configuration will not elevate the hazard from a mass fire to mass explosion hazard shall be allowed in Group H-2 occupancies.
+Division 1.4 explosive materials shall be allowed in Group H-3 occupancies.
+Articles, including articles packaged for shipment, that are not regulated as a Division 1.4 explosive under Bureau of Alcohol, Tobacco, Firearms and Explosives regulations, or unpackaged articles used in process operations that do not propagate a detonation or deflagration between articles shall be allowed in Group H-3 occupancies.
+[F] 307.4 High-Hazard Group H-2
+Diagram
+Buildings and structures containing materials that pose a deflagration hazard or a hazard from accelerated burning shall be classified as Group H-2. Such materials shall include, but not be limited to, the following:
+Class I, II or IIIA flammable or combustible liquids that are used or stored in normally open containers or systems, or in closed containers or systems pressurized at more than 15 pounds per square inch gauge (103.4 kPa).
+Combustible dusts where manufactured, generated or used in such a manner that the concentration and conditions create a fire or explosion hazard based on information prepared in accordance with Section 414.1.3.
+Cryogenic fluids, flammable.
+Category 1A flammable gases.
+Category 1B flammable gases having a burning velocity greater than 3.9 inches per second (10 cm/s).
+Organic peroxides, Class I.
+Oxidizers, Class 3, that are used or stored in normally open containers or systems, or in closed containers or systems pressurized at more than 15 pounds per square inch gauge (103 kPa).
+Pyrophoric liquids, solids and gases, nondetonable.
+Unstable (reactive) materials, Class 3, nondetonable.
+Water-reactive materials, Class 3.
+UpCodes Diagram (1)
+
+Unlimited Bldg Area: Group H-2, H-3 and H-4 Occs.
+[F] 307.5 High-Hazard Group H-3
+Buildings and structures containing materials that readily support combustion or that pose a physical hazard shall be classified as Group H-3. Such materials shall include, but not be limited to, the following:
+Class I, II or IIIA flammable or combustible liquids that are used or stored in normally closed containers or systems pressurized at 15 pounds per square inch gauge (103.4 kPa) or less
+Combustible fibers, other than densely packed baled cotton, where manufactured, generated or used in such a manner that the concentration and conditions create a fire or explosion hazard based on information prepared in accordance with Section 414.1.3
+Consumer fireworks, 1.4G (Class C, Common)
+Cryogenic fluids, oxidizing
+Category 1B flammable gases having a burning velocity of 3.9 inches per second (10 cm/s) or less.
+Flammable solids
+Organic peroxides, Class II and III
+Oxidizers, Class 2
+Oxidizers, Class 3, that are used or stored in normally closed containers or systems pressurized at 15 pounds per square inch gauge (103 kPa) or less
+Oxidizing gases
+Unstable (reactive) materials, Class 2
+Water-reactive materials, Class 2
+[F] 307.6 High-Hazard Group H-4
+Diagram
+Buildings and structures containing materials that are health hazards shall be classified as Group H-4. Such materials shall include, but not be limited to, the following:
+Corrosives
+Highly toxic materials
+Toxic materials
+UpCodes Diagram (1)
+
+Unlimited Bldg Area: Group H-2, H-3 and H-4 Occs.
+[F] 307.7 High-Hazard Group H-5
+Semiconductor fabrication facilities and comparable research and development areas in which hazardous production materials (HPM) are used and the aggregate quantity of materials is in excess of those specified in Tables 307.1(1) and 307.1(2) shall be classified as Group H-5. Such facilities and areas shall be designed and constructed in accordance with Section 415.11.
+[F] 307.8 Multiple Hazards
+Buildings and structures containing a material or materials representing hazards that are classified in one or more of Groups H-1, H-2, H-3 and H-4 shall conform to the code requirements for each of the occupancies so classified.
+Section 308 Institutional Group I
+Diagram
+UpCodes Diagrams (5)
+
+Width of Doors in I-2 / Ambulatory Care (Stretchers) (CA)
+
+Group I-4 Exits
+
+Locking Arrangements in Educational Occupancies
+
+Occupancy Groups of the Building Code
+
+Group I-2 Rehabilitations Facilities
+Building products (2)
+
+AquaSense® 5-3/8 in. Gooseneck Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6920
+Zurn
+
+
+AquaSense® Wall Mount 5-3/8 in. Gooseneck Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6922
+Zurn
+
+308.1 Institutional Group I
+Institutional Group I occupancy includes, among others, the use of a building or structure, or a portion thereof, in which care or supervision is provided to persons who are or are incapable of self-preservation without physical assistance or in which persons are detained for penal or correctional purposes or in which the liberty of the occupants is restricted. Institutional occupancies shall be classified as Group I-2, I-3 or I-4. Restraint shall not be permitted in any building except in Group I-2 occupancies constructed for such use in accordance with Section 407.1.1 and Group I-3 occupancies constructed for such use in accordance with Section 408.1.2.
+Where occupancies house both ambulatory and nonambulatory persons, the more restrictive requirements shall apply.
+308.2 Institutional Group I-1
+Diagram
+Not used. (See Group R-2.1 Section 310.1.)
+UpCodes Diagram (1)
+
+Fire Partitions: Dwelling and Sleeping Units
+308.3 Institutional Group I-2
+Diagram
+Institutional Group I-2 occupancy shall include buildings and structures used for medical care on a 24-hour basis for more than five persons who are incapable of self-preservation or classified as nonambulatory or bedridden. This group shall include, but not be limited to, the following:
+Foster care facilities
+Detoxification facilities
+Hospitals
+Nursing homes
+Psychiatric hospitals
+UpCodes Diagrams (10)
+
+Width of Doors in I-2 / Ambulatory Care (Stretchers) (CA)
+
+Corridor Widths in Hospitals
+
+Group I-2: Direct Access to Corridor
+
+Existing Bldgs: Min. Door Reqs. - Healthcare
+
+Sprinkler Reqs. - Hospital Clothes Closets
+
+Group I-2 Nursing Homes
+
+Distance of Travel within Group I-2 Sleeping Room
+
+Nursing Home Areas Open to Corridors
+
+Non-rated Doors in Group I-2 Corridors
+
+Alterations: Smoke Compartments in Group I-2
+308.3.1 Five or Fewer Persons Receiving Medical Care
+A facility with five or fewer persons receiving medical care shall be classified as Group R-3.1 or shall comply with the California Residential Code provided an automatic sprinkler system is installed in accordance with Section 903.3.1.3 of this code or Section R309 of the California Residential Code.
+308.3.2 Reserved
+308.4 Institutional Group I-3
+Diagram
+Institutional Group I-3 occupancy shall include buildings or portions of buildings and structures that are inhabited by more than five persons who are under restraint or security. A Group I-3 facility is occupied by persons who are generally incapable of self-preservation due to security measures not under the occupants' control which includes persons restrained. This group shall include, but not be limited to, the following:
+Correctional centers
+Correctional hospitals
+Correctional nursing facilities
+Correctional mental health facilities
+Correctional treatment centers
+Courthouse holding facility
+Detention centers
+Detention treatment room
+Jails
+Juvenile halls
+Prerelease centers
+Prisons
+Reformatories
+Secure interview rooms
+Temporary holding facility
+Buildings of Group I-3 shall be classified as one of the occupancy conditions specified in Sections 308.4.1 through 308.5.8 and shall comply with Section 408.
+UpCodes Diagrams (2)
+
+Detention & Correctional Facilities - Common Use Areas
+
+Guardrail Openings - Exceptions 3 & 4
+Building product (1)
+
+GPX® Ballistic
+SaftiFirst
+
+308.4.1 Condition 1
+This occupancy condition shall include buildings in which free movement is allowed from sleeping areas, and other spaces where access or occupancy is permitted, to the exterior via means of egress without restraint. A Condition 1 facility is permitted to be constructed as Group R.
+308.4.2 Condition 2
+This occupancy condition shall include buildings in which free movement is allowed from sleeping areas and any other occupied smoke compartment to one or more other smoke compartments. Egress to the exterior is impeded by locked exits.
+308.4.3 Condition 3
+This occupancy condition shall include buildings in which free movement is allowed within individual smoke compartments, such as within a residential unit composed of individual sleeping units and group activity spaces, where egress is impeded by remote-controlled release of means of egress from such a smoke compartment to another smoke compartment.
+308.4.4 Condition 4
+This occupancy condition shall include buildings in which free movement is restricted from an occupied space. Remote-controlled release is provided to permit movement from sleeping units, activity spaces and other occupied areas within the smoke compartment to other smoke compartments.
+308.4.5 Condition 5
+This occupancy condition shall include buildings in which free movement is restricted from an occupied space. Staff-controlled manual release is provided to permit movement from sleeping units, activity spaces and other occupied areas within the smoke compartment to other smoke compartments.
+308.4.6 Condition 6
+This occupancy condition shall include buildings containing only one temporary holding facility with six or fewer persons under restraint or security where the building is protected throughout with a monitored automatic sprinkler system installed in accordance with Section 903.3.1.1 and where the temporary holding facility is protected throughout with an automatic fire alarm system with notification appliances. A Condition 6 building shall be permitted to be classified as a Group B occupancy.
+308.4.7 Condition 7
+This occupancy condition shall include buildings containing only one temporary holding facility with nine or less persons under restraint or security where limited to the first or second story, provided the building complies with Section 408.1.2.6. A Condition 7 building shall be permitted to be classified as a Group B occupancy.
+308.4.8 Condition 8
+This occupancy condition shall include buildings containing not more than four secure interview rooms located within the same fire area where not more than six occupants under restraint are located in the same fire area. A Condition 8 building shall be is permitted to be classified as a Group B occupancy, provided the requirements in Section 408.1.2.7 are met.
+308.4.9 Condition 9
+This occupancy condition shall include buildings where the use of the building is for correctional medical care or correctional mental health care.
+308.5 Institutional Group I-4, Day Care Facilities
+Diagram
+Institutional Group I-4 occupancy shall include buildings and structures occupied by more than six clients of any age who receive custodial care for fewer than 24 hours per day by persons other than parents or guardians; relatives by blood, marriage or adoption; and in a place other than the home of the clients cared for. This group shall include, but not be limited to, the following:
+Adult day care
+Child day care (not classified as Group E)
+UpCodes Diagrams (2)
+
+Locking Arrangements in Educational Occupancies
+
+Group I-4 Exits
+308.5.1 Classification as Group E
+A child day care facility that provides care for more than six but not more than 100 children under 36 months of age, where the rooms in which the children are cared for are located on a level of exit discharge serving such rooms and each of these child care rooms has an exit door directly to the exterior, shall be classified as Group E.
+308.5.1.1 Special Provisions
+See Section 452.1.4 of the California Building Code for child care locations above or below the first story.
+308.5.2 Within a Place of Religious Worship
+Rooms and spaces within places of religious worship providing such care during religious functions shall be licensed by the California State Department Health Services as required by Health and Safety Code Division 2 Chapter 3.5.
+308.5.3 Five or Fewer Persons Receiving Care
+A facility having five or fewer persons receiving custodial care shall be licensed pursuant to Health and Safety Code Division 2 Chapter 3.5 or 3.6.
+308.5.4 Six or Fewer Persons Receiving Care in a Dwelling Unit
+A facility such as the above within a dwelling unit and having six or fewer persons receiving custodial care shall be classified as a Group R-3 occupancy, where occupants are not capable of responding to an emergency situation without physical assistance from the staff shall be classified as a Group I-4.
+Section 309 Mercantile Group M
+Diagram
+UpCodes Diagrams (13)
+
+Sales and Service Counters - Parallel Approach (CA)
+
+Retail (CA 11B)
+
+Sprinklers: Group M
+
+Covered Dwelling Units over Shops and Garages
+
+Automatic Doors: When Required
+
+Occupant Loads: Retail
+
+Check-Out Aisles
+
+Fitting Rooms (ADA)
+
+High Piled Storage (definition)
+
+Hazmat in Group M (2024)
+Show 3 more
+Building products (7)
+
+Integrated Plumbing System / Aerofoil - TSL.IPS.AERO
+The Splash Lab
+
+
+Lumashelf Integrated Sink - TSL.LUMA
+The Splash Lab
+
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+
+The Aerofoil Basin - TSL.AERO
+The Splash Lab
+
+309.1 Mercantile Group M
+Mercantile Group M occupancy includes, among others, the use of a building or structure or a portion thereof for the display and sale of merchandise, and involves stocks of goods, wares or merchandise incidental to such purposes and where the public has access. Mercantile occupancies shall include, but not be limited to, the following:
+Department stores
+Drug stores
+Greenhouses for display and sale of plants that provide public access
+Markets
+Motor fuel-dispensing facilities
+Retail or wholesale stores
+Sales rooms
+309.2 Quantity of Hazardous Materials
+Diagram
+The aggregate quantity of nonflammable solid and nonflammable or noncombustible liquid hazardous materials stored or displayed in a single control area of a Group M occupancy shall not exceed the quantities in Table 414.2.5.1.
+UpCodes Diagram (1)
+Primary
+Hazmat in Group M (2024)
+309.3 Motor Fuel-Dispensing Facilities
+Motor fuel-dispensing facilities shall comply with Section 406.7.
+Section 310 Residential Group R
+Diagram
+UpCodes Diagrams (25)
+
+Podiums: Type IIIA Height Increase (2021)
+
+Exit Access Travel Distance: R-3 and R-4
+
+Automatic Doors: When Required
+
+Exit Access Stair: Enclosure (Ex. 2)
+
+Parapets - Exception 4
+
+Multiple Occupancy Building: Design Occupant Load
+
+Structure-Borne Sound
+
+Sprinklers: Bathroom Exemption (NFPA 13)
+
+NFPA 13R Sprinklers: Balconies and Decks
+
+Podiums: Parking Beneath Group R
+Show 15 more
+Building products (2)
+
+Liv® Built-in Filtered Refrigerated Water Dispenser Remote Chiller Midnight - LBWD06BKK
+Elkay
+
+
+Liv® Built-in Filtered Water Dispenser Non-refrigerated Aspen White - LBWD00WHC
+Elkay
+
+310.1 Residential Group R
+Residential Group R includes, among others, the use of a building or structure, or a portion thereof, for sleeping purposes when not classified as an Institutional Group I or when not regulated by the California Residential Code. Group R occupancies not constructed in accordance with the California Residential Code as permitted by Sections 310.4.1 and 310.4.2 shall comply with Section 420.
+Building products (16)
+
+600 Lumens/Ft. Angled Linear Fixture, Tunable-White, 2700K–5000K - LT-P3
+Task Lighting and Power
+
+
+Elements 6" Diameter Showerhead With Arm and Flange
+Watermark Designs
+
+
+Flat Profile Linear Fixtures - Single-White - LS-P7
+Task Lighting and Power
+
+
+Loft 6" Diameter Wall Mounted Towel Ring
+Watermark Designs
+
+
+Loft Wall Mounted 18" Center-to-Center Towel Bar
+Watermark Designs
+
+
+Loft Wall Mounted 24" Center-to-Center Towel Bar
+Watermark Designs
+
+
+Loft Wall Mounted Bath Spout
+Watermark Designs
+
+
+Loft Wall Mounted Hand Shower Set With Slim Hand Shower
+Watermark Designs
+
+
+Radius Deck Mounted Sensor Faucet / Large - TSL.960
+The Splash Lab
+
+
+Radius Deck Mounted Sensor Faucet / Small - TSL.990
+The Splash Lab
+
+
+Radius Sensor Faucet / Large - TSL.882
+The Splash Lab
+
+
+Radius Sensor Faucet / Small - TSL.884
+The Splash Lab
+
+
+Straight Spout Faucet / Small - TSL.980
+The Splash Lab
+
+
+The Channel Faucet - TSL.C.050
+The Splash Lab
+
+
+The Ribbon Faucet - TSL.R.020
+The Splash Lab
+
+
+Titanium Wall Mounted Robe Hook
+Watermark Designs
+
+310.2 Residential Group R-1
+Diagram
+Residential Group R-1 occupancies containing sleeping units or more than two dwelling units where the occupants are primarily transient in nature, including:
+Boarding houses (transient) with more than 10 occupants
+Congregate residences (transient) with more than 10 occupants
+Hotels (transient)
+Motels (transient)
+[HCD 1] Efficiency dwelling units (transient)
+UpCodes Diagrams (5)
+
+Group R-1 & R-2 Bldgs Type IIA - Height Increase Pt 1
+
+Group R-1 & R-2 Bldgs Type IIA - Height Increase Pt 2
+
+Exit Signs in R-1 Occupancies
+
+GFCI locations - Other than Dwellings
+
+Lighting Outlets - Guest Rooms / Suites
+310.3 Residential Group R-2
+Diagram
+Residential Group R-2 occupancies containing sleeping units or more than two dwelling units where the occupants are primarily permanent in nature, including:
+Apartment houses
+Large family child care
+Small family child care
+Congregate living facilities (nontransient) with more than 16 occupants
+Boarding houses (nontransient)
+Convents
+Dormitories
+Emergency services living quarters
+Fraternities and sororities
+Monasteries
+Hotels (nontransient)
+Live/work units
+Motels (nontransient)
+Vacation timeshare properties
+[HCD 1] Efficiency dwelling units (transient)
+UpCodes Diagrams (24)
+
+Kitchen Countertop Clearances (CBC 11A)
+
+Group R-1 & R-2 Bldgs Type IIA - Height Increase Pt 1
+
+Group R-1 & R-2 Bldgs Type IIA - Height Increase Pt 2
+
+Attic Fire Protection - Condition 1 & 2 (NFPA 13R)
+
+Covered Dwelling Units over Shops and Garages
+
+Covered Multi-Family Dwellings with Elevators
+
+Handrail Continuity - Excpt. 1-3
+
+Parapets - Exception 5
+
+Cooking Facilities: R-2 Dorms
+
+Private Garage Separation from Dwelling Units (BC)
+Show 14 more
+Building products (9)
+
+600 Lumens/Ft. Angled Linear Fixture, Tunable-White, 2700K–5000K - LT-P3
+Task Lighting and Power
+
+
+Anika Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+
+Flat Profile Linear Fixtures - Single-White - LS-P7
+Task Lighting and Power
+
+
+H-Line 3-Hole Deck Mounted Widespread Lavatory Set
+Watermark Designs
+
+
+H-Line Low Gooseneck Kitchen Faucet With Pull Down Spray
+Watermark Designs
+
+
+Lighted Closet Rod - Tunable-white, Aluminum Profile, Frosted Lens, White - LCR-T
+Task Lighting and Power
+
+
+Loft Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+
+Stratford 1 Hole Gooseneck Kitchen Faucet With Pull Down Spray
+Watermark Designs
+
+
+Top-Mounted Support, Lighted Closet Rod - L-LCR-HS
+Task Lighting and Power
+
+310.3.1 Residential Group R-2.1
+Diagram
+Residential Group R-2.1 occupancies shall include buildings, structures or parts thereof housing clients, on a 24-hour basis, who because of age, mental disability or other reasons, live in a supervised residential environment that provides personal care services.
+This occupancy may contain more than six nonambulatory and/or bedridden clients. (See Section 435 Special Provisions for Licensed 24-Hour Care Facilities in a Group R-2.1, R-3.1 or R-4 Occupancy). This group shall include, but not be limited to, the following:
+Assisted living facilities such as:
+Residential care facilities,
+Residential care facilities for the elderly (RCFEs),
+Adult residential facilities,
+Congregate living health facilities,
+Group homes,
+Residential care facilities for the chronically ill,
+Congregate living health facilities for the terminally ill.
+Social rehabilitation facilities such as:
+Halfway houses,
+Community correctional centers,
+Community treatment programs,
+Work furlough programs,
+Alcoholism or drug abuse recovery or treatment facilities.
+UpCodes Diagram (1)
+
+Low-Level Exit Signs (CA)
+310.3.2 Residential Group R-2.2 (CDCR Only)
+Residential occupancies operated by CDCR in a community located facility that provides housing and community-based program services for nontransient ambulatory participants in a nonlicensed facility with 24/7 supervision.
+310.4 Residential Group R-3
+Diagram
+Residential Group R-3 occupancies where the occupants are primarily permanent in nature and not classified as Group R-1, R-2.1, R-2.2, R-3.1, R-4 or I, including:
+Buildings that do not contain more than two dwelling units
+Care facilities that provide accommodations for five or fewer persons receiving care
+Congregate residences (nontransient) with 16 or fewer occupants
+Boarding houses (nontransient)
+Convents
+Dormitories
+Emergency services living quarters
+Fraternities and sororities
+Monasteries
+Congregate residences (transient) with 10 or fewer occupants
+[HCD 1] Efficiency dwelling units
+Boarding houses (transient)
+Adult care facilities that provide accommodations for six or fewer clients of any age for less than 24 hours
+Licensing categories that may use this classification include Adult Day Programs
+Alcoholism or drug abuse recovery homes (ambulatory only)
+Child-care facilities that provide accommodations for six or fewer clients of any age for less than 24 hours
+Licensing categories that may use this classification include, but are not limited to:
+Day-Care Center for Mildly Ill Children,
+Infant Care Center,
+School Age Child Day-Care Center
+Family Day-Care Homes that provide accommodations for 14 or fewer children, in the provider's own home for less than 24-hours
+Adult care and child-care facilities that are within a single family home are permitted to comply with the California Residential Code
+Lodging houses with five or fewer guest rooms
+UpCodes Diagrams (14)
+
+Exit Access Travel Distance: R-3 and R-4
+
+Exterior Exit Stairway and Ramp Protection - Exception 4
+
+Exit Access Stair: Enclosure (Ex. 3)
+
+Handrail Continuity - Excpt. 1-3
+
+Parapets - Exception 5
+
+Multiple Occupancy Building: Design Occupant Load
+
+Stair Riser / Tread Depth: R-3/R-2 Exception
+
+Private Garage Separation from Dwelling Units (BC)
+
+Venting for Island Fixtures (UPC)
+
+Guards At Stairs (Res)
+Show 4 more
+Building products (7)
+
+Anika Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+
+H-Line 3-Hole Deck Mounted Widespread Lavatory Set
+Watermark Designs
+
+
+H-Line Low Gooseneck Kitchen Faucet With Pull Down Spray
+Watermark Designs
+
+
+Loft Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+
+Loft Wall Mounted 7 1/2" Diameter Thermostatic Shower Trim
+Watermark Designs
+
+
+Stratford 1 Hole Gooseneck Kitchen Faucet With Pull Down Spray
+Watermark Designs
+
+
+TR Series Angle Power Strip - TR
+Task Lighting and Power
+
+310.4.1 Residential Group R-3.1
+This occupancy group may include facilities licensed by a governmental agency for a residentially based 24-hour care facility providing accommodations for six or fewer clients of any age. Clients may be classified as ambulatory, nonambulatory or bedridden. A Group R-3.1 occupancy shall meet the requirements for construction as defined for Group R-3, except as otherwise provided for in Section 435 Special Provisions For Licensed 24-Hour Care Facilities in a Group R-2.1, R-3.1 or R-4 Occupancy. This group may include:
+Adult residential facilities
+Congregate living health facilities
+Intermediate care facilities for the developmentally disabled habilitative
+Intermediate care facilities for the developmentally disabled nursing
+Nurseries for the full-time care of children under the age of six, but not including "infants" as defined in Chapter 2
+Residential care facilities for the elderly
+Small family homes and residential care facilities for the chronically ill
+Exception: Group Homes licensed by the Department of Social Services which provide nonmedical board, room and care for six or fewer ambulatory children or children two years of age or younger, and which do not have any nonambulatory clients shall not be subject to regulations found in Section 435.
+Pursuant to Health and Safety Code Section 13143 with respect to these exempted facilities, no city, county or public district shall adopt or enforce any requirement for the prevention of fire or for the protection of life and property against fire and panic unless the requirement would be applicable to a structure regardless of the special occupancy. Nothing shall restrict the application of state or local housing standards to such facilities if the standards are applicable to residential occupancies and are not based on the use of the structure as a facility for ambulatory children. For the purpose of this exception, ambulatory children do not include relatives of the licensee or the licensee's spouse.
+310.4.2 Lodging Houses
+Owner-occupied lodging houses with five or fewer guest rooms shall be constructed in accordance with this code or the California Residential Code, provided that facilities constructed using the California Residential Code are protected by an automatic sprinkler system installed in accordance with Section 903.3.1.3 or Section R309.1.1 of the California Residential Code.
+310.5 Residential Group R-4
+Diagram
+Residential Group R-4 occupancy shall include buildings, structures or portions thereof for more than six ambulatory clients, but not more than 16 persons, excluding staff, who reside on a 24-hour basis in a supervised residential environment and receive custodial care. The persons receiving care are capable of self-preservation. This occupancy classification may include a maximum six nonambulatory or bedridden clients (see Section 435, Special Provisions for Licensed 24-Hour Care Facilities in a Group R-2.1, R-3.1 or R-4). Group R-4 occupancies shall meet the requirements in Section 420. This group shall include, but not be limited to, the following:
+Assisted living facilities such as:
+Residential care facilities,
+Residential care facilities for the elderly (RCFE),
+Adult residential facilities,
+Congregate living health facilities,
+Group homes.
+Social rehabilitation facilities such as:
+Halfway houses,
+Community treatment programs,
+Work furlough programs,
+Alcoholism or drug abuse recovery or treatment facilities.
+UpCodes Diagrams (4)
+
+Exit Access Travel Distance: R-3 and R-4
+
+Exit Access Stair: Enclosure (Ex. 3)
+
+Example: Accessible Parking, R-2, R-3 and R-4
+
+Stories with Single Exits - Condition 4
+310.6 Large Family Day-Care Homes
+See Section 455.
+Section 311 Storage Group S
+Assembly
+Diagram
+UpCodes Diagrams (7)
+
+Travel Distance Increase: Group F-1 and S-1
+
+Draft Curtains in ESFR Areas
+
+Miscellaneous Storage
+
+Occupancy Groups of the Building Code
+
+Multiple Occupancy Building - Occupancy Groups
+
+Multiple Occupancy Building: Non-Separated Occupancy Requirements
+
+Multiple Occupancy Building: Separated Occupancy Requirements
+Assemblies (2)
+
+WP 9200; 2hr, Steel Wall Panel / Girts
+
+WP 9205; 2hr, Steel Wall Panel / Girts
+Building product (1)
+
+High Bay Bluetooth-enabled
+RAB Lighting
+
+311.1 Storage Group S
+Diagram
+Storage Group S occupancy includes, among others, the use of a building or structure, or a portion thereof, for storage that is not classified as a hazardous occupancy.
+UpCodes Diagram (1)
+
+Guardrail Openings - Exceptions 3 & 4
+311.1.1 Accessory Storage Spaces
+Diagram
+A room or space used for storage purposes that is accessory to another occupancy shall be classified as part of that occupancy.
+UpCodes Diagrams (3)
+
+Cumulative Occ. Loads: Intervening Spaces/Accessory Areas
+
+Accessory Occupancies
+
+Accessory Occ.: Example
+311.1.2 Combustible Storage
+Diagram
+High-piled stock or rack storage, or attic, under-floor and concealed spaces used for storage of combustible materials, shall be in accordance with Section 413.
+UpCodes Diagram (1)
+
+High Piled Storage (definition)
+311.2 Moderate-Hazard Storage, Group S-1
+Diagram
+Storage Group S-1 occupancies are buildings occupied for storage uses that are not classified as Group S-2, including, but not limited to, storage of the following:
+Aerosol products, Levels 2 and 3, aerosol cooking spray, plastic aerosol 3 (PA3)
+Aircraft hangar (storage and repair)
+Bags: cloth, burlap and paper
+Bamboos and rattan
+Baskets
+Belting: canvas and leather
+Beverages over 20-percent alcohol content
+Books and paper in rolls or packs
+Boots and shoes
+Buttons, including cloth covered, pearl or bone
+Cardboard and cardboard boxes
+Clothing, woolen wearing apparel
+Cordage
+Dry boat storage (indoor)
+Furniture
+Furs
+Glues, mucilage, pastes and size
+Grains
+Horns and combs, other than celluloid
+Leather
+Linoleum
+Lithium-ion or lithium metal batteries
+Lumber
+Motor vehicle repair garages complying with the maximum allowable quantities of hazardous materials specified in Table 307.1(1) (see Section 406.8)
+Photo engravings
+Resilient flooring
+Self-service storage facility (mini-storage)
+Silks
+Soaps
+Sugar
+Tires, bulk storage of
+Tobacco, cigars, cigarettes and snuff
+Upholstery and mattresses
+Vehicle repair garages for vehicles powered by lithium-ion or lithium metal batteries
+Wax candles
+UpCodes Diagrams (3)
+
+Travel Distance Increase: Group F-1 and S-1
+
+Sprinklers: Repair Garages and Tire Storage
+
+Sprinklers: Group S
+311.2.1 Aircraft Hangers
+Aircraft hangars used for storage or repair shall comply with Section 412.3.
+311.2.2 Motor Vehicle Repair Garages
+Motor vehicle repair garages shall comply with Section 406.8.
+311.3 Low-Hazard Storage, Group S-2
+Diagram
+Storage Group S-2 occupancies include, among others, buildings used for the storage of noncombustible materials such as products on wood pallets or in paper cartons with or without single thickness divisions; or in paper wrappings. Such products are permitted to have a negligible amount of plastic trim, such as knobs, handles or film wrapping. Group S-2 storage uses shall include, but not be limited to, storage of the following:
+Asbestos
+Beverages up to and including 20-percent alcohol
+Cement in bags
+Chalk and crayons
+Dairy products in nonwaxed coated paper containers
+Dry cell batteries
+Electrical coils
+Electrical motors
+Empty cans
+Food products
+Foods in noncombustible containers
+Fresh fruits and vegetables in nonplastic trays or containers
+Frozen foods
+Glass
+Glass bottles, empty or filled with noncombustible liquids
+Gypsum board
+Inert pigments
+Ivory
+Meats
+Metal cabinets
+Metal desks with plastic tops and trim
+Metal parts
+Metals
+Mirrors
+Oil-filled and other types of distribution transformers
+Public parking garages, open or enclosed
+Porcelain and pottery
+Stoves
+Talc and soapstones
+Washers and dryers
+UpCodes Diagrams (4)
+
+Sprinklers: Group S
+
+Podiums: Parking Beneath Group R
+
+Group S-2 Enclosed Parking Garage With Group S-2 Open Parking Garage Above
+
+Group B or M Buildings With Group S-2 Open Parking Garage Above
+311.3.1 Public Parking Garages
+Diagram
+Public parking garages shall comply with Section 406.4 and the additional requirements of Section 406.5 for open parking garages or Section 406.6 for enclosed parking garages.
+UpCodes Diagrams (3)
+
+Open Parking Garage
+
+Enclosed Parking Garage Ventilation - Ducted System
+
+Enclosed Parking Garage Ventilation - Ductless Jet-Induction System
+Section 312 Utility and Miscellaneous Group U
+Diagram
+UpCodes Diagrams (8)
+
+Parapets - Exception 4
+
+Water Heater: Garages
+
+Carport Requirements
+
+Occupancy Groups of the Building Code
+
+Enclosures for Outdoor Electrical Installations (≥1000V)
+
+Multiple Occupancy Building - Occupancy Groups
+
+Multiple Occupancy Building: Non-Separated Occupancy Requirements
+
+Multiple Occupancy Building: Separated Occupancy Requirements
+312.1 General
+Buildings and structures of an accessory character and miscellaneous structures not classified in any specific occupancy shall be constructed, equipped and maintained to conform to the requirements of this code commensurate with the fire and life hazard incidental to their occupancy. Group U shall include, but not be limited to, the following:
+Agricultural buildings
+Aircraft hangars, accessory to a one- or two-family residence (see Section 412.4)
+Barns
+Carports
+Communication equipment structures with a gross floor area of less than 1,500 square feet (139 m2)
+Fences more than 7 feet (2134 mm) in height
+Grain silos, accessory to a residential occupancy
+Livestock shelters
+Private garages
+Retaining walls
+Sheds
+Stables
+Tanks
+Towers
+312.1.1 Greenhouses
+Greenhouses not classified as another occupancy shall be classified as Use Group U.
+312.2 Private Garages and Carports
+Private garages and carports shall comply with Section 406.3.
+312.3 Residential Aircraft Hangars
+Aircraft hangars accessory to a one- or two-family residence shall comply with Section 412.4.
+Section 313 Laboratories Group L [SFM]
+313.1 Group L Laboratories
+[SFM] Group L occupancy includes the use of a building or structure, or a portion thereof, containing one or more laboratory suites as defined in Section 453.
+Section 314 Organized Camps Group C [SFM]
+314.1 Organized Camps Group C
+[SFM] An organized camp is a site with programs and facilities established for the primary purpose of providing an outdoor group living experience with social, spiritual, educational or recreational objectives, for five days or more during one or more seasons of the year.

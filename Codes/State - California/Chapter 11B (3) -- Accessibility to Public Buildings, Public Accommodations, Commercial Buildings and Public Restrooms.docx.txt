@@ -1,0 +1,1387 @@
+
+Section 11B-408 Limited-Use/Limited-Application Elevators
+11B-408.1 General
+Limited-use/limited-application elevators shall comply with Section 11B-408 and with ASME A17.1. They shall be passenger elevators as classified by ASME A17.1. Elevator operation shall be automatic.
+11B-408.2 Elevator Landings
+Landings serving limited-use/limited-application elevators shall comply with Section 11B-408.2.
+11B-408.2.1 Call Buttons
+Elevator call buttons and keypads shall comply with Section 11B-407.2.1.
+11B-408.2.2 Hall Signals
+Hall signals shall comply with Section 11B-407.2.2.
+11B-408.2.3 Hoistway Signs
+Signs at elevator hoist ways shall comply with Section 11B-407.2.3.1.
+11B-408.3 Elevator Doors
+Elevator hoistway doors shall comply with Section 11B-408.3.
+11B-408.3.1 Sliding Doors
+Sliding hoistway and car doors shall comply with Sections 11B-407.3.1 through 11B-407.3.3 and 11B-408.4.1.
+11B-408.3.2 Swinging Doors
+Swinging hoistway doors shall open and close automatically and shall comply with Sections 11B-404, 11B-407.3.2 and 11B-408.3.2.
+11B-408.3.2.1 Power Operation
+Swinging doors shall be power-operated and shall comply with ANSI/BHMA A156.19.
+11B-408.3.2.2 Duration
+Power-operated swinging doors shall remain open for 20 seconds minimum when activated.
+11B-408.4 Elevator Cars
+Elevator cars shall comply with Section 11B-408.4.
+11B-408.4.1 Car Dimensions and Doors
+Elevator cars shall provide a clear width 42 inches (1067 mm) minimum and a clear depth 54 inches (1372 mm) minimum. Car doors shall be positioned at the narrow ends of cars and shall provide 32 inches (813 mm) minimum clear width.
+Exceptions:
+Cars that provide a clear width 51 inches (1295 mm) minimum shall be permitted to provide a clear depth 51 inches (1295 mm) minimum provided that car doors provide a clear opening 36 inches (914 mm) wide minimum.
+Reserved.
+FIGURE 11B-408.4.1—LIMITED-USE/LIMITED-APPLICATION (LULA) ELEVATOR CAR DIMENSIONS
+11B-408.4.2 Floor Surfaces
+Floor surfaces in elevator cars shall comply with Sections 11B-302 and 11B-303.
+11B-408.4.3 Platform to Hoistway Clearance
+The platform to hoistway clearance shall comply with Section 11B-407.4.3.
+11B-408.4.4 Leveling
+Elevator car leveling shall comply with Section 11B-407.4.4.
+11B-408.4.5 Illumination
+Elevator car illumination shall comply with Section 11B-407.4.5.
+11B-408.4.6 Car Controls
+Elevator car controls shall comply with Section 11B-407.4.6. Control panels shall be centered on a side wall.
+11B-408.4.7 Designations and Indicators of Car Controls
+Designations and indicators of car controls shall comply with Section 11B-407.4.7.
+11B-408.4.8 Emergency Communications
+Car emergency signaling devices complying with Section 11B-407.4.9 shall be provided.
+Section 11B-409 Private Residence Elevators
+11B-409.1 General
+Private residence elevators that are provided within a residential dwelling unit required to provide mobility features complying with Sections 11B-809.2 through 11B-809.4 shall comply with Section 11B-409 and with ASME A17.1. They shall be passenger elevators as classified by ASME A17.1. Elevator operation shall be automatic.
+11B-409.2 Call Buttons
+Call buttons shall be 3/4 inch (19.1 mm) minimum in the smallest dimension and shall comply with Section 11B-309.
+11B-409.3 Elevator Doors
+Hoistway doors, car doors and car gates shall comply with Sections 11B-409.3 and 11B-404.
+Exception: Doors shall not be required to comply with the maneuvering clearance requirements in Section 11B-404.2.4.1 for approaches to the push side of swinging doors.
+11B-409.3.1 Power Operation
+Elevator car and hoistway doors and gates shall be power operated and shall comply with ANSI/ BHMA A156.19. Power operated doors and gates shall remain open for 20 seconds minimum when activated.
+Exception: In elevator cars with more than one opening, hoistway doors and gates shall be permitted to be of the manual-open, self-close type.
+11B-409.3.2 Location
+Elevator car doors or gates shall be positioned at the narrow end of the clear floor spaces required by Section 11B-409.4.1.
+11B-409.4 Elevator Cars
+Private residence elevator cars shall comply with Section 11B-409.4.
+11B-409.4.1 Inside Dimensions of Elevator Cars
+Elevator cars shall provide a clear floor space of 36 inches (914 mm) minimum by 48 inches (1219 mm) minimum and shall comply with Section 11B-305.
+11B-409.4.2 Floor Surfaces
+Floor surfaces in elevator cars shall comply with Sections 11B-302 and 11B-303.
+11B-409.4.3 Platform to Hoistway Clearance
+The clearance between the car platform and the edge of any landing sill shall be 11/2 inch (38 mm) maximum.
+11B-409.4.4 Leveling
+Each car shall automatically stop at a floor landing within a tolerance of 1/2 inch (12.7 mm) under rated loading to zero loading conditions.
+11B-409.4.5 Illumination Levels
+Elevator car illumination shall comply with Section 11B-407.4.5.
+11B-409.4.6 Car Controls
+Elevator car control buttons shall comply with Sections 11B-409.4.6, 11B-309.3, 11B-309.4 and shall be raised or flush.
+11B-409.4.6.1 Size
+Control buttons shall be 3/4 inch (19.1 mm) minimum in their smallest dimension.
+11B-409.4.6.2 Location
+Control panels shall be on a side wall, 12 inches (305 mm) minimum from any adjacent wall.
+FIGURE 11B-409.4.6.2—
+LOCATION OF PRIVATE RESIDENCE ELEVATOR CONTROL PANEL
+
+11B-409.4.7 Emergency Communications
+Emergency two-way communication systems shall comply with Section 11B-409.4.7.
+11B-409.4.7.1 Type
+A telephone and emergency signal device shall be provided in the car.
+11B-409.4.7.2 Operable Parts
+The telephone and emergency signaling device shall comply with Sections 11B-309.3 and 11B-309.4.
+11B-409.4.7.3 Compartment
+If the telephone or device is in a closed compartment, the compartment door hardware shall comply with Section 11B-309.
+11B-409.4.7.4 Cord
+The telephone cord shall be 29 inches (737 mm) long minimum.
+Section 11B-410 Platform Lifts
+Diagram
+UpCodes Diagram (1)
+
+Vertical Platform Lifts
+11B-410.1 General
+Platform lifts shall comply with ASME A18.1. Platform lifts shall not be attendant-operated and shall provide unassisted entry and exit from the lift.
+11B-410.2 Floor Surfaces
+Floor surfaces in platform lifts shall comply with Sections 11B-302 and 11B-303.
+11B-410.3 Clear Floor Space
+Clear floor space in platform lifts shall comply with Section 11B-305.
+11B-410.4 Platform to Runway Clearance
+The clearance between the platform sill and the edge of any runway landing shall be 11/4 inch (32 mm) maximum.
+11B-410.5 Operable Parts
+Controls for platform lifts shall comply with Section 11B-309.
+11B-410.6 Doors and Gates
+Platform lifts shall have low-energy power-operated doors or gates complying with Section 11B-404.3. Doors shall remain open for 20 seconds minimum. End doors and gates shall provide a clear width 32 inches (813 mm) minimum. Side doors and gates shall provide a clear width 42 inches (1067 mm) minimum.
+Exception: Platform lifts serving two landings maximum and having doors or gates on opposite sides shall be permitted to have self-closing manual doors or gates.
+FIGURE 11B-410.6—
+PLATFORM LIFT DOORS AND GATES
+
+11B-410.7 Landing Size
+The minimum size of landings at platform lifts shall be 60 inches by 60 inches (1524 mm by 1524 mm).
+11B-410.8 Restriction Sign
+A sign complying with Section 11B-703.5 shall be posted in a conspicuous place at each landing and within the platform enclosure stating "No Freight" and include the International Symbol of Accessibility complying with Section 11B-703.7.2.1.
+Section 11B-411 Destination-Oriented Elevators
+11B-411.1 General
+Destination-oriented elevators shall comply with Section 11B-411 and with ASME A17.1. They shall be passenger elevators as classified by ASME A17.1. Elevator operation shall be automatic.
+11B-411.1.1 Floor Designations
+In facilities served by destination-oriented elevator systems, floor designations shall be numeric characters only. Floor designations shall be "one" (1) or "zero" (0) at the main entry level and shall increase by one for each successive higher story or level. The initial floor below the main entry level shall be designated "minus one" (-1) and the designation for each successive lower story or level shall decrease by one. Stories or levels shall not be designated by alphabetic characters.
+Exceptions:
+In existing facilities where new elevators are installed or existing elevators are altered into a destination-oriented elevator system, levels within stories, such as mezzanines located above or below the main entry level shall be permitted to be designated with an alpha-numeric character such as "M2", indicating "mezzanine" and the "story number", respectively, in which it is located, provided there is no duplication with alpha-numeric designations of elevator cars in the facility.
+Non-successive floor numbering shall be permitted where a specific floor number is omitted or where a floor is frequented only by service personnel for maintenance, repair or occasional monitoring of equipment.
+11B-411.1.2 Car Designations
+Elevator cars shall be designated with a single alphabetic character. For elevators programmed to the same hall call console or group of hall call consoles, each elevator car shall be designated with a different single alphabetic character.
+Exception: Elevator systems with more than 26 elevators shall be permitted to use alpha-numeric designations such as "A1".
+11B-411.2 Elevator Landing Requirements
+Elevator landings shall comply with Section 11B-411.2.
+11B-411.2.1 Hall Call Consoles
+Hall call consoles shall comply with Sections 11B-411.2.1 and 11B-309.
+11B-411.2.1.1 Location
+Hall call consoles shall be wall-mounted. On floors with a building entry, including parking and transfer levels, each hoistway entrance shall be adjacent to a hall call console. On other floors, a minimum of one hoistway entrance shall be adjacent to a hall call console.
+Exception: Hall call consoles beyond those required by Section 11B-411.2.1.1 shall be permitted to be provided outside the elevator landing and to be wall-mounted, pedestal-mounted or mounted on a kiosk or security turnstile.
+11B-411.2.1.2 Required Features
+Hall call consoles shall include a touch screen or keypad with display screen, an accessibility function button and audio output loudspeaker.
+11B-411.2.1.2.1 Keypads
+Keypads shall be in a 12-key ascending telephone keypad layout. Characters and symbols shall be centered on the corresponding button. The number five key shall have a single raised dot. The dot shall have a base diameter of 0.118 inch (3 mm) minimum and 0.120 inch (3.05 mm) maximum and a height of 0.025 inch (0.6 mm) minimum and 0.037 inch (0.9 mm) maximum. Keypads shall have a star (☆) on the lower left button and a minus sign (-) on the lower right button. From any level above and below the main egress level, when the star button is pressed an elevator shall be dispatched to the main egress level.
+11B-411.2.1.2.2 Touch Screen
+Touch screen display shall comply with Section 11B-411.2.1.2.4.
+11B-411.2.1.2.3 Accessibility Function Button
+The accessibility function button shall be identified by the International Symbol of Accessibility and a raised indication. The International Symbol of Accessibility shall comply with Section 11B- 703.7.2.1, and shall be 5/8 inch (15.9 mm) minimum in height. The indication shall be three raised dots. Each dot shall have a base diameter of 0.059 inch (1.5 mm) minimum and 0.063 inch (1.6 mm) maximum and a height of 0.025 inch (0.6 mm) minimum and 0.037 inch (0.9 mm) maximum. The dots shall be spaced 1/4 inch (6.4 mm), measured center to center, in the form of an equilateral triangle with a vertex pointing up. The accessibility function button shall not be provided with a key repeat function.
+FIGURE 11B-411.2.1.2.3—DESTINATION-ORIENTED ELEVATOR ACCESSIBILITY FUNCTION BUTTON INDICATION
+11B-411.2.1.2.4 Display Screen
+Upon activation of the accessibility function button, the display screen shall display information including but not limited to, operating instructions, user input confirmation, elevator assignment characters, direction to the assigned elevator and error messages. The display screen shall comply with Section 11B-411.2.1.2.4.
+11B-411.2.1.2.4.1 Contrast
+Display screens shall provide contrast with light characters and symbols on a dark background or dark characters and symbols on a light background. The background shall be solid and static.
+11B-411.2.1.2.4.2 Size
+Elevator assignment characters shall be 1 inch high (25 mm) minimum.
+11B-411.2.1.2.4.3 Duration
+Elevator assignment characters shall be displayed for a minimum of 5 seconds.
+11B-411.2.1.2.5 Audio Output
+Upon activation of the accessibility function button, the audio output shall provide verbal announcements, including but not limited to, operating instructions, user input confirmation, announcement of the elevator assignment characters, direction to the assigned elevator and error messages. Audio output shall be recorded or digitized human speech, and shall be delivered through a loudspeaker. Auditory volume shall be at least 10 dB above ambient sound level, but shall not exceed 80 dB, measured 36 inches (914 mm) in front of the console. At hall call console locations where the ambient sound level varies, auditory volume shall be maintained at the required volume by an automatic gain control or shall be set at not less than 75 dB.
+11B-411.2.1.3 Arrangement
+Hall call console arrangement of required features shall comply with Section 11B-411.2.1.3.
+11B-411.2.1.3.1 Keypad Call Console Arrangement
+Where keypad call consoles are provided, the display screen shall be located directly above the keypad. The accessibility function button shall be located directly below the keypad at a height of 36 inches (914 mm) to 42 inches (1067 mm) above the finish floor.
+11B-411.2.1.3.2 Touch Screen Call Console Arrangement
+Where touch screen call consoles are provided, the touch screen shall be located directly above the accessibility function button. The accessibility function button shall be located at a height of 36 inches (914 mm) to 42 inches (1067 mm) above the finish floor.
+11B-411.2.1.3.3 Proximity of Required Elements
+Required features shall be provided on a hall call console assembly or as individual elements grouped in close proximity.
+11B-411.2.1.3.4 Position
+Display screens and touch screens shall be positioned so glare is reduced on the screen. Keypads or buttons shall slope away from the user at 15 to 25 degrees from the vertical plane. Touch screens shall be sloped away from the user at 7 to 25 degrees from the vertical plane.
+11B-411.2.1.4 Additional Features
+Hall call console additional features, if provided, shall comply with Sections 11B-309 and 11B-411.2.1.4.
+11B-411.2.1.4.1 Hall Call Console Additional Buttons
+Hall call console buttons provided in addition to the accessibility function button and keypad buttons shall comply with Section 11B-411.2.1.4.1. Buttons in addition to the accessibility function button are not permitted on hall call consoles using a touch screen.
+11B-411.2.1.4.1.1 Arrangement
+Buttons shall be arranged in columns to the right of the keypad with a minimum horizontal spacing of 1.5 times the horizontal spacing between the numeric keys and with the same vertical spacing as the numeric keys.
+11B-411.2.1.4.1.2 Identification
+Buttons shall be identified by raised characters and symbols, white on a black background, complying with Section 11B-703.2 and Braille complying with Section 11B-703.3. Identification shall be placed immediately to the left of the control button to which the designation applies.
+11B-411.2.1.4.2 Security or Access Controls
+Security or access control system card readers associated with elevator operation shall be in close proximity to each hall call console in a consistent manner throughout the facility.
+11B-411.2.1.5 Button Requirements
+Keypad buttons, the accessibility function button and additional hall call console buttons shall comply with Section 11B-411.2.1.5.
+11B-411.2.1.5.1 Size
+Buttons shall have square shoulders, be 3/4 inch (19.1 mm) minimum in the smallest dimension and shall be raised 1/8 inch (3.2 mm) plus or minus 1/32 inch (0.8 mm) above the surrounding surface. The buttons shall be activated by a mechanical motion that is detectable.
+11B-411.2.1.5.2 Color
+Characters and symbols on buttons, where provided, shall be white on a black background.
+11B-411.2.1.6 Identification of Floors Served
+In buildings with two or more elevator banks, each serving a different group of specific floors, hall call consoles located on floors with a building entry, including parking and transfer levels, shall be provided with signs complying with Sections 11B-703.2, 11B-703.3 and 11B-703.5 on the surface of or above the hall call console stating "FLOORS n1 — n2," where n1 — n2 represents the range of floors served. Characters shall be white on a black background. When the accessibility function button is pressed, the audio output shall provide a verbal announcement of the floors served by the elevator group.
+11B-411.2.1.7 Elevator Car Assignment
+When the accessibility function button is pressed, elevator car assignment shall comply with Section 11B-411.2.1.7.
+11B-411.2.1.7.1 Assignment by Keypad Hall Call Console
+The audio output shall provide verbal instruction for the user to enter a destination floor. The selected destination floor shall be confirmed by verbal announcement and on the display screen. Verbal and visible indication of an invalid input shall be provided. The display screen shall indicate the elevator assignment characters and a verbal announcement shall be made of the assigned elevator responding to the call. Visual and verbal direction to the assigned elevator shall be provided.
+11B-411.2.1.7.2 Assignment by Touch Screen Hall Call Console
+The audio output shall provide verbal instruction for the user to press the accessibility function button as a response to verbal direction in order to select the destination floor. The selected destination floor shall be confirmed by verbal announcement and on the display screen. Verbal and visible indication of an invalid input shall be provided. The display screen shall indicate the elevator assignment characters and a verbal announcement shall be made of the assigned elevator responding to the call. Visual and verbal direction to the assigned elevator shall be provided.
+Exception: In addition to assignment by Section 11B-411.2.1.7.2, a verbal announcement providing the user with an option to select an alternative mode of operation shall be permitted. Alternative operation shall be by one of the following options:
+Virtual keypad. The size of the keypad shall be a nominal 4 inches (102 mm) wide by 5 inches (127 mm) high in a 12-key ascending telephone keypad layout centered in the console. Characters and symbols shall be centered on the corresponding button. Keypads shall have a star (☆) on the lower left button and a minus sign (-) on the lower right button. Operation shall be by contact with the touch screen with a press on the key. The audio output shall provide user input confirmation after each key is pressed. Keys shall not be provided with a key repeat function. From any level above and below the main egress level, when the star button is pressed an elevator shall be dispatched to the main egress level.
+Gesture-based mode of operation. Operation shall be by contact with the touch screen, without specific contact with an icon, and using established non-proprietary gestures for selection and input, including but not limited to tapping, sliding and tap-hold contact-release to select. The audio output shall provide verbal direction on use of the touch screen, and indication of floor selection options, until assignment to the elevator is given.
+11B-411.2.1.7.3 Assignment by Security Credential
+If a security system or other form of access control system is provided, the audio output shall provide a verbal announcement and direction to the location of the access control activation sensor, such as "present security credential at the sensor immediately to the left". Upon presentation of security credential, the destination floor shall be confirmed by verbal announcement and on the display screen. The display screen shall indicate the elevator assignment characters and a verbal announcement shall be made of the assigned elevator responding to the call. Visual and verbal direction to the assigned elevator shall be provided.
+11B-411.2.1.7.4 Adjacency Assignment
+The system shall assign an elevator car immediately to the left or right of the hall call console.
+Exception: The most adjacent elevator serving the selected floor shall be assigned by hall call consoles located outside the elevator landing.
+11B-411.2.2 Elevator Car Identification at Elevator Landings
+Elevator car identification shall comply with Section 11B-411.2.2.
+11B-411.2.2.1 Visible Identification
+Above or adjacent to each elevator car entrance there shall be a visible identification fixture with a car designation character. The identification fixture shall be 80 inches (2032 mm) minimum above the finish floor or ground to the bottom of the fixture. The characters on the fixture shall be upper case with a height of 4 inches (102 mm) minimum complying with Sections 11B-703.5.1, 11B-703.5.3, 11B-703.5.4, 11B-703.5.7 and 11B-703.5.8.
+Exception: Existing buildings shall be permitted to have a visible identification fixture with a car designation character adjacent to each elevator car entrance centered at 72 inches (1829 mm) above the finish floor or ground. The character on the fixture shall be upper case with a height of 21/2 inches (64 mm) minimum complying with Sections 11B-703.5.1, 11B-703.5.3, 11B-703.5.4, 11B-703.5.7 and 11B-703.5.8.
+11B-411.2.2.2 Verbal Identification
+When the accessibility function button is pressed, verbal announcement of the car designation shall be provided at the elevator car entrance upon arrival. Audio output shall be recorded or digitized human speech, and shall be delivered through a loudspeaker. The verbal annunciator shall have a frequency of 300 Hz minimum and 3000 Hz maximum. Auditory volume shall be at least 10 dB above ambient sound level, but shall not exceed 80 dB, measured 36 inches (914 mm) in front of the elevator entrance and at 48 inches (1219 mm) above the floor. At elevator entrances where the ambient sound level varies, auditory volume shall be maintained at the required volume by an automatic gain control or shall be set at not less than 75 dB.
+11B-411.2.3 Signs on Jambs of Elevator Hoistway Entrances
+Signs on jambs of elevator hoistway entrances shall comply with Section 11B-411.2.3.
+FIGURE 11B-411.2.3——FLOOR DESIGNATION AND CAR DESIGNATION SIGNS ON JAMBS OF DESTINATION-ORIENTED ELEVATOR HOISTWAY ENTRANCES
+11B-411.2.3.1 Floor Designation Signs
+Floor designation signs complying with Sections 11B-703.2 and 11B-703.4.1 shall be provided on both jambs of elevator hoistway entrances. Signs shall be provided in both raised characters and Braille. Raised characters shall be 2 inches (51 mm) high. A raised star placed to the left of the floor designation, shall be provided on both jambs at the main entry level. The outside diameter of the star shall be 2 inches (51 mm) and all points shall be of equal length. Raised characters, including the star, shall be white on a black background. Braille complying with Section 11B-703.3 shall be placed below the corresponding raised characters and the star. The Braille translation for the star shall be "MAIN". Applied plates are acceptable if they are permanently fixed to the jamb.
+11B-411.2.3.2 Car Designation Signs
+Car designation signs complying with Sections 11B-703.2 and 11B-703.4.1 shall be provided on both jambs of the hoistway immediately below the floor designation. Signs shall be provided in both raised characters and Braille. Raised characters shall be 2 inches (51 mm) high. Raised characters shall be white on a black background. Braille complying with Section 11B-703.3 shall be placed below the corresponding raised characters. Applied plates are acceptable if they are permanently fixed to the jamb.
+11B-411.3 Elevator Door Requirements
+Hoistway and car doors shall comply with Section 11B-411.3.
+11B-411.3.1 Type
+Elevator door type shall comply with Section 11B-407.3.1.
+11B-411.3.2 Operation
+Elevator hoistway and car doors shall open and close automatically.
+11B-411.3.3 Reopening Device
+Elevator doors shall be provided with a reopening device complying with Section 11B-411.3.3 that shall stop and reopen a car door and hoistway door automatically if the door becomes obstructed by an object or person.
+11B-411.3.3.1 Height
+The height of the reopening device shall comply with Section 11B-407.3.3.1.
+11B-411.3.3.2 Contact
+The device contact shall comply with Section 11B-407.3.3.2.
+11B-411.3.3.3 Duration
+The door reopening device duration shall comply with Section 11B-407.3.3.3.
+11B-411.3.4 Door Delay
+Door delay shall comply with Section 11B-407.3.5.
+11B-411.3.5 Width
+The width of elevator doors shall comply with Table 11B-407.4.1.
+11B-411.4 Elevator Car Requirements
+Elevator cars shall comply with Section 11B-411.4.
+11B-411.4.1 Car Dimensions
+Inside dimensions of elevator cars and clear width of elevator doors shall comply with Section 11B-407.4.1.
+11B-411.4.2 Floor Surfaces
+Floor surfaces in elevator cars shall comply with Section 11B-407.4.2.
+11B-411.4.3 Platform to Hoistway Clearance
+Platform to hoistway clearance shall comply with Section 11B-407.4.3.
+11B-411.4.4 Leveling
+Elevator car leveling shall comply with Section 11B-407.4.4.
+11B-411.4.5 Illumination
+The level of illumination at the car controls shall comply with Section 11B-407.4.5.
+11B-411.4.6 Elevator Car Controls
+Where provided, elevator car controls shall comply with Sections 11B-411.4.6 and 11B-309.4.
+11B-411.4.6.1 Location
+Controls shall be located within one of the reach ranges specified in Section 11B-308.
+11B-411.4.6.2 Buttons
+Car control buttons shall comply with Sections 11B-407.4.6.2.1 and 11B-407.4.6.2.4. The car shall not have non-functional, exposed floor buttons.
+11B-411.4.6.3 Emergency Controls
+Emergency controls shall comply with Section 11B-407.4.6.4.
+11B-411.4.7 Designations and Indicators of Car Control Buttons
+Designations and indicators of car control buttons shall comply with Section 11B-411.4.7.
+11B-411.4.7.1 Type
+Control button type shall comply with Section 11B-407.4.7.1.1.
+11B-411.4.7.2 Location
+Raised characters or symbols and Braille designations shall comply with Section 11B-407.4.7.1.2.
+11B-411.4.7.3 Symbols
+The control button for the emergency stop, alarm, door open, door close and phone shall be identified with raised symbols and Braille as shown in Table 11B-407.4.7.1.3.
+11B-411.4.7.4 Button Spacing
+Button spacing shall comply with Section 11B-407.4.7.1.5.
+11B-411.4.8 Car Position Indicators
+Audible and visible car position indicators shall be provided in elevator cars.
+11B-411.4.8.1 Visible Indicators
+Visible indicators shall comply with Section 11B-411.4.8.1.
+11B-411.4.8.1.1 Size
+Characters shall comply with Section 11B-407.4.8.1.1.
+11B-411.4.8.1.2 Location
+Location of indicators shall comply with Section 11B-407.4.8.1.2.
+11B-411.4.8.2 Audible Indicators
+Audible indicators shall comply with Section 11B-411.4.8.2.
+11B-411.4.8.2.1 Signal Type
+The signal shall be an automatic verbal annunciator which announces the floor at which the car is about to stop.
+11B-411.4.8.2.2 Signal Level
+The verbal annunciator signal level shall comply with Section 11B-407.4.8.2.2.
+11B-411.4.8.2.3 Frequency
+The verbal annunciator frequency shall comply with Section 11B-407.4.8.2.3.
+11B-411.4.9 Emergency Communication
+Emergency communication shall comply with Section 11B-407.4.9.
+11B-411.4.10 Support Rail
+Support rails complying with Section 11B-407.4.10 shall be provided on at least one wall of the car.
+11B-411.4.11 Floor Destination Indicators
+There shall be on each elevator car door jamb a visual display indicating floor destinations.
+11B-411.4.11.1 Height
+Floor destination characters shall be 1 inch (25 mm) high minimum complying with Section 11B-703.5.3.
+11B-411.4.11.2 Contrast
+Visual display shall provide contrast with light characters on a dark background or dark characters on a light background. The background shall be solid and static.
+11B-411.4.11.3 Duration
+Floor destination characters shall be displayed upon elevator car arrival at the input floor and shall not extinguish until the elevator car arrives at the destination floor.
+Division 5 General Site and Building Elements
+Section 11B-501 General
+11B-501.1 Scope
+The provisions of Division 5 shall apply where required by Division 2 or where referenced by a requirement in this chapter .
+Section 11B-502 Parking Spaces
+Diagram
+UpCodes Diagrams (3)
+Primary
+Parking Stalls (CA 11B)
+
+Van Accessible Space Vertical Clr. (CA 11B)
+
+Example: Accessible parking in multiple lots
+11B-502.1 General
+Car and van parking spaces shall comply with Section 11B-502. Where parking spaces are marked with lines, width measurements of parking spaces and access aisles shall be made from the centerline of the markings.
+Exception: Where parking spaces or access aisles are not adjacent to another parking space or access aisle, measurements shall be permitted to include the full width of the line defining the parking space or access aisle.
+11B-502.2 Vehicle Spaces
+Car and van parking spaces shall be 216 inches (5486 mm) long minimum. Car parking spaces shall be 108 inches (2743 mm) wide minimum and van parking spaces shall be 144 inches (3658 mm) wide minimum, shall be marked to define the width, and shall have an adjacent access aisle complying with Section 11B-502.3.
+Exception: Van parking spaces shall be permitted to be 108 inches (2743 mm) wide minimum where the access aisle is 96 inches (2438 mm) wide minimum.
+FIGURE 11B-502.2—
+VEHICLE PARKING SPACES
+
+11B-502.3 Access Aisle
+Diagram
+Access aisles serving parking spaces shall comply with Section 11B-502.3. Access aisles shall adjoin an accessible route. Two parking spaces or one parking space and one electric vehicle charging space shall be permitted to share a common access aisle.
+FIGURE 11B-502.3—
+PARKING SPACE ACCESS AISLE
+
+UpCodes Diagram (1)
+
+Parking Access Aisles and Accessible Routes
+11B-502.3.1 Width
+Access aisles serving car and van parking spaces shall be 60 inches (1524 mm) wide minimum.
+11B-502.3.2 Length
+Access aisles shall extend the full required length of the parking spaces they serve.
+11B-502.3.3 Marking
+Access aisles shall be marked with a blue painted borderline around their perimeter. The area within the blue borderlines shall be marked with hatched lines a maximum of 36 inches (914 mm) on center in a color contrasting with that of the aisle surface, preferably blue or white. The words "NO PARKING" shall be painted on the surface within each access aisle in white letters a minimum of 12 inches (305 mm) in height and located to be visible from the adjacent vehicular way. Access aisle markings may extend beyond the minimum required length.
+FIGURE 11B-502.3.3—
+ANGLED AND PERPENDICULAR PARKING IDENTIFICATION
+
+11B-502.3.4 Location
+Access aisles shall not overlap the vehicular way. Access aisles shall be permitted to be placed on either side of the parking space except for van parking spaces which shall have access aisles located on the passenger side of the parking spaces.
+11B-502.4 Floor or Ground Surfaces
+Parking spaces and access aisles serving them shall comply with Section 11B-302. Access aisles shall be at the same level as the parking spaces they serve. Changes in level, slopes exceeding 1:48, and detectable warnings shall not be permitted.
+Exception: Reserved.
+11B-502.5 Vertical Clearance
+Diagram
+Parking spaces, access aisles and vehicular routes serving them shall provide a vertical clearance of 98 inches (2489 mm) minimum.
+Exception: In existing multistory parking facilities, car parking spaces, access aisles and vehicular routes serving them shall provide a vertical clearance of 80 inches (2032 mm) minimum. Existing vertical clearance in excess of 80 inches (2032 mm) and less than 98 inches (2489 mm) shall be maintained. This exception shall not apply to van parking spaces, access aisles or vehicular routes serving them.
+UpCodes Diagram (1)
+Primary
+Van Accessible Space Vertical Clr. (CA 11B)
+11B-502.6 Identification
+Parking space identification signs shall include the International Symbol of Accessibility complying with Section 11B-703.7.2.1 in white on a blue background. Signs identifying van parking spaces shall contain additional language or an additional sign with the designation "van accessible". Signs shall be 60 inches (1524 mm) minimum above the finish floor or ground surface measured to the bottom of the sign.
+Exception: Signs located within a circulation path shall be a minimum of 80 inches (2032 mm) above the finish floor or ground surface measured to the bottom of the sign.
+11B-502.6.1 Finish and Size
+Parking identification signs shall be reflectorized with a minimum area of 70 square inches (45,161 mm2).
+11B-502.6.2 Minimum Fine
+Additional language or an additional sign below the International Symbol of Accessibility shall state "Minimum Fine $250".
+11B-502.6.3 Location
+A parking space identification sign shall be visible from each parking space. Signs shall be permanently posted either immediately adjacent to the parking space or within the projected parking space width at the head end of the parking space. Signs may also be permanently posted on a wall at the interior end of the parking space.
+11B-502.6.4 Marking
+Each accessible car and van space shall have surface identification complying with either Section 11B-502.6.4.1 or 11B-502.6.4.2.
+11B-502.6.4.1
+The parking space shall be marked with an International Symbol of Accessibility complying with Section 11B-703.7.2.1 in white on a blue background a minimum 36 inches wide by 36 inches high (914 mm by 914 mm). The centerline of the International Symbol of Accessibility shall be a maximum of 6 inches (152 mm) from the centerline of the parking space, its sides parallel to the length of the parking space and its lower corner at, or lower side aligned with, the end of the parking space length.
+11B-502.6.4.2
+The parking space shall be outlined in blue or painted blue and shall be marked with an International Symbol of Accessibility complying with Section 11B-703.7.2.1 a minimum 36 inches wide by 36 inches high (914 mm by 914 mm) in white or a suitable contrasting color. The centerline of the International Symbol of Accessibility shall be a maximum of 6 inches (152 mm) from the centerline of the parking space, its sides parallel to the length of the parking space and its lower corner at, or lower side aligned with, the end of the parking space.
+11B-502.7 Relationship to Accessible Routes
+Parking spaces and access aisles shall be designed so that cars and vans, when parked, cannot obstruct the required clear width of adjacent accessible routes.
+11B-502.7.1 Arrangement
+Parking spaces and access aisles shall be designed so that persons using them are not required to travel behind parking spaces other than to pass behind the parking space in which they parked.
+11B-502.7.2 Wheel Stops
+A curb or wheel stop shall be provided if required to prevent encroachment of vehicles over the required clear width of adjacent accessible routes.
+11B-502.8 Additional Signs
+An additional sign shall be posted either; 1) in a conspicuous place at each entrance to an off-street parking facility or 2) immediately adjacent to on-site accessible parking and visible from each parking space.
+11B-502.8.1 Size
+The additional sign shall not be less than 17 inches (432 mm) wide by 22 inches (559 mm) high.
+11B-502.8.2 Lettering
+The additional sign shall clearly state in letters with a minimum height of 1 inch (25 mm) the following:
+"Unauthorized vehicles parked in designated accessible spaces not displaying distinguishing placards or special license plates issued for persons with disabilities will be towed away at the owner's expense. Towed vehicles may be reclaimed at: _________________________ or by telephoning _______________________."
+Blank spaces shall be filled in with appropriate information as a permanent part of the sign.
+Section 11B-503 Passenger Drop-Off and Loading Zones
+Diagram
+UpCodes Diagram (1)
+Primary
+Passenger Drop-Off and Loading Zones (CA 11B)
+11B-503.1 General
+Passenger drop-off and loading zones shall comply with Section 11B-503.
+11B-503.2 Vehicle Pull-Up Space
+Passenger drop-off and loading zones shall provide a vehicular pull-up space 96 inches (2438 mm) wide minimum and 20 feet (6096 mm) long minimum.
+11B-503.3 Access Aisle
+Passenger drop-off and loading zones shall provide access aisles complying with Section 11B-503 adjacent and parallel to the vehicle pull-up space. Access aisles shall adjoin an accessible route and shall not overlap the vehicular way.
+FIGURE 11B-503.3—
+PASSENGER DROP-OFF AND LOADING ZONE ACCESS AISLE
+
+11B-503.3.1 Width
+Access aisles serving vehicle pull-up spaces shall be 60 inches (1524 mm) wide minimum.
+11B-503.3.2 Length
+Access aisles shall extend the full length of the vehicle pull-up spaces they serve.
+11B-503.3.3 Marking
+Access aisles shall be marked with a painted borderline around their perimeter. The area within the borderlines shall be marked with hatched lines a maximum of 36 inches (914 mm) on center in a color contrasting with that of the aisle surface.
+11B-503.4 Floor and Ground Surfaces
+Vehicle pull-up spaces and access aisles serving them shall comply with Section 11B-302. Access aisles shall be at the same level as the vehicle pull-up space they serve. Changes in level, slopes exceeding 1:48, and detectable warnings shall not be permitted.
+Exception: Reserved.
+11B-503.5 Vertical Clearance
+Vehicle pull-up spaces, access aisles serving them and a vehicular route from an entrance to the passenger drop-off and loading zone and from the passenger drop-off and loading zone to a vehicular exit shall provide a vertical clearance of 114 inches (2896 mm) minimum.
+Section 11B-504 Stairways
+Diagram
+UpCodes Diagrams (3)
+
+Open Stair Risers (CA)
+
+Access. Means of Egress: Stairways
+
+Stair Treads: Contrasting Stripe
+11B-504.1 General
+Stairs shall comply with Section 11B-504.
+11B-504.2 Treads and Risers
+Diagram
+All steps on a flight of stairs shall have uniform riser heights and uniform tread depths. Risers shall be 4 inches (102 mm) high minimum and 7 inches (178 mm) high maximum. Treads shall be 11 inches (279 mm) deep minimum.
+Exception: Curved stairways with winder treads are permitted at stairs which are not part of a required means of egress.
+UpCodes Diagram (1)
+
+Stair Treads and Risers (ADA, et al.)
+11B-504.3 Open Risers
+Diagram
+Open risers are not permitted.
+Exceptions:
+On exterior stairways, an opening of not more than 1/2 inch (12.7 mm) may be permitted between the base of the riser and the tread.
+On exterior stairways, risers constructed of grating containing openings of not more than 1/2 inch (12.7 mm) may be permitted.
+UpCodes Diagrams (2)
+Primary
+Open Stair Risers (CA)
+
+Stairs: General Requirements (CA)
+11B-504.4 Tread Surface
+Stair treads shall comply with Section 11B-302. Changes in level, slopes exceeding 1:48, and detectable warnings shall not be permitted.
+Exception: Reserved.
+11B-504.4.1 Contrasting Stripe
+Diagram
+Interior stairs shall have the upper approach and lower tread marked by a stripe providing clear visual contrast. Exterior stairs shall have the upper approach and all treads marked by a stripe providing clear visual contrast.
+The stripe shall be a minimum of 2 inches (51 mm) wide to a maximum of 4 inches (102 mm) wide placed parallel to, and not more than 1 inch (25 mm) from, the nose of the step or upper approach. The stripe shall extend the full width of the step or upper approach and shall be of material that is at least as slip resistant as the other treads of the stair. A painted stripe shall be acceptable. Grooves shall not be used to satisfy this requirement.
+UpCodes Diagram (1)
+Primary
+Stair Treads: Contrasting Stripe
+11B-504.5 Nosings
+Diagram
+The radius of curvature at the leading edge of the tread shall be 1/2 inch (12.7 mm) maximum. Nosings that project beyond risers shall have the underside of the leading edge curved or beveled. Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical. The permitted projection of the nosing shall extend 11/4 inches (32 mm) maximum over the tread below.
+Exception: In existing buildings there is no requirement to retroactively alter existing nosing projections of 11/2 inches (38 mm) which were constructed in compliance with the building code in effect at the time of original construction.
+FIGURE 11B-504.5—
+STAIR NOSINGS
+
+UpCodes Diagram (1)
+
+Stair Treads and Risers (ADA, et al.)
+11B-504.6 Handrails
+Stairs shall have handrails complying with Section 11B-505.
+11B-504.7 Wet Conditions
+Stair treads and landings subject to wet conditions shall be designed to prevent the accumulation of water.
+11B-504.8 Floor Identification
+Floor identification signs required by Chapter 10, Section 1023.9 complying with Sections 11B-703.1, 11B-703.2, 11B-703.3 and 11B-703.5 shall be located at the landing of each floor level, placed adjacent to the door on the latch side, in all enclosed stairways in buildings two or more stories in height to identify the floor level. At the exit discharge level, the sign shall include a raised five pointed star located to the left of the identifying floor level. The outside diameter of the star shall be the same as the height of the raised characters.
+Section 11B-505 Handrails
+Diagram
+UpCodes Diagrams (2)
+
+Handrail Continuity and Extensions (CA)
+
+Ramp Handrail Heights and Clearances
+11B-505.1 General
+Diagram
+Handrails provided along walking surfaces complying with Section 11B-403, required at ramps complying with Section 11B-405, and required at stairs complying with Section 11B-504 shall comply with Section 11B-505.
+UpCodes Diagram (1)
+Primary
+Ramp Handrail Heights and Clearances
+11B-505.2 Where Required
+Handrails shall be provided on both sides of stairs and ramps.
+Exceptions:
+In assembly areas, handrails shall not be required on both sides of aisle ramps where a handrail is provided at either side or within the aisle width.
+Curb ramps do not require handrails.
+At door landings, handrails are not required when the ramp run is less than 6 inches (152 mm) in rise or 72 inches (1829 mm) in length.
+11B-505.2.1 Orientation
+The orientation of at least one handrail shall be in the direction of the stair run, perpendicular to the direction of the stair nosing, and shall not reduce the minimum required width of the stair.
+11B-505.3 Continuity
+Diagram
+Handrails shall be continuous within the full length of each stair flight or ramp run. Inside handrails on switchback or dogleg stairs and ramps shall be continuous between flights or runs.
+Exception: In assembly areas, ramp handrails adjacent to seating or within the aisle width shall not be required to be continuous in aisles serving seating.
+UpCodes Diagrams (2)
+
+Handrail Continuity and Extensions (CA)
+
+Ramp Handrail Heights and Clearances
+11B-505.4 Height
+Top of gripping surfaces of handrails shall be 34 inches (864 mm) minimum and 38 inches (965 mm) maximum vertically above walking surfaces, stair nosings and ramp surfaces. Handrails shall be at a consistent height above walking surfaces, stair nosings and ramp surfaces.
+FIGURE 11B-505.4—
+HANDRAIL HEIGHT
+
+11B-505.5 Clearance
+Clearance between handrail gripping surfaces and adjacent surfaces shall be 11/2 inches (38 mm) minimum. Handrails may be located in a recess if the recess is 3 inches (76 mm) maximum deep and 18 inches (457 mm) minimum clear above the top of the handrail.
+FIGURE 11B-505.5—
+HANDRAIL CLEARANCE
+
+11B-505.6 Gripping Surface
+Diagram
+Handrail gripping surfaces shall be continuous along their length and shall not be obstructed along their tops or sides. The bottoms of handrail gripping surfaces shall not be obstructed for more than 20 percent of their length. Where provided, horizontal projections shall occur 11/2 inches (38 mm) minimum below the bottom of the handrail gripping surface.
+Exceptions:
+Where handrails are provided along walking surfaces with slopes not steeper than 1:20, the bottoms of handrail gripping surfaces shall be permitted to be obstructed along their entire length where they are integral to crash rails or bumper guards.
+The distance between horizontal projections and the bottom of the gripping surface shall be permitted to be reduced by 1/8 inch (3.2 mm) for each 1/2 inch (12.7 mm) of additional handrail perimeter dimension that exceeds 4 inches (102 mm).
+FIGURE 11B-505.6—
+HORIZONTAL PROJECTIONS BELOW GRIPPING SURFACE
+
+UpCodes Diagram (1)
+
+Handrails: Cross Section (Type I)
+11B-505.7 Cross Section
+Diagram
+Handrail gripping surfaces shall have a cross section complying with Section 11B-505.7.1 or 11B-505.7.2.
+UpCodes Diagram (1)
+
+Handrails: Cross Section (Type I)
+11B-505.7.1 Circular Cross Section
+Handrail gripping surfaces with a circular cross section shall have an outside diameter of 11/4 inches (32 mm) minimum and 2 inches (51 mm) maximum.
+11B-505.7.2 Non-Circular Cross Sections
+Handrail gripping surfaces with a non-circular cross section shall have a perimeter dimension of 4 inches (102 mm) minimum and 61/4 inches (159 mm) maximum, and a cross-section dimension of 21/4 inches (57 mm) maximum.
+FIGURE 11B-505.7.2—
+HANDRAIL NON-CIRCULAR CROSS SECTION
+
+11B-505.8 Surfaces
+Handrail gripping surfaces and any surfaces adjacent to them shall be free of sharp or abrasive elements and shall have rounded edges.
+11B-505.9 Fittings
+Handrails shall not rotate within their fittings.
+11B-505.10 Handrail Extensions
+Diagram
+Handrail gripping surfaces shall extend beyond and in the same direction of stair flights and ramp runs in accordance with Section 11B-505.10.
+Exceptions:
+Extensions shall not be required for continuous handrails at the inside turn of switchback or dogleg stairs and ramps.
+In assembly areas, extensions shall not be required for ramp handrails in aisles serving seating where the handrails are discontinuous to provide access to seating and to permit crossovers within aisles.
+In alterations, where the extension of the handrail in the direction of stair flight or ramp run would create a hazard, the extension of the handrail may be turned 90 degrees from the direction of stair flight or ramp run.
+UpCodes Diagram (1)
+
+Handrails at Stairs (CA)
+11B-505.10.1 Top and Bottom Extension at Ramps
+Diagram
+Ramp handrails shall extend horizontally above the landing for 12 inches (305 mm) minimum beyond the top and bottom of ramp runs. Extensions shall return to a wall, guard or the landing surface, or shall be continuous to the handrail of an adjacent ramp run.
+FIGURE 11B-505.10.1—
+TOP AND BOTTOM HANDRAIL EXTENSION AT RAMPS
+
+UpCodes Diagram (1)
+
+Ramp Handrail Heights and Clearances
+11B-505.10.2 Top Extension at Stairs
+At the top of a stair flight, handrails shall extend horizontally above the landing for 12 inches (305 mm) minimum beginning directly above the first riser nosing. Extensions shall return to a wall, guard or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
+FIGURE 11B-505.10.2—
+TOP HANDRAIL EXTENSION AT STAIRS
+
+11B-505.10.3 Bottom Extension at Stairs
+At the bottom of a stair flight, handrails shall extend at the slope of the stair flight for a horizontal distance equal to one tread depth beyond the last riser nosing. The horizontal extension of a handrail shall be 12 inches (305 mm) long minimum and a height equal to that of the sloping portion of the handrail as measured above the stair nosings. Extension shall return to a wall, guard or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
+FIGURE 11B-505.10.3—
+BOTTOM HANDRAIL EXTENSION AT STAIRS
+
+Division 6 Plumbing Elements and Facilities
+Section 11B-601 General
+11B-601.1 Scope
+The provisions of Division 6 shall apply where required by Division 2 or where referenced by a requirement in this chapter .
+Section 11B-602 Drinking Fountains and Bottle-Filling Stations
+Diagram
+UpCodes Diagrams (4)
+
+Drinking Fountain Clearances
+
+Drinking Fountains: Pedestrian Protection (11B)
+
+Drinking Fountain Accessibility: Scoping, pt. 1
+
+Drinking Fountain Accessibility: Scoping, pt. 2
+Building products (4)
+
+Liv® Built-in Filtered Refrigerated Water Dispenser Remote Chiller Midnight - LBWD06BKK
+Elkay
+
+
+Liv® Built-in Filtered Water Dispenser Non-refrigerated Aspen White - LBWD00WHC
+Elkay
+
+
+Pro Filtration® Bottle Filling Station & Bi-Level ADA Cooler Refrigerated Ultra-Capacity Lead Reduction - LZSTL8WSBPRO
+Elkay
+
+
+Pro Filtration® Bottle Filling Station & Single ADA Cooler Refrigerated Ultra-Capacity Lead Reduction - LZS8WSBPRO
+Elkay
+
+11B-602.1 General
+Drinking fountains shall comply with Sections 11B-307 and 11B-602.
+11B-602.2 Clear Floor Space
+Diagram
+Units shall have a clear floor or ground space complying with Section 11B-305 positioned for a forward approach and centered on the unit. Knee and toe clearance complying with Section 11B-306 shall be provided.
+Exception: A parallel approach complying with Section 11B-305 shall be permitted at units for children's use where the spout is 30 inches (762 mm) maximum above the finish floor or ground and is 31/2 inches (89 mm) maximum from the front edge of the unit, including bumpers.
+UpCodes Diagram (1)
+Primary
+Drinking Fountain Clearances
+11B-602.3 Operable Parts
+Operable parts shall comply with Section 11B-309. The flow of water shall be activated by a manually operated system that is front mounted or side mounted and located within 6 inches (152 mm) of the front edge of the fountain or an automatic electronically controlled device.
+11B-602.4 Spout Height
+Spout outlets shall be 36 inches (914 mm) maximum above the finish floor or ground.
+11B-602.5 Spout Location
+The spout shall be located 15 inches (381 mm) minimum from the vertical support and 5 inches (127 mm) maximum from the front edge of the unit, including bumpers.
+FIGURE 11B-602.5—
+DRINKING FOUNTAIN SPOUT LOCATION
+
+11B-602.6 Water Flow
+Diagram
+The spout shall provide a flow of water 4 inches (102 mm) high minimum and shall be located 5 inches (127 mm) maximum from the front of the unit. The angle of the water stream shall be measured horizontally relative to the front face of the unit. Where spouts are located less than 3 inches (76 mm) of the front of the unit, the angle of the water stream shall be 30 degrees maximum. Where spouts are located between 3 inches (76 mm) and 5 inches (127 mm) maximum from the front of the unit, the angle of the water stream shall be 15 degrees maximum.
+UpCodes Diagram (1)
+
+Drinking Fountain - Water Flow
+11B-602.7 Drinking Fountains for Standing Persons
+Spout outlets of drinking fountains for standing persons shall be 38 inches (965 mm) minimum and 43 inches (1092 mm) maximum above the finish floor or ground.
+11B-602.8 Depth
+Wall- and post-mounted cantilevered drinking fountains shall be 18 inches (457 mm) minimum and 19 inches (483 mm) maximum in depth.
+11B-602.9 Pedestrian Protection
+Diagram
+All drinking fountains shall either be located completely within alcoves, positioned completely between wing walls, or otherwise positioned so as not to encroach into pedestrian ways. The protected area within which a drinking fountain is located shall be 32 inches (813 mm) wide minimum and 18 inches (457 mm) deep minimum, and shall comply with Section 11B-305.7. When used, wing walls or barriers shall project horizontally at least as far as the drinking fountain and to within 6 inches (152 mm) vertically from the floor or ground surface.
+UpCodes Diagram (1)
+Primary
+Drinking Fountains: Pedestrian Protection (11B)
+11B-602.10 Bottle-Filling Stations
+Diagram
+Bottle-filling stations shall comply with Sections 11B-307 and 11B-309.
+Exception: Where bottle-filling stations are provided at a drinking fountain for standing persons, the bottle-filling station is not required to comply with this section provided a bottle-filling station is located at the drinking fountain complying with Sections 11B-602.2 through 11B-602.6.
+UpCodes Diagram (1)
+
+Bottle Fillers and Drinking Fountain Alts.
+Building products (4)
+
+Liv® Built-in Filtered Refrigerated Water Dispenser Remote Chiller Midnight - LBWD06BKK
+Elkay
+
+
+Liv® Built-in Filtered Water Dispenser Non-refrigerated Aspen White - LBWD00WHC
+Elkay
+
+
+Pro Filtration® Bottle Filling Station & Bi-Level ADA Cooler Refrigerated Ultra-Capacity Lead Reduction - LZSTL8WSBPRO
+Elkay
+
+
+Pro Filtration® Bottle Filling Station & Single ADA Cooler Refrigerated Ultra-Capacity Lead Reduction - LZS8WSBPRO
+Elkay
+
+Section 11B-603 Toilet and Bathing Rooms
+Diagram
+UpCodes Diagrams (6)
+Primary
+Accessible Bathing Facilities (11B)
+
+Single Toilet Room: ADA vs. CA 11B
+
+Signs: Toilet / Bathing Rooms (CA 11B)
+
+Towel Dispensers and Hand Dryers: Operable Parts (CA 11B)
+
+Walls and Partitions in Bathrooms and Toilet Rooms
+
+Bathroom in Non-Mobility Guest Rooms
+Building products (9)
+
+EcoVantage 1.28 GPF Wall Mounted One Piece Elongated Toilet with Left Hand Lever - Less Seat - Z5615.258.00.00.00
+Zurn
+
+
+Integrated Plumbing System / Aerofoil - TSL.IPS.AERO
+The Splash Lab
+
+
+Lumashelf Integrated Sink - TSL.LUMA
+The Splash Lab
+
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+
+The Aerofoil Basin - TSL.AERO
+The Splash Lab
+
+
+Wall Hung Zurn One Toilet System with 1.1 GPF Battery Powered Sensor Flush Valve - Z.WC1.S
+Zurn
+
+11B-603.1 General
+Toilet and bathing rooms shall comply with Section 11B-603.
+11B-603.2 Clearances
+Diagram
+Clearances shall comply with Section 11B-603.2.
+UpCodes Diagram (1)
+
+Toilet Room Fixture Clearance Overlaps
+11B-603.2.1 Turning Space
+Diagram
+Turning space complying with Section 11B-304 shall be provided within the room.
+UpCodes Diagrams (2)
+
+Turning Space: 60” Round
+
+T-Shaped Turning Space
+11B-603.2.2 Overlap
+Diagram
+Required clear floor spaces, clearance at fixtures and turning space shall be permitted to overlap.
+UpCodes Diagram (1)
+
+Toilet Room Fixture Clearance Overlaps
+11B-603.2.3 Door Swing
+Doors shall not swing into the clear floor space or clearance required for any fixture. Doors to accessible water closet compartments shall be permitted to encroach into the turning space without limitation. Other than doors to accessible water closet compartments, a door, in any position, shall be permitted to encroach into the turning space by 12 inches (305 mm) maximum.
+Exceptions:
+Reserved.
+Where the toilet room or bathing room is for individual use and a clear floor space complying with Section 11B-305.3 is provided within the room beyond the arc of the door swing, doors shall be permitted to swing into the clear floor space or clearance required for any fixture.
+In residential dwelling units complying with Section 11B-233.3.1.1, doors shall be permitted to swing over the turning space without limitation.
+11B-603.3 Mirrors
+Mirrors located above lavatories or countertops shall be installed with the bottom edge of the reflecting surface 40 inches (1016 mm) maximum above the finish floor or ground. Mirrors not located above lavatories or countertops shall be installed with the bottom edge of the reflecting surface 35 inches (889 mm) maximum above the finish floor or ground.
+11B-603.4 Coat Hooks, Shelves and Medicine Cabinets
+Diagram
+Coat hooks shall be located within one of the reach ranges specified in Section 11B-308. Shelves shall be located 40 inches (1016 mm) minimum and 48 inches (1219 mm) maximum above the finish floor. Medicine cabinets shall be located with a usable shelf no higher than 44 inches (1118 mm) maximum above the finish floor.
+UpCodes Diagram (1)
+
+Mounting Heights: Bathroom Accessories
+Building product (1)
+
+Titanium Wall Mounted Robe Hook
+Watermark Designs
+
+11B-603.5 Accessories
+Diagram
+Where towel or sanitary napkin dispensers, waste receptacles or other accessories are provided in toilet facilities, at least one of each type shall be located on an accessible route. All operable parts, including coin slots, shall be 40 inches (1016 mm) maximum above the finish floor.
+Exception: Baby diaper changing stations are not required to comply with Section 11B-603.5.
+UpCodes Diagram (1)
+Primary
+Towel Dispensers and Hand Dryers: Operable Parts (CA 11B)
+Building products (16)
+
+Advantage AD
+World Dryer
+
+
+Airforce®
+World Dryer
+
+
+HEPA-filtered VERDEdri®
+World Dryer
+
+
+HEPA-filtered VMax® V2
+World Dryer
+
+
+Loft 6" Diameter Wall Mounted Towel Ring
+Watermark Designs
+
+
+Loft Wall Mounted 18" Center-to-Center Towel Bar
+Watermark Designs
+
+
+Loft Wall Mounted 24" Center-to-Center Towel Bar
+Watermark Designs
+
+
+Nova® 1
+World Dryer
+
+
+Nova® 1 Plug-in
+World Dryer
+
+
+SLIMdri®
+World Dryer
+
+
+SMARTdri® Plus Series
+World Dryer
+
+
+Sensor Soap Dispensers
+Hadrian Solutions ULC
+
+
+Titanium Wall Mounted Paper Holder
+Watermark Designs
+
+
+Titanium Wall Mounted Robe Hook
+Watermark Designs
+
+
+eXtremeAir® EXT
+World Dryer
+
+
+eXtremeAir® GXT
+World Dryer
+
+11B-603.6 Guest Room Toilet and Bathing Rooms
+Diagram
+In transient lodging facilities, toilet and bathing rooms within guest rooms that are not required to provide mobility features complying with Section 11B-806.2 shall provide all toilet and bathing fixtures in a location that allows a person using a wheelchair measuring 30 inches by 48 inches (762 mm by 1219 mm) to touch the wheelchair to any lavatory, urinal, water closet, tub, sauna, shower stall and any other similar sanitary installation, if provided.
+UpCodes Diagram (1)
+Primary
+Bathroom in Non-Mobility Guest Rooms
+Building products (3)
+
+Loft 6" Diameter Wall Mounted Towel Ring
+Watermark Designs
+
+
+Loft Wall Mounted 18" Center-to-Center Towel Bar
+Watermark Designs
+
+
+Loft Wall Mounted 24" Center-to-Center Towel Bar
+Watermark Designs
+
+Section 11B-604 Water Closets and Toilet Compartments
+Diagram
+UpCodes Diagrams (2)
+Primary
+Accessible Bathing Facilities (11B)
+
+Single Toilet Room: ADA vs. CA 11B
+Building products (15)
+
+Ceiling Hung Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Ceiling Hung Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Ceiling Hung Solid Plastic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Ceiling Hung Stainless Steel Toilet Partitions​
+Hadrian Solutions ULC
+
+
+EcoVantage 1.28 GPF Wall Mounted One Piece Elongated Toilet with Left Hand Lever - Less Seat - Z5615.258.00.00.00
+Zurn
+
+
+Floor Mounted Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Floor to Ceiling Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Floor to Ceiling Stainless Steel Toilet Partitions
+Hadrian Solutions ULC
+
+
+Headrail Braced Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Headrail Braced Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Headrail Braced Solid Plastic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Stainless Steel Toilet Partitions
+Hadrian Solutions ULC
+
+
+Wall Hung Zurn One Toilet System with 1.1 GPF Battery Powered Sensor Flush Valve - Z.WC1.S
+Zurn
+
+11B-604.1 General
+Water closets and toilet compartments shall comply with Sections 11B-604.2 through 11B-604.8.
+Exception: Water closets and toilet compartments for children's use shall be permitted to comply with Section 11B-604.9.
+11B-604.2 Location
+The water closet shall be positioned with a wall or partition to the rear and to one side. The centerline of the water closet shall be 17 inches (432 mm) minimum to 18 inches (457 mm) maximum from the side wall or partition, except that the water closet shall be 17 inches (432 mm) minimum and 19 inches (483 mm) maximum from the side wall or partition in the ambulatory accessible toilet compartment specified in Section 11B-604.8.2. Water closets shall be arranged for a left-hand or right-hand approach.
+FIGURE 11B-604.2—
+WATER CLOSET LOCATION
+
+11B-604.3 Clearance
+Diagram
+Clearances around water closets and in toilet compartments shall comply with Section 11B-604.3.
+UpCodes Diagram (1)
+
+Toilet Room Fixture Clearance Overlaps
+11B-604.3.1 Size
+Clearance around a water closet shall be 60 inches (1524 mm) minimum measured perpendicular from the side wall and 56 inches (1422 mm) minimum measured perpendicular from the rear wall. A minimum 60 inches (1524 mm) wide and 48 inches (1219 mm) deep maneuvering space shall be provided in front of the water closet.
+Exception: In residential dwelling units complying with Section 11B-233.3.1.1, maneuvering space in front of the water closet shall be a minimum 60 inches (1524 mm) wide and 36 inches (914 mm) deep.
+FIGURE 11B-604.3.1—
+SIZE OF CLEARANCE AT WATER CLOSETS
+
+11B-604.3.2 Overlap
+Diagram
+The required clearance around the water closet shall be permitted to overlap the water closet, associated grab bars, dispensers, sanitary napkin disposal units, coat hooks, shelves, accessible routes, clear floor space and clearances required at other fixtures and the turning space. No other fixtures or obstructions shall be located within the required water closet clearance.
+Exception: In residential dwelling units, a lavatory complying with Section 11B-606 shall be permitted on the rear wall 26 inches (660 mm) minimum from the water closet centerline to allow for the installation of a grab bar where the clearance at the water closet is 66 inches (1676 mm) minimum measured perpendicular from the rear wall.
+FIGURE 11B-604.3.2 (EXCEPTION)—OVERLAP OF WATER CLOSET CLEARANCE IN RESIDENTIAL DWELLING UNITS
+UpCodes Diagram (1)
+Primary
+Toilet Room Fixture Clearance Overlaps
+11B-604.4 Seats
+The seat height of a water closet above the finish floor shall be 17 inches (432 mm) minimum and 19 inches (483 mm) maximum measured to the top of the seat. Seats shall not be sprung to return to a lifted position. Seats shall be 2 inches (51 mm) high maximum.
+Exceptions:
+Reserved.
+In residential dwelling units, the height of water closets shall be permitted to be 15 inches (381 mm) minimum and 19 inches (483 mm) maximum above the finish floor measured to the top of the seat.
+A 3-inch (76 mm) high seat shall be permitted only in alterations where the existing fixture is less than 15 inches (381 mm) high.
+11B-604.5 Grab Bars
+Diagram
+Grab bars for water closets shall comply with Section 11B-609. Grab bars shall be provided on the side wall closest to the water closet and on the rear wall. Where separate grab bars are required on adjacent walls at a common mounting height, an L-shaped grab bar meeting the dimensional requirements of Sections 11B-604.5.1 and 11B-604.5.2 shall be permitted.
+Exceptions:
+Reserved.
+In residential dwelling units, grab bars shall not be required to be installed in toilet or bathrooms provided that reinforcement has been installed in walls and located so as to permit the installation of grab bars complying with Section 11B-604.5.
+In detention or correction facilities, grab bars shall not be required to be installed in housing or holding cells that are specially designed without protrusions for purposes of suicide prevention.
+UpCodes Diagrams (3)
+
+Water Closet Grab Bars
+
+Grab Bar - Recessed Lavatory
+
+Metal Backing Plate at Grab Bar
+11B-604.5.1 Side Wall
+The side wall grab bar shall be 42 inches (1067 mm) long minimum, located 12 inches (305 mm) maximum from the rear wall and extending 54 inches (1372 mm) minimum from the rear wall with the front end positioned 24 inches (610 mm) minimum in front of the water closet.
+FIGURE 11B-604.5.1—SIDE WALL GRAB BAR AT WATER CLOSETS
+11B-604.5.2 Rear Wall
+Diagram
+The rear wall grab bar shall be 36 inches (914 mm) long minimum and extend from the centerline of the water closet 12 inches (305 mm) minimum on one side and 24 inches (610 mm) minimum on the other side.
+Exceptions:
+The rear grab bar shall be permitted to be 24 inches (610 mm) long minimum, centered on the water closet, where wall space does not permit a length of 36 inches (914 mm) minimum due to the location of a recessed fixture adjacent to the water closet.
+Where an administrative authority requires flush controls for flush valves to be located in a position that conflicts with the location of the rear grab bar, then the rear grab bar shall be permitted to be split or shifted to the open side of the toilet area.
+FIGURE 11B-604.5.2—REAR WALL GRAB BAR AT WATER CLOSETS
+UpCodes Diagram (1)
+
+Grab Bar - Recessed Lavatory
+11B-604.6 Flush Controls
+Flush controls shall be hand operated or automatic. Hand operated flush controls shall comply with Section 11B-309 except they shall be located 44 inches (1118 mm) maximum above the floor. Flush controls shall be located on the open side of the water closet except in ambulatory accessible compartments complying with Section 11B-604.8.2.
+Building products (3)
+
+EcoVantage 1.28 GPF Wall Mounted One Piece Elongated Toilet with Left Hand Lever - Less Seat - Z5615.258.00.00.00
+Zurn
+
+
+Top Mount Exposed Sensor Flush Valve for Water Closet With Gear-driven Ceramic Cartridge, Hydropower, AquaVantage® Diaphragm - ZER6000AV-HYD
+Zurn
+
+
+Wall Hung Zurn One Toilet System with 1.1 GPF Battery Powered Sensor Flush Valve - Z.WC1.S
+Zurn
+
+11B-604.7 Dispensers and Disposal Units
+Diagram
+Toilet paper dispensers and sanitary napkin disposal units shall comply with Section 11B-604.7. Combination accessory units are not permitted to encroach into the space required by Section 11B-609.3.
+UpCodes Diagram (1)
+
+Toilet Paper Dispenser: Non-Recessed (CA)
+Building product (1)
+
+Titanium Wall Mounted Paper Holder
+Watermark Designs
+
+11B-604.7.1 Dispensers
+Toilet paper dispensers shall comply with Section 11B-309.4 and shall be 7 inches (178 mm) minimum and 9 inches (229 mm) maximum in front of the water closet measured to the centerline of the dispenser. The outlet of the dispenser shall be below the grab bar, 19 inches (483 mm) minimum above the finish floor and shall not be located behind grab bars. Dispensers shall not be of a type that controls delivery or that does not allow continuous paper flow.
+FIGURE 11B-604.7.1—DISPENSER OUTLET LOCATION
+11B-604.7.2 Disposal Units
+Sanitary napkin disposal units, if provided, shall comply with Section 11B-309.4 and shall be wall mounted and located on the sidewall between the rear wall of the toilet and the toilet paper dispenser, adjacent to the toilet paper dispenser. The disposal unit shall be located below the grab bar with the opening of the disposal unit 19 inches minimum (483 mm) above the finish floor.
+FIGURE 11B-604.7.2—DISPOSAL UNIT LOCATION
+11B-604.8 Toilet Compartments
+Wheelchair accessible toilet compartments shall meet the requirements of Sections 11B-604.8.1 and 11B-604.8.3. Compartments containing more than one plumbing fixture shall comply with Section 11B-603. Ambulatory accessible compartments shall comply with Sections 11B-604.8.2 and 11B-604.8.3.
+Building products (13)
+
+Ceiling Hung Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Ceiling Hung Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Ceiling Hung Solid Plastic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Ceiling Hung Stainless Steel Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Floor Mounted Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Floor to Ceiling Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Floor to Ceiling Stainless Steel Toilet Partitions
+Hadrian Solutions ULC
+
+
+Headrail Braced Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Headrail Braced Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Headrail Braced Solid Plastic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Phenolic Toilet Partitions
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Powder Coated Toilet Partitions​
+Hadrian Solutions ULC
+
+
+Pedestal Mounted Stainless Steel Toilet Partitions
+Hadrian Solutions ULC
+
+11B-604.8.1 Wheelchair Accessible Compartments
+Diagram
+Wheelchair accessible compartments shall comply with Section 11B-604.8.1.
+UpCodes Diagram (1)
+Primary
+Ambulatory Toilet Compartments (11B)
+11B-604.8.1.1 Size
+Diagram
+Wheelchair accessible compartments shall be 60 inches (1524 mm) wide minimum measured perpendicular to the side wall, and 56 inches (1422 mm) deep minimum for wall hung water closets and 59 inches (1499 mm) deep minimum for floor mounted water closets measured perpendicular to the rear wall. Wheelchair accessible compartments shall additionally provide maneuvering space complying with Section 11B-604.8.1.1.1, 11B-604.8.1.1.2 or 11B- 604.8.1.1.3, as applicable. Wheelchair accessible compartments for children's use shall be 60 inches (1524 mm) wide minimum measured perpendicular to the side wall, and 59 inches (1499 mm) deep minimum for wall hung and floor mounted water closets measured perpendicular to the rear wall.
+UpCodes Diagram (1)
+
+Wall Hung Toilet Carrier
+Building product (1)
+
+Universal Lavatory Carrier - Z1231EZ
+Zurn
+
+11B-604.8.1.1.1 Maneuvering Space With In-Swinging Door
+In a wheelchair accessible compartment with an in-swinging door, a minimum 60 inches (1524 mm) wide by 36 inches (914 mm) deep maneuvering space shall be provided in front of the clearance required in Section 11B-604.8.1.1. See Figures 11B-604.8.1.1.2 (b) and 11B-604.8.1.1.3 (b).
+11B-604.8.1.1.2 Maneuvering Space With Side-Opening Door
+In a wheelchair accessible compartment with a door located in the side wall or partition, either in-swinging or out-swinging, a minimum 60 inches (1524 mm) wide and 60 inches (1524 mm) deep maneuvering space shall be provided in front of the water closet. See Figure 11B-604.8.1.1.2.
+FIGURE 11B-604.8.1.1.2—MANEUVERING SPACE WITH SIDE-OPENING DOOR
+11B-604.8.1.1.3 Maneuvering Space With End-Opening Door
+In a wheelchair accessible compartment with a door located in the front wall or partition (facing the water closet), either in-swinging or out-swinging, a minimum 60 inches (1524 mm) wide and 48 inches (1219 mm) deep maneuvering space shall be provided in front of the water closet. See Figure 11B-604.8.1.1.3.
+FIGURE 11B-604.8.1.1.3—MANEUVERING SPACE WITH END-OPENING DOOR
+11B-604.8.1.2 Doors
+Toilet compartment doors, including door hardware, shall comply with Section 11B-404 except that if the approach is from the push side of the compartment door, clearance between the door side of the compartment and any obstruction shall be 48 inches (1219 mm) minimum measured perpendicular to the compartment door in its closed position. Doors shall be located in the front partition or in the side wall or partition farthest from the water closet. Where located in the front partition, the door opening shall be 4 inches (102 mm) maximum from the side wall or partition farthest from the water closet. Where located in the side wall or partition, the door opening shall be farthest from the water closet and shall be 54 inches (1372 mm) minimum from the rear wall. The door shall be self-closing and have a privacy latch. A door pull complying with Section 11B-404.2.7 shall be placed on both sides of the door near the latch. Doors shall not swing into the clear floor space or clearance required for any fixture. Doors may swing into that portion of maneuvering space which does not overlap the clearance required at a water closet.
+Exception: When located at the side of a toilet compartment, the toilet compartment door opening shall provide a clear width of 34 inches (864 mm) minimum.
+FIGURE 11B-604.8.1.2—WHEELCHAIR ACCESSIBLE TOILET COMPARTMENT DOORS
+11B-604.8.1.3 Approach
+Compartments shall be arranged for left-hand or right-hand approach to the water closet.
+11B-604.8.1.4 Toe Clearance
+At least one side partition shall provide a toe clearance of 9 inches (229 mm) minimum above the finish floor and 6 inches (152 mm) deep minimum beyond the compartment-side face of the partition, exclusive of partition support members. Partition components at toe clearances shall be smooth without sharp edges or abrasive surfaces. Compartments for children's use shall provide a toe clearance of 12 inches (305 mm) minimum above the finish floor.
+Exception: Toe clearance at the side partition is not required in a compartment greater than 66 inches (1676 mm) wide.
+FIGURE 11B-604.8.1.4—WHEELCHAIR ACCESSIBLE TOILET COMPARTMENT TOE CLEARANCE
+11B-604.8.1.5 Grab Bars
+Grab bars shall comply with Section 11B-609. A side-wall grab bar complying with Section 11B-604.5.1 shall be provided and shall be located on the wall closest to the water closet. In addition, a rear-wall grab bar complying with Section 11B-604.5.2 shall be provided. Where separate grab bars are required on adjacent walls at a common mounting height, an L-shaped grab bar meeting the dimensional requirements of Sections 11B-604.5.1 and 11B-604.5.2 shall be permitted.
+11B-604.8.2 Ambulatory Accessible Compartments
+Diagram
+Ambulatory accessible compartments shall comply with Section 11B-604.8.2.
+11B-604.8.2—AMBULATORY ACCESSIBLE TOILET COMPARTMENT
+UpCodes Diagram (1)
+Primary
+Ambulatory Toilet Compartments (11B)
+11B-604.8.2.1 Size
+Ambulatory accessible compartments shall have a depth of 60 inches (1524 mm) minimum and a width of 35 inches (889 mm) minimum and 37 inches (940 mm) maximum.
+11B-604.8.2.2 Doors
+Toilet compartment doors, including door hardware, shall comply with Section 11B-404, except that if the approach is to the latch side of the compartment door, clearance between the door side of the compartment and any obstruction shall be 44 inches (1118 mm) minimum. The door shall be self-closing and have a privacy latch. A door pull complying with Section 11B-404.2.7 shall be placed on both sides of the door near the latch. Toilet compartment doors shall not swing into the minimum required compartment area.
+11B-604.8.2.3 Grab Bars
+Grab bars shall comply with Section 11B-609. A side-wall grab bar complying with Section 11B-604.5.1 shall be provided on both sides of the compartment.
+11B-604.8.3 Coat Hooks and Shelves
+Coat hooks shall be located within one of the reach ranges specified in Section 11B-308. Shelves shall be located 40 inches (1016 mm) minimum and 48 inches (1219 mm) maximum above the finish floor.
+Building product (1)
+
+Titanium Wall Mounted Robe Hook
+Watermark Designs
+
+11B-604.9 Water Closets and Toilet Compartments for Children's Use
+Water closets and toilet compartments for children's use shall comply with Section 11B-604.9. When the exception in Section 11B-604.1 is used, the suggested dimensions of Table 11B-604.9 for a single age group shall be applied consistently to the installation of a water closet and all associated components.
+TABLE 11B-604.9—SUGGESTED DIMENSIONS FOR CHILDREN'S USE
+11B-604.9.1 Location
+The water closet shall be located with a wall or partition to the rear and to one side. The centerline of the water closet shall be 12 inches (305 mm) minimum and 18 inches (457 mm) maximum from the side wall or partition, except that the water closet shall be 17 inches (432 mm) minimum and 19 inches (483 mm) maximum from the side wall or partition in the ambulatory accessible toilet compartment specified in Section 11B-604.8.2. Compartments shall be arranged for left-hand or right-hand approach to the water closet.
+11B-604.9.2 Clearance
+Clearance around a water closet shall comply with Section 11B-604.3.
+11B-604.9.3 Height
+The height of water closets shall be 11 inches (279 mm) minimum and 17 inches (432 mm) maximum measured to the top of the seat. Seats shall not be sprung to return to a lifted position.
+11B-604.9.4 Grab Bars
+Grab bars for water closets shall comply with Section 11B-604.5.
+11B-604.9.5 Flush Controls
+Flush controls shall be hand operated or automatic. Hand operated flush controls shall comply with Sections 11B-309.2 and 11B-309.4 and shall be installed 36 inches (914 mm) maximum above the finish floor. Flush controls shall be located on the open side of the water closet except in ambulatory accessible compartments complying with Section 11B-604.8.2.
+11B-604.9.6 Dispensers
+Toilet paper dispensers shall comply with Section 11B-309.4 and shall be 7 inches (178 mm) minimum and 9 inches (229 mm) maximum in front of the water closet measured to the centerline of the dispenser. The outlet of the dispenser shall be 14 inches (356 mm) minimum and 19 inches (483 mm) maximum above the finish floor. There shall be a clearance of 11/ 2 inches (38 mm) minimum below the grab bar. Dispensers shall not be of a type that controls delivery or that does not allow continuous paper flow.
+11B-604.9.7 Toilet Compartments
+Toilet compartments shall comply with Section 11B-604.8.
+Section 11B-605 Urinals
+11B-605.1 General
+Diagram
+Urinals not provided in urinal compartments shall comply with Sections 11B-605.1 through 11B-605.4. Urinals provided in urinal compartments shall comply with Sections 11B-605.1 through 11B-605.5.
+UpCodes Diagram (1)
+
+Urinals and Partitions (CA)
+11B-605.2 Height and Depth
+Urinals shall be the stall-type or the wall-hung type with the rim 17 inches (432 mm) maximum above the finish floor or ground. Urinals shall be 131/2 inches (343 mm) deep minimum measured from the outer face of the urinal rim to the back of the fixture.
+FIGURE 11B-605.2—
+HEIGHT AND DEPTH OF URINALS
+
+11B-605.3 Clear Floor Space
+A clear floor or ground space complying with Section 11B-305 positioned for forward approach shall be provided.
+11B-605.4 Flush Controls
+Flush controls shall be hand operated or automatic. Hand operated flush controls shall comply with Section 11B-309 except that the flush control shall be mounted at a maximum height of 44 inches (1118 mm) above the finish floor. Urinals provided in urinal compartments and with hand operated flush controls shall have the controls located on the open side of the urinal.
+Building products (2)
+
+AquaSense 0.125 GPF EZ Gear-Driven Electronic Wall Mounted Urinal Flushometer - ZER6003AV-ULF-TM
+Zurn
+
+
+Urinal, Zurn One System with 0.125 GPF Top Mount, Battery Powered Sensor Flush Valve - ZUR1STM
+Zurn
+
+11B-605.5 Urinal Compartments
+Wheelchair accessible urinal compartments shall comply with Section 11B-605.5. Compartments containing more than one plumbing fixtureshall comply with Section 11B-603.
+FIGURE 11B-605.5—
+URINAL COMPARTMENT
+
+11B-605.5.1 Urinal Location
+Urinals in compartments shall have the centerline of the urinal located 17 inches (432 mm) minimum to 18 inches (457 mm) maximum from the side wall or partition. Urinals shall be arranged for a left-hand or right-hand approach.
+11B-605.5.2 Maneuvering Clearance
+A minimum 66 inches (1676 mm) wide and 66 inches (1676 mm) deep maneuvering space shall be provided in front of the urinal. A turning space complying with Section 11B-304 shall be provided within the compartment.
+Exception: Where toe clearance complying with Section 11B-605.5.4 is provided, the required maneuveringspace in front of the urinal fixture shall be permitted tobe reduced to 60 inches (1524 mm) minimum wide and60 inches (1524 mm) minimum deep.
+11B-605.5.3 Doors
+Urinal compartment doors, including door hardware, shall comply with Section 11B-404 except that if the approach is from the push side of the compartment door, clearance between the door side of the compartment and any obstruction shall be 48 inches (1219 mm) minimum measured perpendicular to the compartment door in its closed position. Doors shall be located in the front partition or in the side wall or partition farthest from the urinal. Where located in the front partition, the door opening shall be 4 inches (102 mm) maximum from the side wall or partition farthest from the urinal. Where located in the side wall or partition, the door opening shall be 4 inches maximum (102 mm) from the front partition. The urinal compartment door shall be out-swinging, self-closing and have a privacy latch. Door pulls complying with Section 11B-404.2.7 shall be placed on both sides of the door near the latch.
+Exception: When located at the side wall or partition of a urinal compartment, the compartment door opening shall provide a clear width of 34 inches (864 mm) minimum.
+11B-605.5.4 Toe Clearance
+The front partition and at least one side partition shall provide a toe clearance of 9 inches (229 mm) minimum above the finish floor and 6 inches (152 mm) deep minimum beyond the compartment-side face of the partition, exclusive of partition support members. Partition components at toe clearances shall be smooth without sharp edges or abrasive surfaces. Compartments for children's use shall provide a toe clearance of 12 inches (305 mm) minimum above the finish floor.
+Section 11B-606 Lavatories and Sinks
+Diagram
+UpCodes Diagrams (5)
+Primary
+Accessible Bathing Facilities (11B)
+
+Single Toilet Room: ADA vs. CA 11B
+
+Exam, Diagnostic and Treatment Room
+
+Professional Offices of Health Care Providers
+
+Exposed Pipes and Surfaces
+Building products (17)
+
+AquaSense® 4 in. Base Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6915
+Zurn
+
+
+AquaSense® 5-3/8 in. Gooseneck Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6920
+Zurn
+
+
+AquaSense® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6913
+Zurn
+
+
+AquaSense® Wall Mount 5-3/8 in. Gooseneck Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6922
+Zurn
+
+
+Camaya Series® Sensor Faucet with Gear-driven Ceramic Cartridge, Hydropower - ZG6953
+Zurn
+
+
+Cumberland Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6956
+Zurn
+
+
+Fulmer Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6951
+Zurn
+
+
+Radius Deck Mounted Sensor Faucet / Large - TSL.960
+The Splash Lab
+
+
+Radius Deck Mounted Sensor Faucet / Small - TSL.990
+The Splash Lab
+
+
+Radius Sensor Faucet / Large - TSL.882
+The Splash Lab
+
+
+Radius Sensor Faucet / Small - TSL.884
+The Splash Lab
+
+
+Sensor Soap Dispensers
+Hadrian Solutions ULC
+
+
+Serio Series® 4 in. Base Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6955
+Zurn
+
+
+Serio Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6950
+Zurn
+
+
+Straight Spout Faucet / Small - TSL.980
+The Splash Lab
+
+
+The Channel Faucet - TSL.C.050
+The Splash Lab
+
+
+The Ribbon Faucet - TSL.R.020
+The Splash Lab
+
+11B-606.1 General
+Lavatories and sinks shall comply with Section 11B-606.
+Building products (9)
+
+Integrated Plumbing System / Aerofoil - TSL.IPS.AERO
+The Splash Lab
+
+
+Lumashelf Integrated Sink - TSL.LUMA
+The Splash Lab
+
+
+Monolith A Series - TSL.MON.A
+The Splash Lab
+
+
+Monolith B Series - TSL.MON.B
+The Splash Lab
+
+
+Monolith C Series - TSL.MON.C
+The Splash Lab
+
+
+Monolith D Series - TSL.MON.D
+The Splash Lab
+
+
+Nano Plus Sink - TSL.NANO.P
+The Splash Lab
+
+
+Nano Smallest ADA Sink - TSL.NANO
+The Splash Lab
+
+
+The Aerofoil Basin - TSL.AERO
+The Splash Lab
+
+11B-606.2 Clear Floor Space
+Diagram
+A clear floor space complying with Section 11B-305, positioned for a forward approach, and knee and toe clearance complying with Section 11B-306 shall be provided.
+Exceptions:
+A parallel approach complying with Section 11B-305 shall be permitted to a kitchen sink in a space where a cook top or conventional range is not provided and to wet bars.
+Reserved.
+In residential dwelling units, cabinetry shall be permitted under lavatories and kitchen sinks provided that all of the following conditions are met:
+the cabinetry can be removed without removal or replacement of the fixture;
+the finish floor extends under the cabinetry; and
+the walls behind and surrounding the cabinetry are finished.
+A knee clearance of 24 inches (610 mm) minimum above the finish floor or ground shall be permitted at lavatories and sinks used primarily by children 6 through 12 years where the rim or counter surface is 31 inches (787 mm) maximum above the finish floor or ground.
+A parallel approach complying with Section 11B-305 shall be permitted to lavatories and sinks used primarily by children 5 years and younger.
+The dip of the overflow shall not be considered in determining knee and toe clearances.
+No more than one bowl of a multibowl sink shall be required to provide knee and toe clearance complying with Section 11B-306.
+UpCodes Diagrams (2)
+Primary
+Lavatory Clearances (ADA)
+
+Toilet Room Fixture Clearance Overlaps
+11B-606.3 Height
+Lavatories and sinks shall be installed with the front of the higher of the rim or counter surface 34 inches (864 mm) maximum above the finish floor or ground.
+Exceptions:
+Reserved.
+In residential dwelling unit kitchens, sinks that are adjustable to variable heights, 29 inches (737 mm) minimum and 36 inches (914 mm) maximum, shall be permitted where rough-in plumbing permits connections of supply and drain pipes for sinks mounted at the height of 29 inches (737 mm).
+11B-606.4 Faucets
+Controls for faucets shall comply with Section 11B-309. Hand-operated metering faucets shall remain open for 10 seconds minimum.
+Building products (21)
+
+Anika Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+
+AquaSense® 4 in. Base Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6915
+Zurn
+
+
+AquaSense® 5-3/8 in. Gooseneck Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6920
+Zurn
+
+
+AquaSense® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6913
+Zurn
+
+
+AquaSense® Wall Mount 5-3/8 in. Gooseneck Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6922
+Zurn
+
+
+Camaya Series® Sensor Faucet with Gear-driven Ceramic Cartridge, Hydropower - ZG6953
+Zurn
+
+
+Cumberland Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6956
+Zurn
+
+
+Fulmer Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6951
+Zurn
+
+
+H-Line 3-Hole Deck Mounted Widespread Lavatory Set
+Watermark Designs
+
+
+H-Line Low Gooseneck Kitchen Faucet With Pull Down Spray
+Watermark Designs
+
+
+Loft Deck Mounted 3-Hole Lavatory Set
+Watermark Designs
+
+
+Radius Deck Mounted Sensor Faucet / Large - TSL.960
+The Splash Lab
+
+
+Radius Deck Mounted Sensor Faucet / Small - TSL.990
+The Splash Lab
+
+
+Radius Sensor Faucet / Large - TSL.882
+The Splash Lab
+
+
+Radius Sensor Faucet / Small - TSL.884
+The Splash Lab
+
+
+Serio Series® 4 in. Base Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6955
+Zurn
+
+
+Serio Series® Sensor Faucet With Gear-driven Ceramic Cartridge - ZG6950
+Zurn
+
+
+Straight Spout Faucet / Small - TSL.980
+The Splash Lab
+
+
+Stratford 1 Hole Gooseneck Kitchen Faucet With Pull Down Spray
+Watermark Designs
+
+
+The Channel Faucet - TSL.C.050
+The Splash Lab
+
+
+The Ribbon Faucet - TSL.R.020
+The Splash Lab
+
+11B-606.5 Exposed Pipes and Surfaces
+Diagram
+Water supply and drain pipes under lavatories and sinks shall be insulated or otherwise configured to protect against contact. There shall be no sharp or abrasive surfaces under lavatories and sinks.
+UpCodes Diagram (1)
+Primary
+Exposed Pipes and Surfaces
+11B-606.6 Adjacent Side Wall or Partition
+Lavatories, when located adjacent to a side wall or partition, shall be a minimum of 18 inches (457 mm) to the centerline of the fixture.
+11B-606.7 Sink Depth
+Where a forward approach is required at a sink, knee and toe clearance shall be provided in compliance with Section 11B-306.

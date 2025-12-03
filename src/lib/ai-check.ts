@@ -1,6 +1,7 @@
 import OpenAI from 'openai';
 import { ref, listAll, getBytes } from 'firebase/storage';
 import { storage } from './firebase';
+import { findRelevantCodeSections } from './vector-search';
 
 export interface Conflict {
   id: string;
@@ -59,7 +60,7 @@ async function convertPdfToImage(file: File): Promise<string> {
 }
 
 // Helper to extract text from a PDF file (ArrayBuffer)
-async function extractTextFromPdf(data: ArrayBuffer, keywords: string[], maxChars: number = 20000): Promise<string> {
+async function extractTextFromPdf(data: ArrayBuffer, keywords: string[], maxChars: number = 20000, returnAll: boolean = false): Promise<string> {
   try {
     // Dynamic import to avoid SSR issues with canvas/DOM
     const pdfjsLib = await import('pdfjs-dist');
@@ -84,6 +85,12 @@ async function extractTextFromPdf(data: ArrayBuffer, keywords: string[], maxChar
       const textContent = await page.getTextContent();
       const pageText = textContent.items.map((item: any) => item.str).join(' ');
       
+      if (returnAll) {
+        relevantText += `--- Page ${i} ---\n${pageText}\n`;
+        totalChars += pageText.length;
+        continue;
+      }
+
       // Simple keyword matching
       const lowerPageText = pageText.toLowerCase();
       const hasKeyword = keywords.some(kw => lowerPageText.includes(kw.toLowerCase()));
@@ -263,16 +270,61 @@ export async function checkBuildingPlan(
          jurisdictionContext += `\n\n(Error reading selected document. Using general knowledge.)`;
        }
 
-    } else if (jurisdiction) {
-      console.log("Fetching jurisdiction documents...");
-      const stateDocs = jurisdiction.state ? await fetchDocumentsFromPath(`knowledge-base/State/${jurisdiction.state}`, keywords) : "";
-      const countyDocs = jurisdiction.county ? await fetchDocumentsFromPath(`knowledge-base/County/${jurisdiction.county}`, keywords) : "";
-      const cityDocs = jurisdiction.city ? await fetchDocumentsFromPath(`knowledge-base/City/${jurisdiction.city}`, keywords) : "";
+    } else {
+      // Use Vector Search to find relevant code sections
+      console.log("Using Vector Search for relevant codes...");
       
-      if (stateDocs || countyDocs || cityDocs) {
-        jurisdictionContext += `\n\nREFERENCE BUILDING CODES:\n${stateDocs}\n${countyDocs}\n${cityDocs}`;
-      } else {
-        jurisdictionContext += `\n\n(No specific code documents found in Knowledge Base. Using general knowledge.)`;
+      try {
+        // Extract text from the plan PDF to use as query
+        let planText = "";
+        if (file.type === 'application/pdf') {
+          const arrayBuffer = await file.arrayBuffer();
+          // Extract text without keyword filtering to get full context for embedding
+          planText = await extractTextFromPdf(arrayBuffer, [], 5000, true);
+        } else {
+          // If it's an image, we don't have text. 
+          // We could use OCR, but for now we'll rely on the building type and location as query
+          planText = `${buildingType} building in ${location}. Common code violations.`;
+        }
+
+        // Chunk the plan text if it's long (simple chunking)
+        const chunks = planText.match(/.{1,1000}/g) || [planText];
+        const relevantDocs = new Set<string>();
+        
+        // Search for each chunk (limit to first 5 chunks to save time)
+        for (const chunk of chunks.slice(0, 5)) {
+          const results = await findRelevantCodeSections(chunk, 3, jurisdiction);
+          results.forEach(r => relevantDocs.add(`[Source: ${r.source}]\n${r.text}`));
+        }
+        
+        if (relevantDocs.size > 0) {
+           jurisdictionContext += `\n\nREFERENCE BUILDING CODES (AI Selected):\n${Array.from(relevantDocs).join('\n\n')}`;
+        } else {
+           // Fallback to old method if vector search returns nothing (e.g. KB not loaded)
+           console.log("Vector search returned no results, falling back to file fetch.");
+           if (jurisdiction) {
+              const stateDocs = jurisdiction.state ? await fetchDocumentsFromPath(`knowledge-base/State/${jurisdiction.state}`, keywords) : "";
+              const countyDocs = jurisdiction.county ? await fetchDocumentsFromPath(`knowledge-base/County/${jurisdiction.county}`, keywords) : "";
+              const cityDocs = jurisdiction.city ? await fetchDocumentsFromPath(`knowledge-base/City/${jurisdiction.city}`, keywords) : "";
+              
+              if (stateDocs || countyDocs || cityDocs) {
+                jurisdictionContext += `\n\nREFERENCE BUILDING CODES:\n${stateDocs}\n${countyDocs}\n${cityDocs}`;
+              }
+           }
+        }
+
+      } catch (error) {
+        console.error("Vector search failed:", error);
+        // Fallback
+         if (jurisdiction) {
+            const stateDocs = jurisdiction.state ? await fetchDocumentsFromPath(`knowledge-base/State/${jurisdiction.state}`, keywords) : "";
+            const countyDocs = jurisdiction.county ? await fetchDocumentsFromPath(`knowledge-base/County/${jurisdiction.county}`, keywords) : "";
+            const cityDocs = jurisdiction.city ? await fetchDocumentsFromPath(`knowledge-base/City/${jurisdiction.city}`, keywords) : "";
+            
+            if (stateDocs || countyDocs || cityDocs) {
+              jurisdictionContext += `\n\nREFERENCE BUILDING CODES:\n${stateDocs}\n${countyDocs}\n${cityDocs}`;
+            }
+         }
       }
     }
 

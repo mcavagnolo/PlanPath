@@ -1,0 +1,492 @@
+
+Chapter 21A Masonry
+CALIFORNIA BUILDING CODE — MATRIX ADOPTION TABLE
+CHAPTER 21A — MASONRY
+(Matrix Adoption Tables are nonregulatory, intended only as an aid to the code user.
+See Chapter 1 for state agency authority and building applications.)
+The state agency does not adopt sections identified with the following symbol: †
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+User notes:
+About this chapter: Chapter 21A provides comprehensive and practical requirements for masonry construction. Chapter 21A is applicable to structures regulated by the Division of the State Architect-Structural Safety—including public elementary and secondary schools, community colleges, and state-owned or state-leased essential services buildings (applications listed in Sections 1.9.2.1 [DSA-SS] and 1.9.2.2 [DSA-SS/CC])—and by the Department of Health Care Access and Information/Office of Statewide Hospital Planning and Development—including hospitals and correctional treatment centers (applications listed in Sections 1.10.1 [OSHPD 1] and 1.10.4 [OSHPD 4]).
+Section 2101A General
+2101A.1 Scope
+This chapter shall govern the materials, design, construction and quality of masonry.
+2101A.1.1 Application
+The scope of application of Chapter 21A is as follows:
+Structures regulated by the Division of the State Architect-Structural Safety (DSA-SS), which include those applications listed in Section 1.9.2.1. These applications include public elementary and secondary schools, community colleges and state-owned or state-leased essential services buildings.
+Applications listed in Sections 1.10.1 and 1.10.4 regulated by the Department of Health Care Access and Information/Office of Statewide Hospital Planning and Development (OSHPD). These applications include hospitals and correctional treatment centers.
+2101A.1.2 Amendments in This Chapter
+DSA-SS and OSHPD 1 & 4 adopt this chapter and all amendments.
+Exception: Amendments adopted by only one agency appear in this chapter preceded with the appropriate acronym of the adopting agency, as follows:
+Division of the State Architect-Structural Safety:
+[DSA-SS] For applications listed in Section 1.9.2.1.
+Office of Statewide Hospital Planning and Development:
+[OSHPD 1] - For applications listed in Section 1.10.1.
+[OSHPD 4] - For applications listed in Section 1.10.4.
+2101A.1.3 Prohibition
+The following design methods, systems and materials in TMS 402/602 are not permitted by DSA-SS and OSHPD:
+Unreinforced masonry.
+Autoclaved aerated concrete (AAC) masonry.
+Empirical design of masonry.
+Adobe construction.
+Ordinary reinforced masonry shear walls.
+Intermediate reinforced masonry shear walls.
+Prestressed masonry shear walls.
+Direct design of masonry.
+Design of masonry infill.
+Prescriptive design of masonry partition walls.
+Limit design method.
+Glass fiber reinforced polymer (GFRP) reinforced masonry.
+2101A.2 Design Methods
+Masonry shall comply with the provisions of TMS 402 or TMS 404 as well as applicable requirements of this chapter.
+2101A.2.1 Masonry Veneer
+Masonry veneer shall comply with the provisions of Chapter 14.
+2101A.3 Special Inspection
+The special inspection of masonry shall be as defined in Chapter 17A, or an itemized testing and inspection program shall be provided that meets or exceeds the requirements of Chapter 17A.
+Section 2102A Notations
+2102A.1 General
+The following notations are used in the chapter:
+NOTATIONS.
+Section 2103A Masonry Construction Materials
+2103A.1 Masonry Units
+Concrete masonry units, clay or shale masonry units, stone masonry units, glass unit masonry shall comply with Article 2.3 of TMS 602. Architectural cast stone shall conform to TMS 504. Architectural cast stone construction shall be considered as an alternative system.
+Exception: Structural clay tile for nonstructural use in fireproofing of structural members and in wall furring shall not be required to meet the compressive strength specifications. The fire-resistance rating shall be determined in accordance with ASTM E119 or UL 263 and shall comply with the requirements of Table 705.5.
+2103A.1.1 Second-Hand Units
+Second-hand masonry units shall not be reused unless they conform to the requirements of new units. The units shall be of whole, sound materials and free from cracks and other defects that will interfere with proper laying or use. Old mortar shall be cleaned from the unit before reuse.
+2103A.2 Mortar
+Mortar for masonry construction shall comply with Section 2103A.2.1, 2103A.2.2, 2103A.2.3 or 2103A.2.4.
+2103A.2.1 Masonry Mortar
+Mortar for use in masonry construction shall conform to Articles 2.1 and 2.6 A of TMS 602.
+2103A.2.2 Surface-Bonding Mortar
+Surface-bonding mortar shall comply with ASTM C887. Surface bonding of concrete masonry units shall comply with ASTM C946.
+2103A.2.3 Mortars for Ceramic Wall and Floor Tile
+Portland cement mortars for installing ceramic wall and floor tile shall comply with ANSI A108.1A and ANSI A108.1B and be of the compositions indicated in Table 2103A.2.3.
+TABLE 2103A.2.3—CERAMIC TILE MORTAR COMPOSITIONS
+2103A.2.3.1 Dry-Set Portland Cement Mortars
+Premixed prepared Portland cement mortars, which require only the addition of water and are used in the installation of ceramic tile, shall comply with ANSI A118.1. The shear bond strength for tile set in such mortar shall be as required in accordance with ANSI A118.1. Tile set in dry-set Portland cement mortar shall be installed in accordance with ANSI A108.5.
+2103A.2.3.2 Latex-Modified Portland Cement Mortar
+Latex-modified Portland cement thin-set mortars in which latex is added to dry-set mortar as a replacement for all or part of the gauging water that are used for the installation of ceramic tile shall comply with ANSI A118.4. Tile set in latex-modified Portland cement shall be installed in accordance with ANSI A108.5.
+2103A.2.3.3 Epoxy Mortar
+Ceramic tile set and grouted with chemical-resistant epoxy shall comply with ANSI A118.3. Tile set and grouted with epoxy shall be installed in accordance with ANSI A108.6.
+2103A.2.3.4 Furan Mortar and Grout
+Chemical-resistant furan mortar and grout that are used to install ceramic tile shall comply with ANSI A118.5. Tile set and grouted with furan shall be installed in accordance with ANSI A108.8.
+2103A.2.3.5 Modified Epoxy-Emulsion Mortar and Grout
+Modified epoxy-emulsion mortar and grout that are used to install ceramic tile shall comply with ANSI A118.8. Tile set and grouted with modified epoxy-emulsion mortar and grout shall be installed in accordance with ANSI A108.9.
+2103A.2.3.6 Organic Adhesives
+Water-resistant organic adhesives used for the installation of ceramic tile shall comply with ANSI A136.1. The shear bond strength after water immersion shall be not less than 40 psi (275 kPa) for Type I adhesive and not less than 20 psi (138 kPa) for Type II adhesive when tested in accordance with ANSI A136.1. Tile set in organic adhesives shall be installed in accordance with ANSI A108.4.
+2103A.2.3.7 Portland Cement Grouts
+Portland cement grouts used for the installation of ceramic tile shall comply with ANSI A118.6. Portland cement grouts for tile work shall be installed in accordance with ANSI A108.10.
+2103A.2.4 Mortar for Adhered Masonry Veneer
+Mortar for use with adhered masonry veneer shall conform to Section 13.3 of TMS 402.
+2103A.3 Grout
+Grout shall comply with Article 2.2 of TMS 602.
+2103A.3.1 Aggregate
+Coarse grout shall be used in grout spaces between wythes of 2 inches (50.8 mm) or more in width as determined in accordance with TMS 602 Table 7, footnote 3, and in all grouted cells of hollow unit masonry construction.
+2103A.4 Metal Reinforcement and Accessories
+Metal reinforcement and accessories shall conform to Article 2.4 of TMS 602. Where unidentified reinforcement, or bar reinforcement without mill certification, is approved for use, not less than three tension and three bending tests shall be made on representative specimens of the reinforcement from each shipment and grade of reinforcing steel proposed for use in the work. Alternatively, the frequency of sampling for unidentifiable reinforcing bars specified in Section 1910.2 can be used.
+2103A.5 Air Entrainment
+Air-entraining materials or air-entraining admixtures shall not be used in grout.
+2103A.6 Specified Compressive Strength of Masonry and Grout
+Replace TMS 402 Table 4.3.1 by the following:
+TABLE 4.3.1—SPECIFIED COMPRESSIVE STRENGTH REQUIREMENTS
+Section 2104A Construction
+2104A.1 Masonry Construction
+Masonry construction shall comply with the requirements of Sections 2104A.1.1 through 2104A.1.3 and with the requirements of either TMS 602 or TMS 604.
+2104A.1.1 Support on Wood
+Masonry shall not be supported on wood girders or other forms of wood construction except as permitted in Section 2304A.13.
+2104A.1.2 Molded Cornices
+Unless structural support and anchorage are provided to resist the overturning moment, the center of gravity of projecting masonry or molded cornices shall lie within the middle one-third of the supporting wall. Terra cotta and metal cornices shall be provided with a structural frame of approved noncombustible material anchored in an approved manner.
+2104A.1.3 Reinforced Grouted Masonry
+2104A.1.3.1 [DSA-SS] TMS 602, Article 3.2 F Cleanouts
+Replace TMS 602, Article 3.2 F with the following:
+3.2 F. Cleanouts - Provide cleanouts in the bottom course of masonry for each grout pour when the grout pour height exceeds the height limits given in Section 2104A.1.3.5 Item 3.
+Cleanout openings in hollow unit masonry shall be provided in every cell at the bottom of each pour of grout. Alternatively, if the course at the bottom of the pour is constructed entirely of inverted double open-end bond beam units, cleanout openings need only be provided for access to every reinforced cell at the bottom of each pour of grout.
+Cleanouts in multi-wythe masonry shall be provided for each pour by leaving out every other unit in the bottom wythe of the section being poured or by cleanout openings in the foundation.
+The foundation or other horizontal construction joints at the cleanouts shall be cleaned of all loose material and mortar droppings before each pour. The cleanouts shall be sealed after inspection and before grouting.
+2104A.1.3.2 TMS 602, Article 3.3 B Placing Mortar and Units
+Modify TMS 602, Article 3.3 B.2.c as follows:
+c.  Remove masonry protrusions extending greater than 1/4 inch (6.4 mm) into cells or cavities to be grouted.
+2104A.1.3.3 TMS 602, Article 3.4 B Reinforcement
+Modify TMS 602, Article 3.4 B.1 through Article 3.4 B.3 as follows:
+Support reinforcement to prevent displacement caused by construction loads or by placement of grout or mortar. Reinforcement and embedded items shall be clean, properly positioned and securely anchored against moving prior to grouting.
+Completely embed reinforcing bars and embedded items in grout in accordance with Article 3.5.
+Maintain clear distance between reinforcing bars and the interior of masonry unit or formed surface of at least 1/2 inch(12.7 mm) and a minimum of one bar diameter, except where cross webs of hollow units are used as supports for horizontal reinforcement.
+2104A.1.3.4 TMS 602, Article 3.4 E Anchor Bolts
+Replace TMS 602, Article 3.4 E.3 and add Articles 3.4 E.5 and 3.4 E.6 as follows:
+Anchor bolts in the wythe or face shells of hollow masonry units shall be positioned to maintain a minimum of 1/2 inch (12.7 mm) of grout between the bolt circumference and the wythe or the face shell. For the portion of the bolt that is within the grouted cell, maintain a clear distance between the bolt and the face of masonry unit and between the head of the bolt and the formed surface of grout of at least 1/4 inch (6.4 mm) when using fine grout and at least 1/2 inch (12.7 mm) when using coarse grout. Bolts shall be solidly embedded in grout.
+Bent bar anchor bolts shall not be allowed. The maximum size anchor shall be 1/2-inch (12.7 mm) diameter for 6-inch (152 mm) nominal masonry, 3/4-inch (19.1 mm) diameter for 8-inch (203 mm) nominal masonry, 7/8-inch (22 mm) diameter for 10-inch (254 mm) nominal masonry, and 1-inch (25.4 mm) diameter for 12-inch (305 mm) nominal masonry.
+Bolts shall be accurately set with templates or by approved equivalent means and held in place to prevent dislocation during grouting.
+2104A.1.3.5 [DSA-SS] TMS 602, Article 3.5 C Grout Pour Height
+Replace TMS 602, Article 3.5 C and Table 7 as follows:
+Do not exceed the grout pour height given in Table 7. Grout pours not terminated at the top of constructed masonry shall comply with TMS 602, Articles 3.5 C.3.a through 3.5 C.3.c.
+The top of the grout pour shall be in the top course of the constructed masonry. Grout pours not terminated within the top course of the constructed masonry shall comply with TMS 602, Articles 3.5 C.3.a through 3.5 C.3.c.
+Grout pours in excess of 4 feet (1219 mm) or 5 feet 4 inches (1651 mm) for 10-inch (254 mm) nominal or wider for hollow unit masonry shall be subject to approval of the enforcement agency and the following:
+Grouting shall be done in a continuous pour in lifts not exceeding the requirements of TMS 602, Article 3.5 D.
+The grouting of any section of wall shall be completed in one day with no interruptions greater than one hour.
+Cleanout openings shall be provided at the bottom of each pour of grout.
+TABLE 7—GROUT SPACE REQUIREMENTS
+Coarse grout is defined in ASTM C476.
+For grouting between masonry wythes.
+Minimum clear width of grout space and minimum clear grout space dimension are the net dimension of the space determined by subtracting masonry protrusions and the diameters of horizontal reinforcement from the as-built cross section of the grout space.
+Maximum pour height can be increased to 5.33 feet for 10-inch nominal or wider hollow unit masonry.
+Maximum pour height can be increased to 16 feet for hollow unit masonry walls with a nominal thickness of 12 inches or more and minimum clear grout space dimensions of 3 in. x 4 in. (76.2 mm x 102 mm).
+2104A.1.3.6 [DSA-SS] TMS 602, Article 3.5 D Grout Lift Height
+Modify TMS 602, Article 3.5 D as follows:
+Grout lift height shall not exceed 4 feet (1219 mm).
+Exception: The 4 feet (1219 mm) maximum lift height may be increased to 5 feet 4 inches (1.63 m) for 10-inch (254 mm) nominal and larger hollow unit masonry.
+2104A.1.3.7 Reserved
+2104A.1.3.8 TMS 602, Article 3.5 F.1 Grout Key
+Replace TMS 602, Article 3.5 F.1 as follows:
+Between grout pours or where grouting has been stopped more than an hour, a horizontal construction joint shall be formed by terminating grout a minimum of 11/2 inches (38.1 mm) and a maximum of one-half the masonry unit height below a mortar joint, except at the top of the wall. Where bond beams occur, the grout pour shall be terminated a minimum of 1/2 inch (12.7 mm) below the mortar joint. Horizontal reinforcement shall be placed in bond beam units with a minimum grout cover of 1 inch (25.4 mm) above reinforcing steel for each grout pour.
+2104A.1.3.9 TMS 602, Article 3.5 Grout Placement
+Add the following to TMS 602, Article 3.5:
+3.5 I. Additional grouting requirements:
+Place grout by pumping or an approved alternate method prior to initial set and loss of plasticity.
+Place grout so that all spaces to be grouted do not contain voids.
+Grout shall not be handled nor pumped utilizing aluminum equipment unless it can be demonstrated with the materials and equipment to be used that there will be no deleterious effect on the strength of the grout.
+2104A.1.3.10 Reinforced Grouted Multi-Wythe Masonry
+2104A.1.3.10.1 General
+Reinforced grouted multi-wythe masonry is that form of composite construction made with clay or shale brick or made with solid concrete building brick in which interior spaces of masonry are filled by pouring grout around reinforcement therein as the work progresses.
+2104A.1.3.10.2 TMS 402, Section 5.1.3.2 Composite Action
+Replace TMS 402, Section 5.1.3.2.1 by the following:
+5.1.3.2.1 Multiwythe masonry designed for composite action shall have wythes connected by collar joints and wall ties.
+2104A.1.3.10.3 TMS 602, Article 3.3 B.4 Placing Mortar and Units — Solid Units
+Add the following to TMS 602, Article 3.3 B.4:
+Toothing of masonry walls is prohibited. Racking is to be held to a minimum.
+2104A.1.3.10.4 TMS 602, Article 3.4 C.2 Wall Ties
+Replace TMS 602, Article 3.4 C.2 as follows:
+The two wythes shall be bonded together with wall ties. Ties shall not be less than No. 9 (W1.7) wire in the form of rectangles 4 inches (102 mm) wide and 2 inches (50.8 mm) in length less than the overall wall thickness. Kinks, water drips or deformations shall not be permitted in the ties. One wythe of the wall shall be built up not more than 16 inches (406 mm)ahead of the other wythe. Ties shall be laid not to exceed 24 inches (610 mm) on center horizontally and 16 inches (406 mm) on center vertically for running bond, and not more than 24 inches (610 mm) on center horizontally and 12 inches (305 mm) on center vertically for other than running bond.
+2104A.1.3.10.5 TMS 602, Article 3.5 B Confinement
+Add the following to TMS 602, Article 3.5 B:
+Construct vertical grout barriers or dams of solid masonry across the grout space the entire height of the wall to control horizontal grout flow. Space grout barriers not more than 30 feet (9.14 m) apart.
+2104A.1.3.11 Reinforced Hollow Unit Masonry
+2104A.1.3.11.1 TMS 602, Article 2.3A & 2.3 Bmasonry Unit Materials
+Add the following to TMS 602, Articles 2.3 A and 2.3 B:
+In reinforced hollow unit masonry, place horizontal reinforcement in bond beam units. The depth of the bond beam channel below the top of the unit shall be 11/2 inches (38.1 mm) minimum and the width shall be 3 inches (76.2 mm) minimum.
+2104A.1.3.11.2 TMS 602, Article 3.5 B Confinement
+Add the following to TMS 602, Article 3.5 B:
+All cells shall be solidly filled with grout in reinforced hollow unit masonry.
+Exception: Reinforced hollow unit masonry laid in running bond used for freestanding site walls or interior nonbearing non-shear wall partitions may be grouted only in cells containing vertical and horizontal reinforcement.
+[DSA-SS] Vertical cells to be filled shall have vertical alignment sufficient to maintain a clear grout space dimension of not less than that given in Section 2104A.1.3.5, Table 7.
+Section 2105A Quality Assurance
+2105A.1 General
+A quality assurance program shall be used to ensure that the constructed masonry is in compliance with the approved construction documents.
+The quality assurance program shall comply with the inspection and testing requirements of Chapter 17A and TMS 602 and Sections 2105A.2 through 2105A.4.
+2105A.2 Compressive Strength, f'm
+Testing of masonry shall be provided in accordance with TMS 602, Article 1.4 B.
+Exception: Where values of f 'm greater than 2000 psi (13.79 MPa) are used in the design of reinforced grouted multi-wythe masonry and reinforced hollow unit masonry, they shall be based on prism test results in accordance with TMS 602, Article 1.4 B.3 submitted by the architect or engineer to the enforcement agency which demonstrate the ability of the proposed construction to meet prescribed performance criteria for strength.
+The architect or structural engineer shall establish a method of quality control of the masonry construction acceptable to the enforcement agency which shall be described in the contract documents. Verification of compliance with the requirements for the specified strength of masonry during construction shall be provided using prism test method in accordance with TMS 602, Article 1.4 B.3. Verification of compliance with the specified compressive strength prior to the start of construction shall be obtained by using the prism test method in accordance with TMS 602, Article 1.4 B.3.
+2105A.3 Mortar and Grout Tests. TMS 602, Article 1.4 B Compressive Strength Determination
+Modify TMS 602, Article 1.4 B as follows by adding:
+Additional testing requirements:
+At the beginning of all masonry work, at least one test sample of the mortar shall be taken on 3 successive working days and at least at 1-week intervals thereafter. Where mortar is based on a proportion specification, mortar shall be sampled and tested during construction in accordance with ASTM C780, including Annex 4, to verify the proportions specified in ASTM C270, Table 2. Where mortar is based on a property specification, mortar shall be laboratory prepared and tested prior to construction in accordance with ASTM C780 to verify the properties specified in ASTM C270, Table 1 and field sampled and tested during construction in accordance with ASTM C780 to verify the proportions with the laboratory tests. [DSA-SS] Mortar sampling and testing is not required for preblended mortars in conformance with ASTM C1714 and must be accompanied by corresponding certificates of compliance with current test reports, material certificates and delivery ticket. Documents shall be provided to the project inspector, DSA certified masonry inspector and laboratory of record. [OSHPD 1 & 4] Mortar sampling and testing is not required for preblended mortars in conformance with ASTM C1714 with a material certificate.
+Samples of grout shall be taken for each mix design, each day grout is placed, and not less than every 5,000 square feet of masonry wall area. They shall meet the minimum strength requirement given in ASTM C476/TMS 602, Section 2.2, or greater as specified.
+Additional samples shall be taken whenever any change in materials or job conditions occur, as determined by the building official.
+Test specimens for mortar and grout shall be made as set forth in ASTM C780/C1586 and ASTM C1019. When the prism test method is used in accordance with TMS 602, Article 1.4 B.3 during construction, the tests in this section are not required.
+Exception: For nonbearing non-shear masonry walls not exceeding total wall height of 12 feet above top of foundation, mortar tests shall be permitted to be limited to those at the beginning of masonry work for each mix design.
+2105A.4 Masonry Core Testing
+Two cores shall be taken from each building for each 5,000 square feet (465 m2) of the masonry wall area or fraction thereof. The approved agency shall perform or observe the coring of the masonry walls and sample locations shall be subject to approval of the registered design professional.
+Core samples shall comply with the following:
+Cored no sooner than 7 days after grouting of the selected area;
+Be a minimum of 33/4 inches in nominal diameter; and
+Sampled in such a manner as to exclude any masonry unit webs, mortar joint, or reinforcing steel. If all cells contain reinforcement, alternate core locations or means to detect void or delamination shall be selected by the registered design professional and approved by the building official.
+Visual examination of all cores shall be made by an approved agency and the condition of the cores reported as required by the California Administrative Code. Shear test both joints between the grout core and the outside wythes or face shell of the masonry 28 days after grouting of the sample area using a shear test apparatus acceptable to the enforcement agency. Core samples shall not be soaked before testing. Core samples to be tested shall be stored in sealed plastic bags or non-absorbent containers immediately after coring and for at least 5 days prior to testing. The average unit shear value for each pair of cores (4 shear tests) from each 5,000 square feet of wall area (or less) on the cross section of core shall not be less than 2.5 √f 'm psi.
+All cores shall be submitted to an approved agency for examination, including core specimens where an outside wythe or face shell separates from the grout core prior to shear testing, including during the coring operation. [DSA-SS] At this condition, a shear value of zero shall be assigned to the separated joint interface and the average unit shear value shall include this result.
+The approved agency shall report the location where each core was taken, the findings of their visual examination of each core, identify which cores were selected for shear testing, and the results of the shear tests. Additional cores shall be permitted to be taken at the direction of the registered design professional and with approval of the enforcement agency.
+Exceptions:
+Core sampling and testing is not required for non-bearing nonshear masonry walls, not exceeding a total wall height of 12 feet above top of foundation, built with single-wythe hollow unit concrete masonry that attaches opposite face shells using webs cast as single unit, when designed using an f'm not exceeding 2,000 psi (13.79 MPa).
+An infrared thermographic survey or other nondestructive test procedures, shall be permitted to be approved as an alternative system to detect voids or delamination in grouted masonry in lieu of core sampling and testing. [OSHPD 1 & 4] Infrared thermographic surveys or other nondestructive test procedures shall also include core tests with a minimum of two cores taken from each building for each 10,000 square feet (930 m2) of the wall.
+Section 2106A Seismic Design
+2106A.1 Seismic Design Requirements for Masonry
+Masonry structures and components shall comply with the requirements in Chapter 7 of TMS 402 depending on the structure's seismic design category.
+2106A.1.1 TMS 402, Section 5.4.1.4
+Replace TMS 402, Section 5.4.1.4 Items (a), (b), (d) & (e) by the following:
+(a) Vertical reinforcement shall be enclosed by lateral ties at least 3/8 in. (9.5 mm) in diameter.
+(b) Vertical spacing of lateral ties, over the full height of the column, shall not exceed 8 longitudinal bar diameters, 24 lateral tie bar diameters, 8 inches (203 mm), or one-half the least cross-sectional dimension of the member.
+(d) Lateral ties shall be embedded in grout.
+(e) Lateral ties shall be located vertically not more than one-half lateral tie spacing above the top of the footing or slab in any story, and shall be spaced not more than one-half a lateral tie spacing nor 2 inches (51 mm) below the lowest horizontal reinforcement in beam, girder, slab, or drop panel above. The top tie shall be within 2 inches (51 mm) of the top of the column.
+2106A.1.2 TMS 402, Chapter 5
+Add TMS 402, Section 5.7 as follows:
+5.7 — Lateral Support of Members
+5.7.1 — Lateral support of masonry may be provided by cross walls, columns, pilasters, counterforts or buttresses where spanning horizontally, or by floors, beams, girts or roofs where spanning vertically. Where walls are supported laterally by vertical elements, the stiffness of each vertical element shall exceed that of the tributary area of the wall.
+2106A.1.3 TMS 402, Section 7.3.2.5 (i)
+Replace first sentence of TMS 402, Section 7.3.2.5 (i) by the following:
+When the ratio of V/FvmAmv for masonry designed in accordance with Chapter 8 or when the ratio Vu/ϕVnm for masonry design in accordance with Chapter 9 exceeds 0.15, or the hw/lw exceeds 0.5, the termination of horizontal reinforcement embedded in grout shall meet one of the following:
+2106A.1.4 TMS 402, Sections 7.4.4.1 and 7.4.5.1
+Replace TMS 402, Section 7.4.4.1 as follows and delete Section 7.4.5.1:
+7.4.4.1 Minimum reinforcement requirements for masonry walls. The total area of reinforcement in reinforced masonry walls shall not be less than 0.003 times the sectional area of the wall. Neither the horizontal nor the vertical reinforcement shall be less than one third of the total. Horizontal and vertical reinforcement shall be spaced at not more than 24 inches (610 mm) center to center. Where other than running bond is used in reinforced hollow unit masonry, the open-end type of unit shall be used with vertical reinforcement spaced a maximum of 16 inches (406 mm) on center.
+Exception: Reinforced hollow-unit masonry used for freestanding site walls or interior nonbearing nonshear wall partitions shall have horizontal reinforcing spaced not more than 4 feet (1.2 m) on center, except for locations in Seismic Design Category F, and may be grouted only in cells containing vertical and horizontal reinforcement.
+7.4.4.1.1 The minimum reinforcing shall be No. 4, except that No. 3 bars may be used for ties and stirrups. Vertical wall reinforcement shall have dowels of equal size and equally matched spacing in all footings. Reinforcement shall be continuous around wall corners and through intersections. Only reinforcement which is continuous in the wall shall be considered in computing the minimum area of reinforcement. Reinforcement with splices conforming to TMS 402 shall be considered as continuous reinforcement.
+7.4.4.1.2 Horizontal reinforcing bars in bond beams shall be provided in the top of footings, at the top of wall openings, at roof and floor levels, and at the top of parapet walls. For walls 12 inches (nominal) (305 mm) or more in thickness, horizontal and vertical reinforcement shall be equally divided into two layers, except where designed as retaining walls. Where reinforcement is added above the minimum requirements, such additional reinforcement need not be so divided.
+7.4.4.1.3 In bearing walls of every type of reinforced masonry, there shall be trim reinforcement of not less than one No. 5 bar or two No. 4 bars on all sides of, and adjacent to, every opening which exceeds 16 inches (406 mm) in either direction, and such bars shall extend not less than 48 diameters, but in no case less than 24 inches (610 mm) beyond the corners of the opening. The bars required by this paragraph shall be in addition to the minimum reinforcement required elsewhere.
+7.4.4.1.4 When the reinforcement in bearing walls is designed, placed and anchored in position as for columns, the allowable stresses shall be as for columns.
+7.4.4.1.5 Joint reinforcement shall not be used as principal reinforcement in masonry.
+Section 2107A Allowable Stress Design
+2107A.1 General
+The design of masonry structures using allowable stress design shall comply with Section 2106 and the requirements of Chapters 1 through 8 of TMS 402 except as modified by Sections 2107A.2 through 2107A.4.
+2107A.2 TMS 402, Section 6.1.7.1, Lap Splices
+As an alternative to Section 6.1.7.1, it shall be permitted to design lap splices in accordance with Section 2107A.2.1.
+2107A.2.1 Lap Splices
+The minimum length of lap splices for reinforcing bars in tension or compression, ld, shall be:
+ld = 0.002dbfs
+(Equation 21A-1)
+
+
+For SI: ld = 0.29db fs
+but not less than 12 inches (305 mm). The length of the lapped splice shall be not less than 40 bar diameters.
+In regions of moment where the design tensile stresses in the reinforcement are greater than 80 percent of Fs, the lap length of splices shall be increased not less than 50 percent of the minimum required length, but need not be greater than 72 db. Other equivalent means of stress transfer to accomplish the same 50 percent increase shall be permitted. Where epoxy coated bars are used, lap length shall be increased by 50 percent.
+2107A.3 TMS 402, Section 6.1.7, Splices of Reinforcement
+Add to Section 6.1.7 as follows:
+6.1.7 — Splices of reinforcement. Lap splices, welded splices or mechanical splices are permitted in accordance with the provisions of this section. Welding shall conform to AWS D1.4. Welded splices shall be of ASTM A706 steel reinforcement. Reinforcement larger than No. 9 (M #29) shall be spliced using mechanical connections in accordance with Section 6.1.7.2.
+2107A.4 TMS 402, Section 8.3.4.4 Walls
+Modify TMS 402, Section 8.3.4.4 as follows by adding:
+8.3.4.4.1 The minimum thickness of walls is given in this section. Stresses shall be determined on the basis of the net thickness of the masonry, with consideration for reduction, such as raked joints.
+8.3.4.4.2 The thickness of masonry walls shall be designed so that allowable maximum stresses specified in this chapter are not exceeded. Masonry walls shall not exceed the height or length-to-thickness ratio nor be less than the minimum thickness as specified in this chapter and as set forth in Table 8.3.4.4.
+TABLE 8.3.4.4-MINIMUM THICKNESS OF MASONRY WALLS1, 2
+For walls of varying thickness, use the least thickness when determining the height or length to thickness ratio.
+In determining the height or length-to-thickness ratio of a cantilevered wall, the dimension to be used shall be twice the dimension of the end of the wall from the lateral support.
+Cantilevered walls not part of a building and not carrying applied vertical loads need not meet these minimum requirements but their design must comply with stress and overturning requirements.
+8.3.4.4.3 Every pier or wall section with a width less than three times its thickness shall be designed and constructed as required for columns if such pier is a structural member. Every pier or wall section with a width between three and five times its thickness or less than one half the height of adjacent openings shall have all horizontal steel in the form of ties except that in walls 12 inches (305 mm) or less in thickness such steel may be in the form of hair-pins.
+Section 2108A Strength Design of Masonry
+2108A.1 General
+The design of masonry structures using strength design shall comply with Section 2106 and the requirements of Chapters 1 through 7 and Chapter 9 of TMS 402, except as modified by Sections 2108A.2 through 2108A.3.
+2108A.2 TMS 402, Section 6.1.6, Development
+Add a second paragraph to Section 6.1.6 as follows:
+The required development length of reinforcement need not be greater than 72 db.
+2108A.3 TMS 402, Section 6.1.6.1.1, Splices
+Add to Sections 6.1.7.2.1 and 6.1.7.3.1 as follows:
+6.1.7.3.1 — Welded splices shall not be permitted in plastic hinge zones of intermediate or special reinforced walls.
+6.1.7.2.1 — Mechanical splices shall be classified as Type 1 or 2 in accordance with Section 18.2.7.1 of ACI 318. Type 1 mechanical splices shall not be used within a plastic hinge zone or within a beam-column joint of intermediate or special reinforced masonry shear walls. Type 2 mechanical splices are permitted in any location within a member.
+Section 2109A Empirical Design of Adobe Masonry
+Not permitted by OSHPD and DSA.
+Section 2110A Glass Unit Masonry
+2110A.1 General
+Glass unit masonry construction shall comply with Chapter 14 of TMS 402 and this section.
+Masonry glass block walls or panels shall be designed for seismic forces. Stresses in glass block shall not be utilized.
+2110A.1.1 Limitations
+Solid or hollow approved glass block shall not be used in fire walls, party walls, fire barriers, fire partitions or smoke barriers, or for load-bearing construction. Such blocks shall be erected with mortar and reinforcement in metal channel type frames, structural frames, masonry or concrete recesses, embedded panel anchors as provided for both exterior and interior walls or other approved joint materials. Wood strip framing shall not be used in walls required to have a fire-resistance rating by other provisions of this code.
+Exceptions:
+Glass-block assemblies having a fire protection rating of not less than 3/4 hour shall be permitted as opening protectives in accordance with Section 716 in fire barriers, fire partitions and smoke barriers that have a required fire resistance rating of 1 hour or less and do not enclose exit stairways and ramps or exit passageways.
+Glass-block assemblies as permitted in Section 404.6, Exception 2.
+Section 2111A Masonry Fireplaces
+2111A.1 General
+The construction of masonry fireplaces, consisting of concrete or masonry, shall be in accordance with this section.
+2111A.2 Fireplace Drawings
+The construction documents shall describe in sufficient detail the location, size and construction of masonry fireplaces. The thickness and characteristics of materials and the clearances from walls, partitions and ceilings shall be indicated.
+2111A.3 Footings and Foundations
+Footings for masonry fireplaces and their chimneys shall be constructed of concrete or solid masonry not less than 12 inches (305 mm) thick and shall extend not less than 6 inches (153 mm) beyond the face of the fireplace or foundation wall on all sides. Footings shall be founded on natural undisturbed earth or engineered fill below frost depth. In areas not subjected to freezing, footings shall be not less than 12 inches (305 mm) below finished grade.
+2111A.3.1 Ash Dump Cleanout
+Cleanout openings, located within foundation walls below fireboxes, where provided, shall be equipped with ferrous metal or masonry doors and frames constructed to remain tightly closed, except when in use. Cleanouts shall be accessible and located so that ash removal will not create a hazard to combustible materials.
+2111A.4 Seismic Reinforcement
+In structures assigned to Seismic Design Category A or B, seismic reinforcement is not required. In structures assigned to Seismic Design Category C or D, masonry fireplaces shall be reinforced and anchored in accordance with Sections 2111A.4.1, 2111A.4.2 and 2111A.5. In structures assigned to Seismic Design Category E or F, masonry fireplaces shall be reinforced in accordance with the requirements of Sections 2101A through 2108A.
+2111A.4.1 Vertical Reinforcing
+For fireplaces with chimneys up to 40 inches (1016 mm) wide, four No. 4 continuous vertical bars, anchored in the foundation, shall be placed in the concrete between wythes of solid masonry or within the cells of hollow unit masonry and grouted in accordance with Section 2103.3. For fireplaces with chimneys greater than 40 inches (1016 mm) wide, two additional No. 4 vertical bars shall be provided for each additional 40 inches (1016 mm) in width or fraction thereof.
+2111A.4.2 Horizontal Reinforcing
+Vertical reinforcement shall be placed enclosed within 1/4-inch (6.4 mm) ties or other reinforcing of equivalent net cross-sectional area, spaced not to exceed 18 inches (457 mm) on center in concrete; or placed in the bed joints of unit masonry at not less than every 18 inches (457 mm) of vertical height. Two such ties shall be provided at each bend in the vertical bars.
+2111A.5 Seismic Anchorage
+Masonry fireplaces and foundations shall be anchored at each floor, ceiling or roof line more than 6 feet (1829 mm) above grade with two 3/16-inch by 1-inch (4.8 mm by 25 mm) straps embedded not less than 12 inches (305 mm) into the chimney. Straps shall be hooked around the outer bars and extend 6 inches (152 mm) beyond the bend. Each strap shall be fastened to not fewer than four floor joists with two 1/2-inch (12.7 mm) bolts.
+Exception: Seismic anchorage is not required for the following:
+In structures assigned to Seismic Design Category A or B.
+Where the masonry fireplace is constructed completely within the exterior walls.
+2111A.6 Firebox Walls
+Masonry fireboxes shall be constructed of solid masonry units, hollow masonry units grouted solid, stone or concrete. Where a lining of firebrick not less than 2 inches (51 mm) in thickness or other approved lining is provided, the minimum thickness of back and sidewalls shall each be 8 inches (203 mm) of solid masonry, including the lining. The width of joints between firebricks shall be not greater than 1/4 inch (6.4 mm). Where a lining is not provided, the total minimum thickness of back and sidewalls shall be 10 inches (254 mm) of solid masonry. Firebrick shall conform to ASTM C27 or ASTM C1261 and shall be laid with medium-duty refractory mortar conforming to ASTM C199.
+2111A.6.1 Steel Fireplace Units
+Steel fireplace units are permitted to be installed with solid masonry to form a masonry fireplace provided that they are installed according to either the requirements of their listing or the requirements of this section. Steel fireplace units incorporating a steel firebox lining shall be constructed with steel not less than 1/4 inch (6.4 mm) in thickness, and an air-circulating chamber that is ducted to the interior of the building. The firebox lining shall be encased with solid masonry to provide a total thickness at the back and sides of not less than 8 inches (203 mm), of which not less than 4 inches (102 mm) shall be of solid masonry or concrete. Circulating air ducts employed with steel fireplace units shall be constructed of metal or masonry.
+2111A.7 Firebox Dimensions
+The firebox of a concrete or masonry fireplace shall have a minimum depth of 20 inches (508 mm). The throat shall be not less than 8 inches (203 mm) above the fireplace opening. The throat opening shall be not less than 4 inches (102 mm) in depth. The cross-sectional area of the passageway above the firebox, including the throat, damper and smoke chamber, shall be not less than the cross-sectional area of the flue.
+Exception: Rumford fireplaces shall be permitted provided that the depth of the fireplace is not less than 12 inches (305 mm) and not less than one-third of the width of the fireplace opening, and the throat is not less than 12 inches (305 mm) above the lintel, and not less than 1/20 the cross-sectional area of the fireplace opening.
+2111A.8 Lintel and Throat
+Masonry over a fireplace opening shall be supported by a lintel of noncombustible material. The minimum required bearing length on each end of the fireplace opening shall be 4 inches (102 mm). The fireplace throat or damper shall be located not less than 8 inches (203 mm) above the top of the fireplace opening.
+2111A.8.1 Damper
+Masonry fireplaces shall be equipped with a ferrous metal damper located not less than 8 inches (203 mm) above the top of the fireplace opening. Dampers shall be installed in the fireplace or at the top of the flue venting the fireplace, and shall be operable from the room containing the fireplace. Damper controls shall be permitted to be located in the fireplace.
+2111A.9 Smoke Chamber Walls
+Smoke chamber walls shall be constructed of solid masonry units, hollow masonry units grouted solid, stone or concrete. The total minimum thickness of front, back and sidewalls shall be 8 inches (203 mm) of solid masonry. The inside surface shall be parged smooth with refractory mortar conforming to ASTM C199. Where a lining of firebrick not less than 2 inches (51 mm) thick, or a lining of vitrified clay not less than 5/8 inch (15.9 mm) thick, is provided, the total minimum thickness of front, back and sidewalls shall be 6 inches (152 mm) of solid masonry, including the lining. Firebrick shall conform to ASTM C1261 and shall be laid with refractory mortar conforming to ASTM C199. Vitrified clay linings shall conform to ASTM C315.
+2111A.9.1 Smoke Chamber Dimensions
+The inside height of the smoke chamber from the fireplace throat to the beginning of the flue shall be not greater than the inside width of the fireplace opening. The inside surface of the smoke chamber shall not be inclined more than 45 degrees (0.76 rad) from vertical where prefabricated smoke chamber linings are used or where the smoke chamber walls are rolled or sloped rather than corbeled. Where the inside surface of the smoke chamber is formed by corbeled masonry, the walls shall not be corbeled more than 30 degrees (0.52 rad) from vertical.
+2111A.10 Hearth and Hearth Extension
+Masonry fireplace hearths and hearth extensions shall be constructed of concrete or masonry, supported by noncombustible materials, and reinforced to carry their own weight and all imposed loads. Combustible material shall not remain against the underside of hearths or hearth extensions after construction.
+2111A.10.1 Hearth Thickness
+The minimum thickness of fireplace hearths shall be 4 inches (102 mm).
+2111A.10.2 Hearth Extension Thickness
+The minimum thickness of hearth extensions shall be 2 inches (51 mm).
+Exception: Where the bottom of the firebox opening is raised not less than 8 inches (203 mm) above the top of the hearth extension, a hearth extension of not less than 3/8-inch-thick (9.5 mm) brick, concrete, stone, tile or other approved noncombustible material is permitted.
+2111A.11 Hearth Extension Dimensions
+Hearth extensions shall extend not less than 16 inches (406 mm) in front of, and not less than 8 inches (203 mm) beyond, each side of the fireplace opening. Where the fireplace opening is 6 square feet (0.557 m2) or larger, the hearth extension shall extend not less than 20 inches (508 mm) in front of, and not less than 12 inches (305 mm) beyond, each side of the fireplace opening.
+2111A.12 Fireplace Clearance
+Any portion of a masonry fireplace located in the interior of a building or within the exterior wall of a building shall have a clearance to combustibles of not less than 2 inches (51 mm) from the front faces and sides of masonry fireplaces and not less than 4 inches (102 mm) from the back faces of masonry fireplaces. The airspace shall not be filled, except to provide fireblocking in accordance with Section 2111A.13.
+Exceptions:
+Masonry fireplaces listed and labeled for use in contact with combustibles in accordance with UL 127 and installed in accordance with the manufacturer's instructions are permitted to have combustible material in contact with their exterior surfaces.
+Where masonry fireplaces are constructed as part of masonry or concrete walls, combustible materials shall not be in contact with the masonry or concrete walls less than 12 inches (306 mm) from the inside surface of the nearest firebox lining.
+Exposed combustible trim and the edges of sheathing materials, such as wood siding, flooring and drywall, are permitted to abut the masonry fireplace sidewalls and hearth extension, in accordance with Figure 2111A.12, provided that such combustible trim or sheathing is not less than 12 inches (306 mm) from the inside surface of the nearest firebox lining.
+Exposed combustible mantels or trim is permitted to be placed directly on the masonry fireplace front surrounding the fireplace opening, provided that such combustible materials shall not be placed within 6 inches (153 mm) of a fireplace opening. Combustible material directly above and within 12 inches (305 mm) of the fireplace opening shall not project more than 1/8 inch (3.2 mm) for each 1-inch (25 mm) distance from such opening. Combustible materials located along the sides of the fireplace opening that project more than 11/2 inches (38 mm) from the face of the fireplace shall have an additional clearance equal to the projection.
+FIGURE 2111A.12—ILLUSTRATION OF EXCEPTION TO FIREPLACE CLEARANCE PROVISION
+For SI: 1 inch = 25.4 mm
+2111A.13 Fireplace Fireblocking
+All spaces between fireplaces and floors and ceilings through which fireplaces pass shall be fireblocked with noncombustible material securely fastened in place. The fireblocking of spaces between wood joists, beams or headers shall be to a depth of 1 inch (25 mm) and shall only be placed on strips of metal or metal lath laid across the spaces between combustible material and the chimney.
+2111A.14 Exterior Air
+Factory-built or masonry fireplaces covered in this section shall be equipped with an exterior air supply to ensure proper fuel combustion unless the room is mechanically ventilated and controlled so that the indoor pressure is neutral or positive.
+2111A.14.1 Factory-Built Fireplaces
+Exterior combustion air ducts for factory-built fireplaces shall be listed components of the fireplace, and installed according to the fireplace manufacturer's instructions.
+2111A.14.2 Masonry Fireplaces
+Listed combustion air ducts for masonry fireplaces shall be installed according to the terms of their listing and manufacturer's instructions.
+2111A.14.3 Exterior Air Intake
+The exterior air intake shall be capable of providing all combustion air from the exterior of the dwelling. The exterior air intake shall not be located within a garage, attic, basement or crawl space of the dwelling nor shall the air intake be located at an elevation higher than the firebox. The exterior air intake shall be covered with a corrosion-resistant screen of 1/4-inch (6.4 mm) mesh.
+2111A.14.4 Clearance
+Unlisted combustion air ducts shall be installed with a minimum 1-inch (25 mm) clearance to combustibles for all parts of the duct within 5 feet (1524 mm) of the duct outlet.
+2111A.14.5 Passageway
+The combustion air passageway shall be not less than 6 square inches (3870 mm2) and not more than 55 square inches (0.035 m2), except that combustion air systems for listed fireplaces or for fireplaces tested for emissions shall be constructed according to the fireplace manufacturer's instructions.
+2111A.14.6 Outlet
+The exterior air outlet is permitted to be located in the back or sides of the firebox chamber or within 24 inches (610 mm) of the firebox opening on or near the floor. The outlet shall be closable and designed to prevent burning material from dropping into concealed combustible spaces.
+Section 2112A Masonry Heaters
+2112A.1 Definition
+A masonry heater is a heating appliance constructed of concrete or solid masonry, hereinafter referred to as "masonry," which is designed to absorb and store heat from a solid fuel fire built in the firebox by routing the exhaust gases through internal heat exchange channels in which the flow path downstream of the firebox includes flow in either a horizontal or downward direction before entering the chimney and which delivers heat by radiation from the masonry surface of the heater.
+2112A.2 Installation
+Masonry heaters shall be installed in accordance with this section and comply with one of the following:
+Masonry heaters shall comply with the requirements of ASTM E1602.
+Masonry heaters shall be listed and labeled in accordance with UL 1482 or EN 15250 and installed in accordance with the manufacturer's instructions.
+2112A.3 Footings and Foundation
+The firebox floor of a masonry heater shall be a minimum thickness of 4 inches (102 mm) of noncombustible material and be supported on a noncombustible footing and foundation in accordance with Section 2113A.2.
+2112A.4 Seismic Reinforcing
+In structures assigned to Seismic Design Category D, E or F, masonry heaters shall be anchored to the masonry foundation in accordance with Section 2113A.3. Seismic reinforcing shall not be required within the body of a masonry heater with a height that is equal to or less than 3.5 times its body width and where the masonry chimney serving the heater is not supported by the body of the heater. Where the masonry chimney shares a common wall with the facing of the masonry heater, the chimney portion of the structure shall be reinforced in accordance with Section 2113A.
+2112A.5 Masonry Heater Clearance
+Combustible materials shall not be placed within 36 inches (914 mm) or the distance of the allowed reduction method from the outside surface of a masonry heater in accordance with NFPA 211, Section 12.6, and the required space between the heater and combustible material shall be fully vented to permit the free flow of air around all heater surfaces.
+Exceptions:
+Where the masonry heater wall thickness is not less than 8 inches (203 mm) of solid masonry and the wall thickness of the heat exchange channels is not less than 5 inches (127 mm) of solid masonry, combustible materials shall not be placed within 4 inches (102 mm) of the outside surface of a masonry heater. A clearance of not less than 8 inches (203 mm) shall be provided between the gas-tight capping slab of the heater and a combustible ceiling.
+Masonry heaters listed and labeled in accordance with UL 1482 or EN 15250 and installed in accordance with the manufacturer's instructions.
+Section 2113A Masonry Chimneys
+2113A.1 General
+The construction of masonry chimneys consisting of solid masonry units, hollow masonry units grouted solid, stone or concrete shall be in accordance with this section.
+2113A.2 Footings and Foundations
+Footings for masonry chimneys shall be constructed of concrete or solid masonry not less than 12 inches (305 mm) thick and shall extend not less than 6 inches (152 mm) beyond the face of the foundation or support wall on all sides. Footings shall be founded on natural undisturbed earth or engineered fill below frost depth. In areas not subjected to freezing, footings shall be not less than 12 inches (305 mm) below finished grade.
+2113A.3 Seismic Reinforcement
+In structures assigned to Seismic Design Category A or B, seismic reinforcement is not required. In structures assigned to Seismic Design Category C or D, masonry chimneys shall be reinforced and anchored in accordance with Sections 2113A.3.1, 2113A.3.2 and 2113A.4. In structures assigned to Seismic Design Category E or F, masonry chimneys shall be reinforced in accordance with the requirements of Sections 2101 through 2108 and anchored in accordance with Section 2113A.4.
+2113A.3.1 Vertical Reinforcement
+For chimneys up to 40 inches (1016 mm) wide, four No. 4 continuous vertical bars anchored in the foundation shall be placed in the concrete between wythes of solid masonry or within the cells of hollow unit masonry and grouted in accordance with Section 2103A.3. Grout shall be prevented from bonding with the flue liner so that the flue liner is free to move with thermal expansion. For chimneys greater than 40 inches (1016 mm) wide, two additional No. 4 vertical bars shall be provided for each additional 40 inches (1016 mm) in width or fraction thereof.
+2113A.3.2 Horizontal Reinforcement
+Vertical reinforcement shall be placed enclosed within 1/4-inch (6.4 mm) ties, or other reinforcing of equivalent net cross-sectional area, spaced not to exceed 18 inches (457 mm) on center in concrete, or placed in the bed joints of unit masonry, at not less than every 18 inches (457 mm) of vertical height. Two such ties shall be provided at each bend in the vertical bars.
+2113A.4 Seismic Anchorage
+Masonry chimneys and foundations shall be anchored at each floor, ceiling or roof line more than 6 feet (1829 mm) above grade with two 3/16-inch by 1-inch (4.8 mm by 25 mm) straps embedded not less than 12 inches (305 mm) into the chimney. Straps shall be hooked around the outer bars and extend 6 inches (152 mm) beyond the bend. Each strap shall be fastened to not less than four floor joists with two 1/2-inch (12.7 mm) bolts.
+Exception: Seismic anchorage is not required for the following:
+In structures assigned to Seismic Design Category A or B.
+Where the masonry fireplace is constructed completely within the exterior walls.
+2113A.5 Corbeling
+Masonry chimneys shall not be corbeled more than half of the chimney's wall thickness from a wall or foundation, nor shall a chimney be corbeled from a wall or foundation that is less than 12 inches (305 mm) in thickness unless it projects equally on each side of the wall, except that on the second story of a two-story dwelling, corbeling of chimneys on the exterior of the enclosing walls is permitted to equal the wall thickness. The projection of a single course shall not exceed one-half the unit height or one-third of the unit bed depth, whichever is less.
+2113A.6 Changes in Dimension
+The chimney wall or chimney flue lining shall not change in size or shape within 6 inches (152 mm) above or below where the chimney passes through floor components, ceiling components or roof components.
+2113A.7 Offsets
+Where a masonry chimney is constructed with a fireclay flue liner surrounded by one wythe of masonry, the maximum offset shall be such that the centerline of the flue above the offset does not extend beyond the center of the chimney wall below the offset. Where the chimney offset is supported by masonry below the offset in an approved manner, the maximum offset limitations shall not apply. Each individual corbeled masonry course of the offset shall not exceed the projection limitations specified in Section 2113A.5.
+2113A.8 Additional Load
+Chimneys shall not support loads other than their own weight unless they are designed and constructed to support the additional load. Masonry chimneys are permitted to be constructed as part of the masonry walls or concrete walls of the building.
+2113A.9 Termination
+Chimneys shall extend not less than 2 feet (610 mm) higher than any portion of the building within 10 feet (3048 mm), but shall be not less than 3 feet (914 mm) above the highest point where the chimney passes through the roof.
+2113A.9.1 Chimney Caps
+Masonry chimneys shall have a concrete, metal or stone cap, sloped to shed water, a drip edge and a caulked bond break around any flue liners in accordance with ASTM C1283.
+2113A.9.2 Spark Arrestors
+[SFM] All chimneys attached to any appliance or fireplace that burns solid fuel shall be equipped with an approved spark arrester. The spark arrestor shall meet all of the following requirements:
+The net free area of the spark arrestor shall not be less than four times the net free area of the outlet of the chimney.
+The spark arrestor screen shall have heat and corrosion resistance equivalent to 12-gage wire, 19-gage galvanized steel or 24-gage stainless steel.
+Openings shall not permit the passage of spheres having a diameter greater than 1/2 inch (13 mm) nor block the passage of spheres having a diameter less than 3/8 inch (9.5 mm).
+The spark arrestor shall be accessible for cleaning and the screen or chimney cap shall be removable to allow for cleaning of the chimney flue.
+2113A.9.3 Rain Caps
+Where a masonry or metal rain cap is installed on a masonry chimney, the net free area under the cap shall be not less than four times the net free area of the outlet of the chimney flue it serves.
+2113A.10 Wall Thickness
+Masonry chimney walls shall be constructed of concrete, solid masonry units or hollow masonry units grouted solid with not less than 4 inches (102 mm) nominal thickness.
+2113A.10.1 Masonry Veneer Chimneys
+Where masonry is used as veneer for a framed chimney, through flashing and weep holes shall be provided as required by Chapter 14.
+2113A.11 Flue Lining (Material)
+Masonry chimneys shall be lined. The lining material shall be appropriate for the type of appliance connected, according to the terms of the appliance listing and the manufacturer's instructions.
+2113A.11.1 Residential-Type Appliances (General)
+Flue lining systems shall comply with one of the following:
+Clay flue lining complying with the requirements of ASTM C315.
+Listed chimney lining systems complying with UL 1777.
+Factory-built chimneys or chimney units listed for installation within masonry chimneys.
+Other approved materials that will resist corrosion, erosion, softening or cracking from flue gases and condensate at temperatures up to 1,800°F (982°C).
+2113A.11.1.1 Flue Linings for Specific Appliances
+Flue linings other than those covered in Section 2113A.11.1 intended for use with specific appliances shall comply with Sections 2113A.11.1.2 through 2113A.11.1.4, 2113A.11.2 and 2113A.11.3.
+2113A.11.1.2 Gas Appliances
+Flue lining systems for gas appliances shall be in accordance with the California Mechanical Code.
+2113A.11.1.3 Pellet Fuel-Burning Appliances
+Flue lining and vent systems for use in masonry chimneys with pellet fuel-burning appliances shall be limited to flue lining systems complying with Section 2113A.11.1 and pellet vents listed for installation within masonry chimneys (see Section 2113A.11.1.5 for marking).
+2113A.11.1.4 Oil-Fired Appliances Approved for Use With L-Vent
+Flue lining and vent systems for use in masonry chimneys with oil-fired appliances approved for use with Type L vent shall be limited to flue lining systems complying with Section 2113A.11.1 and listed chimney liners complying with UL 641 (see Section 2113A.11.1.5 for marking).
+2113A.11.1.5 Notice of Usage
+When a flue is relined with a material not complying with Section 2113A.11.1, the chimney shall be plainly and permanently identified by a label attached to a wall, ceiling or other conspicuous location adjacent to where the connector enters the chimney. The label shall include the following message or equivalent language: "This chimney is for use only with (type or category of appliance) that burns (type of fuel). Do not connect other types of appliances."
+2113A.11.2 Concrete and Masonry Chimneys for Medium-Heat Appliances
+Concrete and masonry chimneys for medium-heat appliances shall comply with Sections 2113A.11.2.1 through 2113A.11.2.5.
+2113A.11.2.1 Construction
+Chimneys for medium-heat appliances shall be constructed of solid masonry units or of concrete with walls not less than 8 inches (203 mm) thick, or with stone masonry not less than 12 inches (305 mm) thick.
+2113A.11.2.2 Lining
+Concrete and masonry chimneys shall be lined with an approved medium-duty refractory brick not less than 41/2 inches (114 mm) thick laid on the 41/2-inch bed (114 mm) in an approved medium-duty refractory mortar. The lining shall start 2 feet (610 mm) or more below the lowest chimney connector entrance. Chimneys terminating 25 feet (7620 mm) or less above a chimney connector entrance shall be lined to the top.
+2113A.11.2.3 Multiple Passageway
+Concrete and masonry chimneys containing more than one passageway shall have the liners separated by a minimum 4-inch-thick (102 mm) concrete or solid masonry wall.
+2113A.11.2.4 Termination Height
+Concrete and masonry chimneys for medium-heat appliances shall extend not less than 10 feet (3048 mm) higher than any portion of any building within 25 feet (7620 mm).
+2113A.11.2.5 Clearance
+A minimum clearance of 4 inches (102 mm) shall be provided between the exterior surfaces of a concrete or masonry chimney for medium-heat appliances and combustible material.
+2113A.11.3 Concrete and Masonry Chimneys for High-Heat Appliances
+Concrete and masonry chimneys for high-heat appliances shall comply with 2113.11.3.1 through 2113.11.3.4.
+2113A.11.3.1 Construction
+Chimneys for high-heat appliances shall be constructed with double walls of solid masonry units or of concrete, each wall to be not less than 8 inches (203 mm) thick with a minimum airspace of 2 inches (51 mm) between the walls.
+2113A.11.3.2 Lining
+The inside of the interior wall shall be lined with an approved high-duty refractory brick, not less than 41/2 inches (114 mm) thick laid on the 41/2-inch bed (114 mm) in an approved high-duty refractory mortar. The lining shall start at the base of the chimney and extend continuously to the top.
+2113A.11.3.3 Termination Height
+Concrete and masonry chimneys for high-heat appliances shall extend not less than 20 feet (6096 mm) higher than any portion of any building within 50 feet (15 240 mm).
+2113A.11.3.4 Clearance
+Concrete and masonry chimneys for high-heat appliances shall have approved clearance from buildings and structures to prevent overheating combustible materials, permit inspection and maintenance operations on the chimney and prevent danger of burns to persons.
+2113A.12 Clay Flue Lining (Installation)
+Clay flue liners shall be installed in accordance with ASTM C1283 and extend from a point not less than 8 inches (203 mm) below the lowest inlet or, in the case of fireplaces, from the top of the smoke chamber to a point above the enclosing walls. The lining shall be carried up vertically, with a maximum slope not greater than 30 degrees (0.52 rad) from the vertical.
+Clay flue liners shall be laid in medium-duty nonwater-soluble refractory mortar conforming to ASTM C199 with tight mortar joints left smooth on the inside and installed to maintain an airspace or insulation not to exceed the thickness of the flue liner separating the flue liners from the interior face of the chimney masonry walls. Flue lining shall be supported on all sides. Only enough mortar shall be placed to make the joint and hold the liners in position.
+2113A.13 Additional Requirements
+2113A.13.1 Listed Materials
+Listed materials used as flue linings shall be installed in accordance with the terms of their listings and the manufacturer's instructions.
+2113A.13.2 Space Around Lining
+The space surrounding a chimney lining system or vent installed within a masonry chimney shall not be used to vent any other appliance.
+Exception: This shall not prevent the installation of a separate flue lining in accordance with the manufacturer's instructions.
+2113A.14 Multiple Flues
+Where two or more flues are located in the same chimney, masonry wythes shall be built between adjacent flue linings. The masonry wythes shall be not less than 4 inches (102 mm) thick and bonded into the walls of the chimney.
+Exception: Where venting only one appliance, two flues are permitted to adjoin each other in the same chimney with only the flue lining separation between them. The joints of the adjacent flue linings shall be staggered not less than 4 inches (102 mm).
+2113A.15 Flue Area (Appliance)
+Chimney flues shall not be smaller in area than the area of the connector from the appliance. Chimney flues connected to more than one appliance shall be not less than the area of the largest connector plus 50 percent of the areas of additional chimney connectors.
+Exceptions:
+Chimney flues serving oil-fired appliances sized in accordance with NFPA 31.
+Chimney flues serving gas-fired appliances sized in accordance with the California Mechanical Code.
+2113A.16 Flue Area (Masonry Fireplace)
+Flue sizing for chimneys serving fireplaces shall be in accordance with Section 2113A.16.1 or 2113A.16.2.
+FIGURE 2113A.16—FLUE SIZES FOR MASONRY CHIMNEYS
+Note: 1 inch = 25.4 mm, 1 square inch = 645 mm2.
+TABLE 2113A.16(1)—NET CROSS-SECTIONAL AREA OF ROUND FLUE SIZESa
+For SI: 1 inch = 25.4 mm, 1 square inch = 645.16 mm2.
+Flue sizes are based on ASTM C315.
+TABLE 2113A.16(2)—NET CROSS-SECTIONAL AREA OF SQUARE AND RECTANGULAR FLUE SIZES
+For SI: 1 inch = 25.4 mm, 1 square inch = 645.16 mm2.
+2113A.16.1 Minimum Area
+Round chimney flues shall have a minimum net cross-sectional area of not less than 1/12 of the fireplace opening. Square chimney flues shall have a minimum net cross-sectional area of not less than 1/10 of the fireplace opening. Rectangular chimney flues with an aspect ratio less than 2 to 1 shall have a minimum net cross-sectional area of not less than 1/10 of the fireplace opening. Rectangular chimney flues with an aspect ratio of 2 to 1 or more shall have a minimum net cross-sectional area of not less than 1/8 of the fireplace opening.
+2113A.16.2 Determination of Minimum Area
+The minimum net cross-sectional area of the flue shall be determined in accordance with Figure 2113A.16. A flue size providing not less than the equivalent net cross-sectional area shall be used. Cross-sectional areas of clay flue linings are as provided in Tables 2113A.16(1) and 2113A.16(2) or as provided by the manufacturer or as measured in the field. The height of the chimney shall be measured from the firebox floor to the top of the chimney flue.
+2113A.17 Inlet
+Inlets to masonry chimneys shall enter from the side. Inlets shall have a thimble of fireclay, rigid refractory material or metal that will prevent the connector from pulling out of the inlet or from extending beyond the wall of the liner.
+2113A.18 Masonry Chimney Cleanout Openings
+Cleanout openings shall be provided within 6 inches (152 mm) of the base of each flue within every masonry chimney. The upper edge of the cleanout shall be located not less than 6 inches (152 mm) below the lowest chimney inlet opening. The height of the opening shall be not less than 6 inches (152 mm). The cleanout shall be provided with a noncombustible cover.
+Exception: Chimney flues serving masonry fireplaces, where cleaning is possible through the fireplace opening.
+2113A.19 Chimney Clearances
+Any portion of a masonry chimney located in the interior of the building or within the exterior wall of the building shall have a minimum airspace clearance to combustibles of 2 inches (51 mm). Chimneys located entirely outside the exterior walls of the building, including chimneys that pass through the soffit or cornice, shall have a minimum airspace clearance of 1 inch (25 mm). The airspace shall not be filled, except to provide fireblocking in accordance with Section 2113A.20.
+Exceptions:
+Masonry chimneys equipped with a chimney lining system listed and labeled for use in chimneys in contact with combustibles in accordance with UL 1777, and installed in accordance with the manufacturer's instructions, are permitted to have combustible material in contact with their exterior surfaces.
+Where masonry chimneys are constructed as part of masonry or concrete walls, combustible materials shall not be in contact with the masonry or concrete wall less than 12 inches (305 mm) from the inside surface of the nearest flue lining.
+Exposed combustible trim and the edges of sheathing materials, such as wood siding, are permitted to abut the masonry chimney sidewalls, in accordance with Figure 2113A.19, provided that such combustible trim or sheathing is not less than 12 inches (305 mm) from the inside surface of the nearest flue lining. Combustible material and trim shall not overlap the corners of the chimney by more than 1 inch (25 mm).
+FIGURE 2113A.19—ILLUSTRATION OF EXCEPTION THREE CHIMNEY CLEARANCE PROVISION
+2113A.20 Chimney Fireblocking
+All spaces between chimneys and floors and ceilings through which chimneys pass shall be fireblocked with noncombustible material securely fastened in place. The fireblocking of spaces between wood joists, beams or headers shall be self-supporting or be placed on strips of metal or metal lath laid across the spaces between combustible material and the chimney.
+Section 2114A Dry-Stack Masonry
+2114A.1 General
+The design of dry-stack masonry structures shall comply with the requirements of Chapters 1 through 8 of TMS 402 except as modified by Sections 2114A.2 through 2114A.5.
+2114A.2 Limitations
+Dry-stack masonry shall be prohibited in Risk Category IV structures.
+2114A.3 Materials
+Concrete masonry units complying with ASTM C90 shall be used.
+2114A.4 Strength
+Dry-stack masonry shall be of adequate strength and proportions to support all superimposed loads without exceeding the allowable stresses listed in Table 2114A.4. Allowable stresses not specified in Table 2114A.4 shall comply with the requirements of Chapter 8 of TMS 402.
+TABLE 2114A.4—GROSS CROSS-SECTIONAL AREA ALLOWABLE STRESS FOR DRY-STACK MASONRY
+For SI: 1 pound per square inch = 0.006895 MPa.
+2114A.5 Construction
+Construction of dry-stack masonry shall comply with ASTM C946.
