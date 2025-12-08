@@ -13,11 +13,11 @@ ${l}
 REFERENCE BUILDING CODES (Selected Document: ${e.name}):
 ${a}`}catch(e){console.error("Error reading selected document:",e),d+=`
 
-(Error reading selected document. Using general knowledge.)`}}else{console.log("Using Vector Search for relevant codes...");try{let r="";if("application/pdf"===e.type){let t=await e.arrayBuffer();r=await f(t,[],5e4,!0)}else r=`${a} building in ${t}. Common code violations.`;let l=r.match(/.{1,1000}/g)||[r],n=new Set;for(let e of l.slice(0,20))(await g(e,2,s)).forEach(e=>n.add(`[Source: ${e.source}]
-${e.text}`));if(n.size>0)d+=`
+(Error reading selected document. Using general knowledge.)`}}else{console.log("Using Vector Search for relevant codes...");try{let r="";if("application/pdf"===e.type){let t=await e.arrayBuffer();r=await f(t,[],5e4,!0)}else r=`${a} building in ${t}. Common code violations.`;let l=r.match(/.{1,1000}/g)||[r],n=new Set;for(let e of l.slice(0,10))(await g(e,1,s)).forEach(e=>n.add(`[Source: ${e.source}]
+${e.text}`));if(n.size>0){let e=Array.from(n).join("\n\n");e.length>15e3&&(e=e.substring(0,15e3)+"\n...(truncated for length)..."),d+=`
 
 REFERENCE BUILDING CODES (AI Selected):
-${Array.from(n).join("\n\n")}`;else if(console.log("Vector search returned no results, falling back to file fetch."),s){let e=s.state?await y(`knowledge-base/State/${s.state}`,u):"",t=s.county?await y(`knowledge-base/County/${s.county}`,u):"",a=s.city?await y(`knowledge-base/City/${s.city}`,u):"";(e||t||a)&&(d+=`
+${e}`}else if(console.log("Vector search returned no results, falling back to file fetch."),s){let e=s.state?await y(`knowledge-base/State/${s.state}`,u):"",t=s.county?await y(`knowledge-base/County/${s.county}`,u):"",a=s.city?await y(`knowledge-base/City/${s.city}`,u):"";(e||t||a)&&(d+=`
 
 REFERENCE BUILDING CODES:
 ${e}
